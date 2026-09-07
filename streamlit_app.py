@@ -37,6 +37,8 @@ STATUS_STYLE = {
     "pending": {"color": GOLD, "label": "Pending"},
 }
 
+STARTING_BANKROLL = 500.0
+
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 
@@ -101,6 +103,15 @@ _CSS = "".join([
     f".wm-footer {{ background: {NAVY}; color: {PARCHMENT}; font-size: 0.75rem; "
     "padding: 0.9rem 1.1rem; margin-top: 1.4rem; line-height: 1.5; }",
     f".wm-footer b {{ color: {GOLD_SOFT}; }}",
+    ".wm-result { margin-top: 0.6rem; padding-top: 0.5rem; border-top: 1px dashed "
+    f"{HAIRLINE}; font-size: 0.8rem; font-variant-numeric: tabular-nums; }}",
+    f".wm-result .fs {{ color: {GREY}; }}",
+    ".wm-result .pnl { font-weight: 700; }",
+    f".wm-tracker {{ display: flex; gap: 2rem; flex-wrap: wrap; padding: 0.9rem 1.1rem; "
+    f"background: {NAVY}; color: {PARCHMENT}; margin: 0.9rem 0 1.3rem 0; "
+    "font-variant-numeric: tabular-nums; }",
+    f".wm-tracker .num {{ font-family: 'Fraunces', serif; font-weight: 700; font-size: 1.3rem; color: {GOLD_SOFT}; }}",
+    f".wm-tracker .lbl {{ font-size: 0.72rem; color: {PARCHMENT_DARK}; margin-top: 0.1rem; }}",
 ])
 
 html(
@@ -143,9 +154,49 @@ html(
     """
 )
 
+all_settled = [
+    m
+    for c in cards.values()
+    for m in c["matches"]
+    if m.get("status") == "primary" and m.get("result")
+]
+season_wins = sum(1 for m in all_settled if m["result"]["outcome"] == "won")
+season_losses = sum(1 for m in all_settled if m["result"]["outcome"] == "lost")
+season_pnl = sum(m["result"].get("pnl", 0) for m in all_settled)
+season_staked = 0
+for m in all_settled:
+    for token in m["stake"].replace("$", " $").split():
+        if token.startswith("$"):
+            try:
+                season_staked += float(token[1:])
+            except ValueError:
+                pass
+            break
+season_bankroll = STARTING_BANKROLL + season_pnl
+season_roi = (season_pnl / season_staked * 100) if season_staked else 0
+
+if all_settled:
+    html(
+        f"""
+        <div class="wm-tracker">
+          <div><div class="num">{season_wins}W\u2013{season_losses}L</div><div class="lbl">Season record</div></div>
+          <div><div class="num">{'+' if season_pnl >= 0 else ''}{money(season_pnl)}</div><div class="lbl">Net profit</div></div>
+          <div><div class="num">{money(season_bankroll)}</div><div class="lbl">Bankroll (from $500)</div></div>
+          <div><div class="num">{'+' if season_roi >= 0 else ''}{season_roi:.1f}%</div><div class="lbl">ROI on staked</div></div>
+        </div>
+        """
+    )
+
 if card.get("lesson"):
     st.markdown(
         f'<div class="wm-lesson"><b>Lesson from yesterday.</b> {card["lesson"]}</div>',
+        unsafe_allow_html=True,
+    )
+
+if card.get("no_fixture_today"):
+    st.markdown(
+        f'<div class="wm-box" style="border-left:3px solid {GREY}; background:{PARCHMENT_DARK}; color:{INK};">'
+        f'<b>No fixture today.</b> {card["no_fixture_today"]}</div>',
         unsafe_allow_html=True,
     )
 
@@ -169,6 +220,21 @@ for m in matches:
     else:
         odds_html = f'<div style="font-size:0.78rem; color:{GREY}; font-style:italic;">Awaiting live odds</div>'
 
+    result_html = ""
+    if m.get("result"):
+        r = m["result"]
+        outcome_color = {"won": GREEN, "lost": RED}.get(r["outcome"], GREY)
+        outcome_label = {"won": "WON", "lost": "LOST", "void": "VOID"}.get(r["outcome"], "")
+        pnl = r.get("pnl", 0)
+        pnl_str = f"{'+' if pnl >= 0 else ''}{money(pnl)}" if m["status"] == "primary" else ""
+        result_html = (
+            '<div class="wm-result">'
+            f'<span class="fs">FT {r["score"]}</span> &nbsp; '
+            f'<span style="color:{outcome_color};">{outcome_label}</span>'
+            + (f' <span class="pnl" style="color:{outcome_color};">{pnl_str}</span>' if pnl_str else "")
+            + "</div>"
+        )
+
     html(
         f"""
         <div class="{row_class}">
@@ -183,6 +249,7 @@ for m in matches:
             <div class="wm-bet" style="color:{status['color']};">{m['bet_headline']}</div>
             <div class="wm-stake">{m['stake']}</div>
             <div class="wm-odds">{odds_html}</div>
+            {result_html}
           </div>
         </div>
         """
