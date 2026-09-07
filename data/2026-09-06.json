@@ -3,105 +3,17 @@
   "card_number": 1,
   "season_label": "2026-27 European Season",
   "leagues_covered": ["EPL", "La Liga", "Serie A", "Bundesliga", "Belgian Pro League", "Primeira Liga"],
-  "lesson": "Big names are fragile before form settles \u2014 Real Madrid lost at Betis, Atl\u00e9tico were beaten 3-0 at Bilbao, and Leipzig fell at Bremen. Early season punishes anyone paying short prices on reputation alone (Rule 6).",
+  "lesson": "Big names are fragile before form settles — Real Madrid lost at Betis, Atlético were beaten 3-0 at Bilbao, and Leipzig fell at Bremen. Early season punishes anyone paying short prices on reputation alone (Rule 6).",
   "matches": [
-    {
-      "number": 1,
-      "league": "EPL",
-      "time": "4:30 PM",
-      "match": "Arsenal vs Chelsea",
-      "status": "primary",
-      "featured": true,
-      "bet_headline": "Arsenal win",
-      "stake": "$15 @ ~1.80*",
-      "odds": {"home": "1.80*", "draw": "3.90*", "away": "4.80*"},
-      "analysis": "London derby, so tread carefully (Rule 6) \u2014 but the edge case is real. Arsenal are 3W-0D-0L without conceding from open play and ground out a road win at Villa on Monday. Chelsea won a 4-3 shootout vs Brighton that exposed a defence conceding in every match. Model rates Arsenal 56% at home; Emirates form plus Chelsea's leaky back line justifies the price."
-    },
-    {
-      "number": 2,
-      "league": "Bundesliga",
-      "time": "4:30 PM",
-      "match": "Eintracht Frankfurt vs FC Augsburg",
-      "status": "primary",
-      "featured": false,
-      "bet_headline": "Frankfurt win",
-      "stake": "$15 @ ~1.90*",
-      "odds": {"home": "1.90*", "draw": "4.40*", "away": "4.00*"},
-      "analysis": "Frankfurt at home rate 52.5% on the model. Augsburg's 3-0 over Schalke flattered them against a promoted side; Frankfurt's squad depth is a tier above. This Bundesliga weekend has been a goal avalanche \u2014 if the win price shortens below 1.75 on the exchange, Over 2.5 goals is the approved fallback."
-    },
-    {
-      "number": 3,
-      "league": "Serie A",
-      "time": "5:00 PM",
-      "match": "Bologna vs Sassuolo",
-      "status": "primary",
-      "featured": false,
-      "bet_headline": "Bologna win",
-      "stake": "$15 @ ~1.95*",
-      "odds": {"home": "1.95*", "draw": "3.60*", "away": "4.30*"},
-      "analysis": "Value pick of the card. Bologna's only defeat came 0-1 away at Atalanta \u2014 no disgrace. Sassuolo remain defensively soft against top-half sides. Model has Bologna at 50.7%, and anything at 1.90+ on the exchange clears the value threshold: home side, superior squad, opponent porous."
-    },
-    {
-      "number": 4,
-      "league": "La Liga",
-      "time": "5:30 PM",
-      "match": "Deportivo Alav\u00e9s vs Osasuna",
-      "status": "skip",
-      "featured": false,
-      "bet_headline": "No bet",
-      "stake": "Rule 12 discipline",
-      "odds": {"home": "2.35*", "draw": "3.30*", "away": "3.65*"},
-      "analysis": "Genuine three-way coin flip (42% / 31% / 27%). Two defensively organised, low-scoring sides three games into a season. No articulable edge on any outcome \u2014 and no bet is a valid decision."
-    },
-    {
-      "number": 5,
-      "league": "La Liga",
-      "time": "5:30 PM",
-      "match": "M\u00e1laga CF vs Levante",
-      "status": "primary",
-      "featured": false,
-      "bet_headline": "Over 2.5 goals",
-      "stake": "$15 @ ~1.90*",
-      "odds": {"home": "2.55*", "draw": "3.55*", "away": "3.05*"},
-      "analysis": "Neither newly-promoted M\u00e1laga nor Levante can defend right now: M\u00e1laga shipped four at the Bernab\u00e9u, while Levante's matches have already produced a 5-2 and a 7-goal scoreline. The 1X2 is a coin flip we refuse to call, but combined defensive frailty makes the goals line the clean single-conviction angle. Confirm the exchange price is 1.80+ before staking."
-    },
-    {
-      "number": 6,
-      "league": "Serie A",
-      "time": "7:45 PM",
-      "match": "Juventus vs AC Milan",
-      "status": "danger",
-      "featured": false,
-      "bet_headline": "Avoid \u2014 prestige pricing",
-      "stake": "No straight win bet",
-      "odds": {"home": "2.20*", "draw": "3.40*", "away": "3.90*"},
-      "analysis": "The classic Rule 6 trap. Biggest fixture in Italy this weekend, saturated with analysis, priced with maximum efficiency. Juve rate only 45% at home \u2014 nobody clears 50%. If involved at all, Juventus Double Chance (1X) is the only sanctioned angle, at reduced stake."
-    },
-    {
-      "number": 7,
-      "league": "La Liga",
-      "time": "8:00 PM",
-      "match": "Espanyol vs Sevilla",
-      "status": "skip",
-      "featured": false,
-      "bet_headline": "No bet",
-      "stake": "Rule 12 discipline",
-      "odds": {"home": "2.40*", "draw": "3.45*", "away": "3.40*"},
-      "analysis": "42% / 29% / 29% \u2014 another fixture where the market and the model agree it is too close to call. Two mid-table sides with no meaningful form separation after three matchdays. Pass."
-    },
-    {
-      "number": 8,
-      "league": "Belgian Pro League",
-      "time": "TBC",
-      "match": "Anderlecht vs Genk",
-      "status": "pending",
-      "featured": false,
-      "bet_headline": "Pending live odds",
-      "stake": "Lean: Anderlecht 1X",
-      "odds": null,
-      "analysis": "Belgium's headline Sunday clash (alongside Cercle Brugge vs Gent, Kortrijk vs Zulte Waregem, Beveren vs OH Leuven). No Belgian selection is published without a live Betfair exchange screenshot \u2014 liquidity in this league is thin and stale prices are dangerous (Rule 11)."
-    }
+    {"number": 1, "league": "EPL", "time": "4:30 PM", "match": "Arsenal vs Chelsea", "status": "primary", "featured": true, "bet_headline": "Arsenal win", "stake": "$15 @ ~1.80*", "odds": {"home": "1.80*", "draw": "3.90*", "away": "4.80*"}, "analysis": "London derby, so tread carefully (Rule 6) — but the edge case is real. Arsenal are 3W-0D-0L without conceding from open play and ground out a road win at Villa on Monday. Chelsea won a 4-3 shootout vs Brighton that exposed a defence conceding in every match. Model rates Arsenal 56% at home; Emirates form plus Chelsea's leaky back line justifies the price.", "result": {"score": "2-1", "outcome": "won", "pnl": 12.0}},
+    {"number": 2, "league": "Bundesliga", "time": "4:30 PM", "match": "Eintracht Frankfurt vs FC Augsburg", "status": "primary", "featured": false, "bet_headline": "Frankfurt win", "stake": "$15 @ ~1.90*", "odds": {"home": "1.90*", "draw": "4.40*", "away": "4.00*"}, "analysis": "Frankfurt at home rate 52.5% on the model. Augsburg's 3-0 over Schalke flattered them against a promoted side; Frankfurt's squad depth is a tier above. This Bundesliga weekend has been a goal avalanche — if the win price shortens below 1.75 on the exchange, Over 2.5 goals is the approved fallback.", "result": {"score": "1-4", "outcome": "lost", "pnl": -15.0}},
+    {"number": 3, "league": "Serie A", "time": "5:00 PM", "match": "Bologna vs Sassuolo", "status": "primary", "featured": false, "bet_headline": "Bologna win", "stake": "$15 @ ~1.95*", "odds": {"home": "1.95*", "draw": "3.60*", "away": "4.30*"}, "analysis": "Value pick of the card. Bologna's only defeat came 0-1 away at Atalanta — no disgrace. Sassuolo remain defensively soft against top-half sides. Model has Bologna at 50.7%, and anything at 1.90+ on the exchange clears the value threshold: home side, superior squad, opponent porous.", "result": {"score": "2-2", "outcome": "lost", "pnl": -15.0}},
+    {"number": 4, "league": "La Liga", "time": "5:30 PM", "match": "Deportivo Alavés vs Osasuna", "status": "skip", "featured": false, "bet_headline": "No bet", "stake": "Rule 12 discipline", "odds": {"home": "2.35*", "draw": "3.30*", "away": "3.65*"}, "analysis": "Genuine three-way coin flip (42% / 31% / 27%). Two defensively organised, low-scoring sides three games into a season. No articulable edge on any outcome — and no bet is a valid decision."},
+    {"number": 5, "league": "La Liga", "time": "5:30 PM", "match": "Málaga CF vs Levante", "status": "primary", "featured": false, "bet_headline": "Over 2.5 goals", "stake": "$15 @ ~1.90*", "odds": {"home": "2.55*", "draw": "3.55*", "away": "3.05*"}, "analysis": "Neither newly-promoted Málaga nor Levante can defend right now: Málaga shipped four at the Bernabéu, while Levante's matches have already produced a 5-2 and a 7-goal scoreline. The 1X2 is a coin flip we refuse to call, but combined defensive frailty makes the goals line the clean single-conviction angle. Confirm the exchange price is 1.80+ before staking.", "result": {"score": "0-0", "outcome": "lost", "pnl": -15.0}},
+    {"number": 6, "league": "Serie A", "time": "7:45 PM", "match": "Juventus vs AC Milan", "status": "danger", "featured": false, "bet_headline": "Avoid — prestige pricing", "stake": "No straight win bet", "odds": {"home": "2.20*", "draw": "3.40*", "away": "3.90*"}, "analysis": "The classic Rule 6 trap. Biggest fixture in Italy this weekend, saturated with analysis, priced with maximum efficiency. Juve rate only 45% at home — nobody clears 50%. If involved at all, Juventus Double Chance (1X) is the only sanctioned angle, at reduced stake.", "result": {"score": "1-1", "outcome": "void", "pnl": 0}},
+    {"number": 7, "league": "La Liga", "time": "8:00 PM", "match": "Espanyol vs Sevilla", "status": "skip", "featured": false, "bet_headline": "No bet", "stake": "Rule 12 discipline", "odds": {"home": "2.40*", "draw": "3.45*", "away": "3.40*"}, "analysis": "42% / 29% / 29% — another fixture where the market and the model agree it is too close to call. Two mid-table sides with no meaningful form separation after three matchdays. Pass."},
+    {"number": 8, "league": "Belgian Pro League", "time": "TBC", "match": "Anderlecht vs Genk", "status": "pending", "featured": false, "bet_headline": "Pending live odds", "stake": "Lean: Anderlecht 1X", "odds": null, "analysis": "Belgium's headline Sunday clash (alongside Cercle Brugge vs Gent, Kortrijk vs Zulte Waregem, Beveren vs OH Leuven). No Belgian selection is published without a live Betfair exchange screenshot — liquidity in this league is thin and stale prices are dangerous (Rule 11)."}
   ],
-  "avoid": "Valencia vs Barcelona (already in play \u2014 never bet a match after kick-off without a live edge) \u2022 Juventus vs AC Milan straight win (prestige pricing) \u2022 Primeira Liga \u2014 Porto, Benfica and Sporting all played earlier this weekend; no qualifying Portuguese fixture remains today.",
-  "footer": "Odds marked * are indicative only, derived from pre-match model probabilities. Replace with live Betfair exchange prices before publication and before any stake is placed. All straight win bets settle on 90-minute regulation time. Bet smart. Stake small. Stay disciplined. If gambling stops being fun, seek help: GamCare (UK) 0808 802 0133 \u2022 Gambling Help Online (AUS) 1800 858 858."
+  "avoid": "Valencia vs Barcelona (already in play — never bet a match after kick-off without a live edge) • Juventus vs AC Milan straight win (prestige pricing) • Primeira Liga — Porto, Benfica and Sporting all played earlier this weekend; no qualifying Portuguese fixture remains today.",
+  "footer": "Odds marked * are indicative only, derived from pre-match model probabilities. Replace with live Betfair exchange prices before publication and before any stake is placed. All straight win bets settle on 90-minute regulation time. Bet smart. Stake small. Stay disciplined. If gambling stops being fun, seek help: GamCare (UK) 0808 802 0133 • Gambling Help Online (AUS) 1800 858 858."
 }
