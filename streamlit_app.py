@@ -64,7 +64,8 @@ _CSS = "".join([
     "section[data-testid='stSidebar'] .stSelectbox label, "
     "section[data-testid='stSidebar'] .stMultiSelect label { "
     f"color: {GOLD_SOFT} !important; font-weight: 600; font-size: 0.85rem; }}",
-    "#MainMenu, footer, header { visibility: hidden; }",
+    "#MainMenu, footer { visibility: hidden; }",     
+    "[data-testid='stAppDeployButton'] { visibility: hidden; }",
     ".block-container { padding-top: 1.5rem; max-width: 980px; }",
     f".wm-wordmark {{ font-family: 'Inter', sans-serif; font-weight: 700; "
     f"font-size: 0.95rem; color: {GOLD}; letter-spacing: 0.02em; margin-bottom: 0.15rem; }}",
