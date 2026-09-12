@@ -61,10 +61,11 @@ _CSS = "".join([
     f".stApp {{ background-color: {PARCHMENT}; }}",
     f"section[data-testid='stSidebar'] {{ background-color: {NAVY}; }}",
     f"section[data-testid='stSidebar'] * {{ color: {PARCHMENT} !important; }}",
+    f"section[data-testid='stSidebar'] input {{ color: {INK} !important; }}",
     "section[data-testid='stSidebar'] .stSelectbox label, "
     "section[data-testid='stSidebar'] .stMultiSelect label { "
     f"color: {GOLD_SOFT} !important; font-weight: 600; font-size: 0.85rem; }}",
-    "#MainMenu, footer { visibility: hidden; }",     
+    "#MainMenu, footer { visibility: hidden; }",
     "[data-testid='stAppDeployButton'] { visibility: hidden; }",
     ".block-container { padding-top: 1.5rem; max-width: 980px; }",
     f".wm-wordmark {{ font-family: 'Inter', sans-serif; font-weight: 700; "
