@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-16",
+  "card_number": 11,
+  "season_label": "2026-27 European Season",
+  "leagues_covered": ["EPL", "La Liga", "Serie A", "Bundesliga", "Ligue 1", "Belgian Pro League", "Primeira Liga", "Eredivisie", "Championship"],
+  "lesson": "Card #10 went 1W-1L for -$7.36. The Alavés pick was a genuine upset — Valencia's four-match losing run made them look like the weaker side on paper, and they won anyway, a reminder that even a well-evidenced current-form case doesn't remove real uncertainty. The Ajax BTTS pick landed comfortably in a 5-1 win. Small, roughly break-even day.",
+  "matches": [
+    {"number": 1, "league": "La Liga", "time": "8:30 PM", "match": "Levante vs Athletic Bilbao", "status": "primary", "featured": true, "bet_headline": "Athletic Bilbao win", "stake": "$16.37 @ ~2.10*", "odds": {"home": "3.50*", "draw": "3.30*", "away": "2.10*"}, "analysis": "FEATURED MATCH. Athletic just beat Atlético Madrid 3-0 — a genuine statement result — and followed it with a 1-1 draw at Elche. Levante can score (five goals against Betis three weeks ago) but their defence has been leaky, conceding four to Barcelona last time out. Model gives Athletic a clear 44% to Levante's 29%."},
+    {"number": 2, "league": "La Liga", "time": "6:00 PM", "match": "Deportivo vs Sevilla", "status": "skip", "featured": false, "bet_headline": "No bet", "stake": "No clear edge", "odds": {"home": "2.55*", "draw": "3.10*", "away": "2.80*"}, "analysis": "Model has this close to even (37% to 33%), and nothing in today's research turned up a specific current-form story sharp enough to back either side. Pass."},
+    {"number": 3, "league": "La Liga", "time": "6:00 PM", "match": "Atlético Madrid vs Osasuna", "status": "skip", "featured": false, "bet_headline": "No bet", "stake": "No clear edge", "odds": {"home": "1.30*", "draw": "5.00*", "away": "8.50*"}, "analysis": "Atlético at 1.30 is too short to be worth backing outright, regardless of how likely they are to win — especially coming off that 3-0 defeat to Athletic Bilbao, which suggests they're not currently at their sharpest. Pass on the straight win."},
+    {"number": 4, "league": "La Liga", "time": "8:30 PM", "match": "Barcelona vs Racing Santander", "status": "skip", "featured": false, "bet_headline": "No bet", "stake": "No clear edge", "odds": {"home": "1.08*", "draw": "12.00*", "away": "22.00*"}, "analysis": "Barcelona at 1.08 offers no value at all despite being an overwhelming favourite. Pass — there's simply no return worth the risk at this price."}
+  ],
+  "no_fixture_today": "EPL, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie and the Championship all have no league fixtures today. Only La Liga is playing, in a midweek round of catch-up fixtures.",
+  "avoid": "Atlético Madrid and Barcelona straight wins — both massively short-priced favourites with no value regardless of outcome likelihood.",
+  "footer": "Odds marked * are current market prices as researched, sourced from Betfair prediction pages and odds aggregators — correct at time of writing but subject to movement before kickoff. Confirm live prices before staking. All straight win bets settle on 90-minute regulation time. Bet smart. Stake small. Stay disciplined. If gambling stops being fun, seek help: GamCare (UK) 0808 802 0133 • Gambling Help Online (AUS) 1800 858 858."
+}
