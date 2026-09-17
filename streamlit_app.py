@@ -18,6 +18,9 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# ---------------------------------------------------------------------------
+# Design tokens
+# ---------------------------------------------------------------------------
 NAVY = "#0A1F44"
 INK = "#1B1F27"
 PARCHMENT = "#F6F2E7"
@@ -56,6 +59,12 @@ def money(n):
     return f"${n:,.0f}"
 
 
+# ---------------------------------------------------------------------------
+# Fonts + base styling
+# ---------------------------------------------------------------------------
+# NOTE: no blank lines allowed inside this string — a blank line ends
+# Markdown's "raw HTML block" parsing and the rest reverts to Markdown,
+# which then treats the still-indented CSS lines as a code block.
 _CSS = "".join([
     f"html, body, [class*='css'] {{ font-family: 'Inter', sans-serif; color: {INK}; }}",
     f".stApp {{ background-color: {PARCHMENT}; }}",
@@ -123,6 +132,9 @@ html(
     f"<style>{_CSS}</style>"
 )
 
+# ---------------------------------------------------------------------------
+# Load data
+# ---------------------------------------------------------------------------
 cards = load_cards()
 
 if not cards:
@@ -148,6 +160,9 @@ with st.sidebar:
 card = cards[selected_date]
 pretty_date = datetime.strptime(card["date"], "%Y-%m-%d").strftime("%A %-d %B %Y")
 
+# ---------------------------------------------------------------------------
+# Header
+# ---------------------------------------------------------------------------
 html(
     f"""
     <div class="wm-wordmark">WINNINGMORE · DAILY PREDICTION CARD</div>
@@ -167,6 +182,8 @@ season_losses = sum(1 for m in all_settled if m["result"]["outcome"] == "lost")
 season_pnl = sum(m["result"].get("pnl", 0) for m in all_settled)
 season_staked = 0
 for m in all_settled:
+    if m["result"]["outcome"] == "void":
+        continue  # refunded stake was never actually at risk
     for token in m["stake"].replace("$", " $").split():
         if token.startswith("$"):
             try:
@@ -202,6 +219,9 @@ if card.get("no_fixture_today"):
         unsafe_allow_html=True,
     )
 
+# ---------------------------------------------------------------------------
+# Matches
+# ---------------------------------------------------------------------------
 matches = card["matches"]
 if league_filter:
     matches = [m for m in matches if m["league"] in league_filter]
@@ -228,7 +248,7 @@ for m in matches:
         outcome_color = {"won": GREEN, "lost": RED}.get(r["outcome"], GREY)
         outcome_label = {"won": "WON", "lost": "LOST", "void": "VOID"}.get(r["outcome"], "")
         pnl = r.get("pnl", 0)
-        pnl_str = f"{'+' if pnl >= 0 else ''}{money(pnl)}" if m["status"] == "primary" else ""
+        pnl_str = f"{'+' if pnl >= 0 else ''}{money(pnl)}" if m["status"] == "primary" and r["outcome"] != "void" else ""
         result_html = (
             '<div class="wm-result">'
             f'<span class="fs">FT {r["score"]}</span> &nbsp; '
@@ -257,12 +277,18 @@ for m in matches:
         """
     )
 
+# ---------------------------------------------------------------------------
+# Avoid box
+# ---------------------------------------------------------------------------
 if card.get("avoid"):
     st.markdown(
         f'<div class="wm-box wm-avoid"><b>Avoid today.</b> {card["avoid"]}</div>',
         unsafe_allow_html=True,
     )
 
+# ---------------------------------------------------------------------------
+# Exposure summary (computed, never hand-typed)
+# ---------------------------------------------------------------------------
 primaries = [m for m in card["matches"] if m["status"] == "primary"]
 skips = [m for m in card["matches"] if m["status"] == "skip"]
 dangers = [m for m in card["matches"] if m["status"] == "danger"]
@@ -289,6 +315,9 @@ html(
     """
 )
 
+# ---------------------------------------------------------------------------
+# Footer
+# ---------------------------------------------------------------------------
 st.markdown(
     f'<div class="wm-footer"><b>Please note.</b> {card.get("footer", "")}</div>',
     unsafe_allow_html=True,
