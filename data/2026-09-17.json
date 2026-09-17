@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-17",
+  "card_number": 12,
+  "season_label": "2026-27 European Season",
+  "leagues_covered": ["EPL", "La Liga", "Serie A", "Bundesliga", "Ligue 1", "Belgian Pro League", "Primeira Liga", "Eredivisie", "Championship"],
+  "lesson": "Card #11's headline pick never happened — Levante vs Athletic Bilbao was postponed after a storm left the pitch at Ciutat de València waterlogged, with Sunday's Levante-Villarreal fixture also postponed under a red weather alert for the region. That's a void, stake refunded, not a loss. Worth remembering: Valencia-region fixtures may keep being affected over the next few days if the weather doesn't clear.",
+  "matches": [
+    {"number": 1, "league": "La Liga", "time": "6:00 PM", "match": "Real Betis vs Getafe", "status": "primary", "featured": true, "bet_headline": "Real Betis win", "stake": "$21.04 @ ~1.55*", "odds": {"home": "1.55*", "draw": "4.20*", "away": "6.50*"}, "analysis": "FEATURED MATCH. Betis have beaten Real Madrid and Villarreal in back-to-back matches — as strong a run of current form as anyone on this card has produced all season. Getafe, meanwhile, have scored exactly one goal in each of their last three games and haven't won since August. This is about as clean a form gap as exists in La Liga right now."},
+    {"number": 2, "league": "La Liga", "time": "8:30 PM", "match": "Málaga vs Villarreal", "status": "skip", "featured": false, "bet_headline": "No bet", "stake": "No clear edge", "odds": {"home": "2.90*", "draw": "3.20*", "away": "2.55*"}, "analysis": "Villarreal just lost to Betis, which cuts against backing them here, and there's no fresh read on Málaga's current form sharp enough to back them instead. Pass."}
+  ],
+  "no_fixture_today": "EPL, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie and the Championship all have no fixtures today. Only La Liga is playing, in the same midweek catch-up round as yesterday.",
+  "avoid": "Málaga vs Villarreal — no clear edge either way today.",
+  "footer": "Odds marked * are current market prices as researched, sourced from Betfair prediction pages and odds aggregators — correct at time of writing but subject to movement before kickoff. Confirm live prices before staking. All straight win bets settle on 90-minute regulation time. Bet smart. Stake small. Stay disciplined. If gambling stops being fun, seek help: GamCare (UK) 0808 802 0133 • Gambling Help Online (AUS) 1800 858 858."
+}
