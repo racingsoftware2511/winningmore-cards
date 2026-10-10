@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-10",
+  "card_number": 16,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "First card back after the international break. Last card finished one win and one loss for +$2.53. After a break, form lines are stale and prices are sharp, so today's card is small: two handicap plays where the market looks a touch too harsh on the underdog, and everything else is a pass.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "EPL",
+      "time": "12:30 UK",
+      "match": "Chelsea vs Bournemouth",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Bournemouth +0.75 Asian Handicap",
+      "stake": "$12.71 @ ~1.92*",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "Chelsea are the favourites, but the straight-win price is short and Bournemouth have been hard to beat. With +0.75 we win if Bournemouth win or draw, and lose only half our stake if they lose by one goal. Only a defeat by two or more goals loses the full stake. Over 2.5 goals and both-teams-to-score were both priced fairly, so the handicap is where the value sits. Moderate stake because the break makes form harder to read."
+    },
+    {
+      "number": 2,
+      "league": "Championship",
+      "time": "Today",
+      "match": "Watford vs Burnley",
+      "status": "primary",
+      "featured": false,
+      "bet_headline": "Watford +0.25 Asian Handicap",
+      "stake": "$10.17 @ ~1.77*",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "A near coin-flip match at home for Watford. The handicap gives us our money back on a draw and wins if Watford win. The home side is slightly underpriced against the visitors. Smaller stake because the price is not big and the Championship is volatile."
+    },
+    {
+      "number": 3,
+      "league": "Championship",
+      "time": "Today",
+      "match": "Middlesbrough vs Wolves",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "Checked match odds, handicap, goals and both-teams-to-score. All four are priced about where they should be, so there is no edge worth risking money on."
+    },
+    {
+      "number": 4,
+      "league": "Ligue 1",
+      "time": "Today",
+      "match": "Monaco vs Toulouse",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "Monaco are favourites, but the price already reflects it. The handicap and goals markets offer no gap in our favour."
+    },
+    {
+      "number": 5,
+      "league": "Ligue 1",
+      "time": "Today",
+      "match": "Lille vs Le Havre",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "Lille win is too short to back, and the handicap line removes the value. Passing."
+    },
+    {
+      "number": 6,
+      "league": "EPL",
+      "time": "Today",
+      "match": "Manchester United vs Tottenham",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "Two unpredictable sides coming off a break. All markets look fairly priced, so we stay out."
+    },
+    {
+      "number": 7,
+      "league": "La Liga",
+      "time": "Today",
+      "match": "Alaves vs Atletico Madrid / Real Madrid vs Villarreal",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "-",
+        "draw": "-",
+        "away": "-"
+      },
+      "analysis": "Both favourites are priced short, and the handicap and goals markets do not offer an edge. Passing on both."
+    }
+  ],
+  "no_fixture_today": "Denmark, Scotland, Austria, Switzerland, Poland, Czech Republic and the Belgian, Portuguese and Dutch leagues: I could not confirm a full set of fixtures and prices for these today, so there are no picks from them. Not every match listed above received the same depth of price checking.",
+  "avoid": "Short-priced favourites such as Bayern, Barcelona, Inter and PSG at prices under 1.40. The return does not justify the risk.",
+  "footer": "Odds marked * are indicative prices taken on 10 Oct 2026 and move before kickoff. Please check the live price before betting and only take it if it is still close to what is shown. Stakes are a percentage of the current bankroll of $508.35. Bet responsibly."
+}
