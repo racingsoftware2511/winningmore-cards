@@ -59,15 +59,15 @@
       "time": "15:00 UK",
       "match": "Chelsea vs Bournemouth",
       "status": "primary",
-      "featured": true,
-      "bet_headline": "Bournemouth +0.75 Asian Handicap",
-      "stake": "$7.63 @ ~1.90*",
+      "featured": false,
+      "bet_headline": "Bournemouth +0.75 Asian Handicap (small lean)",
+      "stake": "$5.08 @ ~1.90*",
       "odds": {
         "home": "1.67*",
         "draw": "4.00*",
         "away": "4.50*"
       },
-      "analysis": "Prices: Chelsea 1.67 / Draw 4.00 / Bournemouth 4.50 (Chelsea 1.74 to 1.87 at other firms). Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.50 / No 2.45. Asian handicap: Bournemouth +0.75 at about 1.90 (BetMGM). Chelsea have conceded the most goals in the league (12) and are winless in three, and Bournemouth have not been beaten heavily. This bet wins if Bournemouth win or draw, loses half if they lose by one goal, and loses in full only if Chelsea win by two or more. The edge is small, so the stake is small (1.5%). Over 2.5 at 1.50 and BTTS Yes at 1.50 are priced fairly, so we leave them."
+      "analysis": "Prices: Chelsea 1.67 / Draw 4.00 / Bournemouth 4.50 (Chelsea 1.74 to 1.87 at other firms). Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.50 / No 2.45. Asian handicap: Bournemouth +0.75 at about 1.90 (BetMGM). Chelsea have conceded the most goals in the league (12) and are winless in three, so a heavy Chelsea win is not a given. This bet wins if Bournemouth win or draw, loses half if they lose by one goal, and loses in full only if Chelsea win by two or more. It is priced close to fair, so this is a small lean at 1% of bankroll, not a strong play."
     },
     {
       "number": 4,
@@ -83,7 +83,7 @@
         "draw": "3.40*",
         "away": "2.50*"
       },
-      "analysis": "Prices: 2.62 / 3.40 / 2.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.20. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 2.62 / 3.40 / 2.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.20. Match odds, goals and BTTS are priced fairly. Asian handicap: Ipswich +0.25 at about 1.68 (BetMGM). That price is already short for a near even match, so it offers no edge. No bet."
     },
     {
       "number": 5,
@@ -99,7 +99,7 @@
         "draw": "3.30*",
         "away": "2.25*"
       },
-      "analysis": "Prices: 3.00 / 3.30 / 2.25. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.67 / No 2.15. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 3.00 / 3.30 / 2.25. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.67 / No 2.15. Match odds, goals and BTTS are priced fairly. Brighton to win is about 2.32 (BetMGM), close to the 2.25 match price, so no edge. No bet."
     },
     {
       "number": 6,
@@ -115,7 +115,7 @@
         "draw": "4.00*",
         "away": "4.33*"
       },
-      "analysis": "Prices: 1.70 / 4.00 / 4.33. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.50 / No 2.45. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 1.70 / 4.00 / 4.33. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.50 / No 2.45. Match odds, goals and BTTS are priced fairly. United to win is about 1.67 (BetMGM), in line with the market, so no edge. No bet."
     },
     {
       "number": 7,
@@ -147,7 +147,7 @@
         "draw": "3.60*",
         "away": "1.73*"
       },
-      "analysis": "Prices: 4.20 / 3.60 / 1.73. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.75 / No 2.00. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 4.20 / 3.60 / 1.73. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.75 / No 2.00. Match odds, goals and BTTS are priced fairly. Asian handicap: Alaves +0.75 at about 1.78 (BetMGM). Atletico are clear favourites, and the price matches the match odds, so it offers no edge. No bet."
     },
     {
       "number": 9,
@@ -259,7 +259,7 @@
         "draw": "3.60*",
         "away": "2.20*"
       },
-      "analysis": "Prices: 2.88 / 3.60 / 2.20. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.40 / No 2.80. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 2.88 / 3.60 / 2.20. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.40 / No 2.80. Match odds, goals and BTTS are priced fairly. Asian handicap: Mainz +0.25 at about 1.87 (Thrill). Fair against the match odds, so no edge. No bet."
     },
     {
       "number": 16,
@@ -298,16 +298,16 @@
       "league": "Bundesliga",
       "time": "17:30 UK",
       "match": "RB Leipzig vs Eintracht Frankfurt",
-      "status": "skip",
-      "featured": false,
-      "bet_headline": "No bet",
-      "stake": "-",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Eintracht Frankfurt +1.25 Asian Handicap",
+      "stake": "$7.63 @ ~1.78*",
       "odds": {
         "home": "1.57*",
         "draw": "4.50*",
         "away": "4.50*"
       },
-      "analysis": "Prices: 1.57 / 4.50 / 4.50. Over 2.5 1.28 / Under 2.5 3.75; BTTS Yes 1.36 / No 3.10. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: Leipzig 1.57 / Draw 4.50 / Frankfurt 4.50. Over 2.5 1.28 / Under 2.5 3.75; BTTS Yes 1.36 / No 3.10. Asian handicap: Frankfurt +1.25 at about 1.78 (Thrill). The bet wins if Frankfurt win, draw or lose by one goal, with a one-goal loss paying half. It loses only if Leipzig win by two or more. Leipzig are favourites at roughly 60%, but a margin of two or more is the harder part. Frankfurt have covered this line in 16 of their last 18 away games, while Leipzig have failed to cover -1.25 in 15 of their last 20. Frankfurt's defence is leaky (2.2 conceded a game), so the risk is a blowout. Stake 1.5% of bankroll."
     },
     {
       "number": 19,
@@ -323,7 +323,7 @@
         "draw": "4.40*",
         "away": "6.50*"
       },
-      "analysis": "Prices: 1.40 / 4.40 / 6.50. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.75 / No 2.00. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 1.40 / 4.40 / 6.50. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.75 / No 2.00. Match odds, goals and BTTS are priced fairly. Asian handicap: Le Havre +1.25 at about 1.91 (BetMGM). Fair against the match odds, so no edge. No bet."
     },
     {
       "number": 20,
@@ -371,7 +371,7 @@
         "draw": "4.20*",
         "away": "5.00*"
       },
-      "analysis": "Prices: 1.57 / 4.20 / 5.00. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.62 / No 2.25. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 1.57 / 4.20 / 5.00. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.62 / No 2.25. Match odds, goals and BTTS are priced fairly. Asian handicap: Toulouse +1 at about 1.83 (BetMGM). Fair against the match odds, so no edge. No bet."
     },
     {
       "number": 23,
@@ -691,7 +691,7 @@
         "draw": "3.30*",
         "away": "2.30*"
       },
-      "analysis": "Prices: 2.80 / 3.30 / 2.30. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.67 / No 2.10. After checking match odds, goals and BTTS, nothing is priced far enough from a fair line to back. No bet."
+      "analysis": "Prices: 2.80 / 3.30 / 2.30. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.67 / No 2.10. Match odds, goals and BTTS are priced fairly. Asian handicap: Watford +0.25 at about 1.77 (BetMGM). Priced fairly for a near even match, so no edge. No bet."
     },
     {
       "number": 43,
