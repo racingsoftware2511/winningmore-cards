@@ -1,0 +1,572 @@
+{
+  "date": "2026-10-11",
+  "card_number": 17,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "Saturday finished one win and two losses for -$4.07: Villa-Brentford Over 2.5 won, while Leipzig beat Frankfurt 6-0 and Chelsea beat Bournemouth 5-1, so both plus-handicaps lost. Heavy favourites can win by big margins, so today we avoid backing underdogs on handicaps in lopsided games and keep the card small.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "EPL",
+      "time": "14:00 UK",
+      "match": "Crystal Palace vs Nottingham Forest",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.62*",
+        "draw": "3.10*",
+        "away": "2.62*"
+      },
+      "analysis": "Prices: 2.62 / 3.10 / 2.62. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.67 / No 2.10. Match odds, goals and BTTS are priced fairly. Over 2.5 is available at about 1.91 (BetMGM) and Palace have gone over in 8 of their last 10, but Forest's last game was a 1-0 loss and the last three meetings were draws. An even match with an even goals price. No bet."
+    },
+    {
+      "number": 2,
+      "league": "EPL",
+      "time": "14:00 UK",
+      "match": "Hull City vs Everton",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.60*",
+        "draw": "3.30*",
+        "away": "2.05*"
+      },
+      "analysis": "Prices: 3.60 / 3.30 / 2.05. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.75 / No 1.95. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 3,
+      "league": "EPL",
+      "time": "16:30 UK",
+      "match": "Liverpool vs Manchester City",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.90*",
+        "draw": "3.60*",
+        "away": "2.25*"
+      },
+      "analysis": "Prices: 2.90 / 3.60 / 2.25. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.44 / No 2.50. Match odds, goals and BTTS are priced fairly. City to win is about 2.28 (BetMGM), in line with the market. No bet."
+    },
+    {
+      "number": 4,
+      "league": "La Liga",
+      "time": "13:00 UK",
+      "match": "Elche vs Celta Vigo",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.80*",
+        "draw": "3.10*",
+        "away": "2.50*"
+      },
+      "analysis": "Prices: 2.80 / 3.10 / 2.50. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.75 / No 2.00. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 5,
+      "league": "La Liga",
+      "time": "15:15 UK",
+      "match": "Real Sociedad vs Deportivo La Coruna",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.57*",
+        "draw": "3.90*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: 1.57 / 3.90 / 5.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.75 / No 2.05. Match odds, goals and BTTS are priced fairly. Asian handicap: Deportivo +0.75 at about 2.00 (BetMGM). That is a fair price against the match odds. No bet."
+    },
+    {
+      "number": 6,
+      "league": "La Liga",
+      "time": "17:30 UK",
+      "match": "Real Betis vs Osasuna",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.20*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: 1.50 / 4.20 / 5.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.80 / No 1.95. Match odds, goals and BTTS are priced fairly. Asian handicap: Betis -1 at about 1.89 (BetMGM). Betis are strong favourites, but the price already reflects it. No bet."
+    },
+    {
+      "number": 7,
+      "league": "La Liga",
+      "time": "20:00 UK",
+      "match": "Racing Santander vs Valencia",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.30*",
+        "draw": "3.40*",
+        "away": "2.80*"
+      },
+      "analysis": "Prices: 2.30 / 3.40 / 2.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.55 / No 2.40. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Serie A",
+      "time": "11:30 UK",
+      "match": "Como vs Roma",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.45*",
+        "draw": "3.40*",
+        "away": "2.60*"
+      },
+      "analysis": "Prices: 2.45 / 3.40 / 2.60. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.50 / No 2.50. Match odds, goals and BTTS are priced fairly. Over 2.5 is about 1.61 (BetMGM), which already prices in two attacking sides. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Serie A",
+      "time": "14:00 UK",
+      "match": "Lazio vs Monza",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.55*",
+        "draw": "3.80*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: 1.55 / 3.80 / 5.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.85 / No 1.85. Match odds, goals and BTTS are priced fairly. BTTS Yes is about 1.88 (BetMGM). Monza have scored in each of their last five, but Lazio are strong favourites at home. Fair price. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Serie A",
+      "time": "14:00 UK",
+      "match": "Lecce vs Bologna",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.90*",
+        "draw": "3.25*",
+        "away": "1.91*"
+      },
+      "analysis": "Prices: 3.90 / 3.25 / 1.91. Over 2.5 2.10 / Under 2.5 1.73; BTTS Yes 1.91 / No 1.85. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Serie A",
+      "time": "17:00 UK",
+      "match": "Sassuolo vs AC Milan",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.00*",
+        "draw": "3.60*",
+        "away": "1.80*"
+      },
+      "analysis": "Prices: 4.00 / 3.60 / 1.80. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.73 / No 2.05. Match odds, goals and BTTS are priced fairly. Milan to win is about 1.79 (BetMGM), in line with the market. No bet."
+    },
+    {
+      "number": 12,
+      "league": "Serie A",
+      "time": "19:45 UK",
+      "match": "Cagliari vs Juventus",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "6.00*",
+        "draw": "3.80*",
+        "away": "1.55*"
+      },
+      "analysis": "Prices: 6.00 / 3.80 / 1.55. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 2.00 / No 1.75. Match odds, goals and BTTS are priced fairly. Asian handicap: Cagliari +1 at about 1.78 (BetMGM). Priced fairly against the match odds. No bet."
+    },
+    {
+      "number": 13,
+      "league": "Ligue 1",
+      "time": "14:00 UK",
+      "match": "Nice vs Strasbourg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.25*",
+        "draw": "3.40*",
+        "away": "2.80*"
+      },
+      "analysis": "Prices: 2.25 / 3.40 / 2.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.40. Match odds, goals and BTTS are priced fairly. Asian handicap: Strasbourg +0.25 at about 1.75 (BetMGM). Fair against the match odds. No bet."
+    },
+    {
+      "number": 14,
+      "league": "Ligue 1",
+      "time": "16:15 UK",
+      "match": "Rennes vs Auxerre",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.40*",
+        "draw": "4.60*",
+        "away": "6.00*"
+      },
+      "analysis": "Prices: 1.40 / 4.60 / 6.00. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.65 / No 2.20. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 15,
+      "league": "Eredivisie",
+      "time": "11:15 UK",
+      "match": "Utrecht vs Willem II",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.20*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: 1.50 / 4.20 / 5.50. Over 2.5 1.48 / Under 2.5 2.60; BTTS Yes 1.53 / No 2.40. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 16,
+      "league": "Eredivisie",
+      "time": "13:30 UK",
+      "match": "PEC Zwolle vs Cambuur",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.91*",
+        "draw": "3.70*",
+        "away": "3.40*"
+      },
+      "analysis": "Prices: 1.91 / 3.70 / 3.40. Over 2.5 1.53 / Under 2.5 2.40; BTTS Yes 1.44 / No 2.50. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 17,
+      "league": "Eredivisie",
+      "time": "13:30 UK",
+      "match": "Telstar vs ADO Den Haag",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.00*",
+        "draw": "3.40*",
+        "away": "3.30*"
+      },
+      "analysis": "Prices: 2.00 / 3.40 / 3.30. Over 2.5 1.53 / Under 2.5 2.40; BTTS Yes 1.50 / No 2.45. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 18,
+      "league": "Eredivisie",
+      "time": "15:45 UK",
+      "match": "Excelsior vs Groningen",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.50*",
+        "draw": "3.40*",
+        "away": "2.50*"
+      },
+      "analysis": "Prices: 2.50 / 3.40 / 2.50. Over 2.5 1.53 / Under 2.5 2.40; BTTS Yes 1.50 / No 2.50. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 19,
+      "league": "Primeira Liga",
+      "time": "15:30 UK",
+      "match": "Rio Ave vs Nacional",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.25*",
+        "draw": "3.20*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: 2.25 / 3.20 / 3.00. Over 2.5 2.08 / Under 2.5 1.73; BTTS Yes 1.75 / No 1.95. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 20,
+      "league": "Primeira Liga",
+      "time": "18:00 UK",
+      "match": "Benfica vs Vitoria Guimaraes",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "Avoid",
+      "stake": "-",
+      "odds": {
+        "home": "1.22*",
+        "draw": "6.00*",
+        "away": "11.00*"
+      },
+      "analysis": "Prices: 1.22 / 6.00 / 11.00. Over 2.5 1.48 / Under 2.5 2.60; BTTS Yes 1.91 / No 1.80. The favourite is priced under 1.40, so the straight win pays too little for the risk. We pass."
+    },
+    {
+      "number": 21,
+      "league": "Primeira Liga",
+      "time": "20:30 UK",
+      "match": "Arouca vs Estrela",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.30*",
+        "away": "3.25*"
+      },
+      "analysis": "Prices: 2.10 / 3.30 / 3.25. Over 2.5 1.85 / Under 2.5 1.95; BTTS Yes 1.67 / No 2.10. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 22,
+      "league": "Belgian Pro League",
+      "time": "12:30 UK",
+      "match": "Standard Liege vs Charleroi",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.88*",
+        "draw": "3.30*",
+        "away": "2.30*"
+      },
+      "analysis": "Prices: 2.88 / 3.30 / 2.30. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.62 / No 2.20. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 23,
+      "league": "Belgian Pro League",
+      "time": "15:00 UK",
+      "match": "Union Saint-Gilloise vs OH Leuven",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "Avoid",
+      "stake": "-",
+      "odds": {
+        "home": "1.25*",
+        "draw": "5.50*",
+        "away": "10.00*"
+      },
+      "analysis": "Prices: 1.25 / 5.50 / 10.00. Over 2.5 1.44 / Under 2.5 2.70; BTTS Yes 1.83 / No 1.85. The favourite is priced under 1.40, so the straight win pays too little for the risk. We pass."
+    },
+    {
+      "number": 24,
+      "league": "Championship",
+      "time": "12:00 UK",
+      "match": "Southampton vs Portsmouth",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Over 2.5 Goals",
+      "stake": "$7.56 @ ~1.65*",
+      "odds": {
+        "home": "1.60*",
+        "draw": "4.00*",
+        "away": "4.80*"
+      },
+      "analysis": "Prices: 1.60 / 4.00 / 4.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.70 / No 2.05. Over 2.5 is about 1.62 (BetMGM) to 1.67 (other firms), so take it at 1.62 or better. Southampton average 2.4 goals a game over their last 10, have won four straight at home, and Over 2.5 has landed in 15 of their last 20 games and 8 of their last home games. Cyle Larin has 9 league goals. Portsmouth have gone over in 4 of their last 5 away games and drew 2-2 in their last home match. Southampton are the favourites, but the goals look the better value than the result. Stake 1.5%."
+    },
+    {
+      "number": 25,
+      "league": "Polish Ekstraklasa",
+      "time": "13:45 UK",
+      "match": "Piast Gliwice vs Widzew Lodz",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.62*",
+        "draw": "3.30*",
+        "away": "2.40*"
+      },
+      "analysis": "Prices: 2.62 / 3.30 / 2.40. Over 2.5 1.73 / Under 2.5 2.08; BTTS Yes 1.57 / No 2.30. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 26,
+      "league": "Polish Ekstraklasa",
+      "time": "16:30 UK",
+      "match": "Pogon Szczecin vs Korona Kielce",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.20*",
+        "draw": "3.25*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: 2.20 / 3.25 / 3.00. Over 2.5 1.75 / Under 2.5 2.05; BTTS Yes 1.62 / No 2.20. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 27,
+      "league": "Polish Ekstraklasa",
+      "time": "19:15 UK",
+      "match": "Legia Warszawa vs Wisla Krakow",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.95*",
+        "draw": "3.60*",
+        "away": "3.30*"
+      },
+      "analysis": "Prices: 1.95 / 3.60 / 3.30. Over 2.5 1.67 / Under 2.5 2.15; BTTS Yes 1.55 / No 2.30. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 28,
+      "league": "Danish Superliga",
+      "time": "13:00 UK",
+      "match": "Randers vs Viborg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.25*",
+        "draw": "3.40*",
+        "away": "2.05*"
+      },
+      "analysis": "Prices: 3.25 / 3.40 / 2.05. Over 2.5 1.67 / Under 2.5 2.15; BTTS Yes 1.57 / No 2.30. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 29,
+      "league": "Danish Superliga",
+      "time": "15:00 UK",
+      "match": "Brondby vs Lyngby",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.75*",
+        "draw": "3.80*",
+        "away": "3.90*"
+      },
+      "analysis": "Prices: 1.75 / 3.80 / 3.90. Over 2.5 1.60 / Under 2.5 2.30; BTTS Yes 1.57 / No 2.25. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 30,
+      "league": "Scottish Premiership",
+      "time": "12:00 UK",
+      "match": "Motherwell vs Celtic",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.50*",
+        "draw": "4.20*",
+        "away": "1.62*"
+      },
+      "analysis": "Prices: 4.50 / 4.20 / 1.62. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.50 / No 2.45. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 31,
+      "league": "Austrian Bundesliga",
+      "time": "16:00 UK",
+      "match": "LASK vs Rapid Wien",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.85*",
+        "draw": "3.70*",
+        "away": "3.60*"
+      },
+      "analysis": "Prices: 1.85 / 3.70 / 3.60. Over 2.5 1.44 / Under 2.5 2.70; BTTS Yes 1.44 / No 2.60. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 32,
+      "league": "Czech First League",
+      "time": "12:00 UK",
+      "match": "Slovan Liberec vs Slovacko",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.00*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: 1.50 / 4.00 / 5.50. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.91 / No 1.80. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 33,
+      "league": "Czech First League",
+      "time": "14:00 UK",
+      "match": "Teplice vs Sigma Olomouc",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.50*",
+        "draw": "3.25*",
+        "away": "2.50*"
+      },
+      "analysis": "Prices: 2.50 / 3.25 / 2.50. Over 2.5 1.85 / Under 2.5 1.95; BTTS Yes 1.67 / No 2.10. Match odds, goals and BTTS are priced fairly. No bet."
+    },
+    {
+      "number": 34,
+      "league": "Czech First League",
+      "time": "17:00 UK",
+      "match": "Sparta Prague vs Pardubice",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "Avoid",
+      "stake": "-",
+      "odds": {
+        "home": "1.33*",
+        "draw": "5.00*",
+        "away": "7.50*"
+      },
+      "analysis": "Prices: 1.33 / 5.00 / 7.50. Over 2.5 1.48 / Under 2.5 2.60; BTTS Yes 1.70 / No 2.05. The favourite is priced under 1.40, so the straight win pays too little for the risk. We pass."
+    }
+  ],
+  "no_fixture_today": "Swiss Super League: no priced fixtures on today's card.",
+  "avoid": "Favourites priced under 1.40 (Benfica, Union Saint-Gilloise, Sparta Prague). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 11 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $504.28. Bet responsibly."
+}
