@@ -19,7 +19,7 @@
     "Polish Ekstraklasa",
     "Czech First League"
   ],
-  "lesson": "Saturday finished one win and two losses for -$4.07: Villa-Brentford Over 2.5 won, while Leipzig beat Frankfurt 6-0 and Chelsea beat Bournemouth 5-1, so both plus-handicaps lost. Heavy favourites can win by big margins, so today we avoid backing underdogs on handicaps in lopsided games and keep the card small.",
+  "lesson": "Saturday finished one win and two losses for -$4.07: Villa-Brentford Over 2.5 won, while Leipzig beat Frankfurt 6-0 and Chelsea beat Bournemouth 5-1, so both plus-handicaps lost. Today we price every game across match odds, handicap, goals and BTTS. Most prices were fair, so the card is three small bets where team news and recent scoring support the price.",
   "matches": [
     {
       "number": 1,
@@ -163,7 +163,7 @@
         "draw": "3.80*",
         "away": "5.50*"
       },
-      "analysis": "Prices: 1.55 / 3.80 / 5.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.85 / No 1.85. Match odds, goals and BTTS are priced fairly. BTTS Yes is about 1.88 (BetMGM). Monza have scored in each of their last five, but Lazio are strong favourites at home. Fair price. No bet."
+      "analysis": "Prices: 1.55 / 3.80 / 5.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.85 / No 1.85. Match odds, goals and BTTS are priced fairly. BTTS Yes is about 1.88 (BetMGM). Monza have scored in each of their last five, but Lazio are strong favourites at home. Fair price. Lazio are unbeaten, but Monza have scored in each of their last five and the match odds already reflect that. No bet."
     },
     {
       "number": 10,
@@ -202,16 +202,16 @@
       "league": "Serie A",
       "time": "19:45 UK",
       "match": "Cagliari vs Juventus",
-      "status": "skip",
-      "featured": false,
-      "bet_headline": "No bet",
-      "stake": "-",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Cagliari +1 Asian Handicap",
+      "stake": "$7.56 @ ~1.78*",
       "odds": {
         "home": "6.00*",
         "draw": "3.80*",
         "away": "1.55*"
       },
-      "analysis": "Prices: 6.00 / 3.80 / 1.55. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 2.00 / No 1.75. Match odds, goals and BTTS are priced fairly. Asian handicap: Cagliari +1 at about 1.78 (BetMGM). Priced fairly against the match odds. No bet."
+      "analysis": "Prices: Cagliari 6.00 / Draw 3.80 / Juventus 1.55. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 2.00 / No 1.75. Asian handicap: Cagliari +1 at about 1.78 (BetMGM). The bet wins if Cagliari win or draw, returns the stake if Juventus win by exactly one goal, and loses only if Juventus win by two or more. Juventus are missing Kenan Yildiz, Khephren Thuram and Manuel Locatelli. Cagliari have won three in a row and 7 of their last 10, and have conceded just 0.5 goals a game at home. Cagliari have covered +1 in 8 of their last 10 games, and Juventus have failed to cover -1 in 9 of their last 10 away games. Juventus are still the stronger side, so this is a small stake (1.5%)."
     },
     {
       "number": 13,
@@ -234,16 +234,16 @@
       "league": "Ligue 1",
       "time": "16:15 UK",
       "match": "Rennes vs Auxerre",
-      "status": "skip",
+      "status": "primary",
       "featured": false,
-      "bet_headline": "No bet",
-      "stake": "-",
+      "bet_headline": "Both Teams to Score: Yes",
+      "stake": "$5.04 @ ~1.64*",
       "odds": {
         "home": "1.40*",
         "draw": "4.60*",
         "away": "6.00*"
       },
-      "analysis": "Prices: 1.40 / 4.60 / 6.00. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.65 / No 2.20. Match odds, goals and BTTS are priced fairly. No bet."
+      "analysis": "Prices: Rennes 1.40 / Draw 4.60 / Auxerre 6.00. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.65 / No 2.20 (about 1.64 at BetMGM). Rennes at 1.40 is too short to back, so we use the goals market. Both teams have scored in 14 of Rennes' last 19 home games and in 8 of Auxerre's last 10 games, and in Auxerre's last two away games. Rennes concede 2.0 a game at home, Lepaul has 8 goals in his last 10 league games, and Auxerre have won their last two. Rennes have a full squad, which keeps their attack strong. Small stake (1%)."
     },
     {
       "number": 15,
@@ -397,13 +397,13 @@
       "status": "primary",
       "featured": true,
       "bet_headline": "Over 2.5 Goals",
-      "stake": "$7.56 @ ~1.65*",
+      "stake": "$5.04 @ ~1.65*",
       "odds": {
         "home": "1.60*",
         "draw": "4.00*",
         "away": "4.80*"
       },
-      "analysis": "Prices: 1.60 / 4.00 / 4.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.70 / No 2.05. Over 2.5 is about 1.62 (BetMGM) to 1.67 (other firms), so take it at 1.62 or better. Southampton average 2.4 goals a game over their last 10, have won four straight at home, and Over 2.5 has landed in 15 of their last 20 games and 8 of their last home games. Cyle Larin has 9 league goals. Portsmouth have gone over in 4 of their last 5 away games and drew 2-2 in their last home match. Southampton are the favourites, but the goals look the better value than the result. Stake 1.5%."
+      "analysis": "Prices: 1.60 / 4.00 / 4.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.70 / No 2.05. Over 2.5 is about 1.62 (BetMGM) to 1.67 (other firms), so take it at 1.62 or better. Southampton average 2.4 goals a game over their last 10, have won four straight at home, and Over 2.5 has landed in 15 of their last 20 games and 8 of their last home games. Cyle Larin has 9 league goals. Portsmouth have gone over in 4 of their last 5 away games and drew 2-2 in their last home match. Southampton are the favourites, but the goals look the better value than the result. The edge is small, so the stake is 1%."
     },
     {
       "number": 25,
