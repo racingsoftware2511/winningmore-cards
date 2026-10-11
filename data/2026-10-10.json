@@ -19,7 +19,7 @@
     "Polish Ekstraklasa",
     "Czech First League"
   ],
-  "lesson": "First card back after the international break. Every match today was priced on match odds, goals and BTTS. Most were fairly priced, so the card is two small bets and the full price board for everything else.",
+  "lesson": "Card #16 finished one win and two losses for -$4.07. Villa-Brentford Over 2.5 won (2-2). Leipzig thrashed Frankfurt 6-0 and Chelsea beat Bournemouth 5-1, so both handicap bets lost: favourites won by big margins in both. Lesson: when a team is priced as a clear favourite and the goals market is heavily Over, a plus-handicap on the underdog carries real blow-out risk. We size those small.",
   "matches": [
     {
       "number": 1,
@@ -51,7 +51,12 @@
         "draw": "3.30*",
         "away": "2.50*"
       },
-      "analysis": "Prices: Villa 2.62 / Draw 3.30 / Brentford 2.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.55 / No 2.30. Over 2.5 ranges from 1.66 (BetMGM) to 1.88 (bet365), so shop for the best price and only take it at 1.80 or better. Two different goals models put Over 2.5 at 59% and 65 to 70%, against about 54% implied at 1.85. Villa's last game was a 3-2 win at Spurs and Brentford beat Chelsea 3-0, so both attacks are scoring. Match result is a near coin-flip (Brentford marginally ahead) so we take the goals market instead. Stake 2%."
+      "analysis": "Prices: Villa 2.62 / Draw 3.30 / Brentford 2.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.55 / No 2.30. Over 2.5 ranges from 1.66 (BetMGM) to 1.88 (bet365), so shop for the best price and only take it at 1.80 or better. Two different goals models put Over 2.5 at 59% and 65 to 70%, against about 54% implied at 1.85. Villa's last game was a 3-2 win at Spurs and Brentford beat Chelsea 3-0, so both attacks are scoring. Match result is a near coin-flip (Brentford marginally ahead) so we take the goals market instead. Stake 2%.",
+      "result": {
+        "score": "2-2",
+        "outcome": "won",
+        "pnl": 8.64
+      }
     },
     {
       "number": 3,
@@ -67,7 +72,12 @@
         "draw": "4.00*",
         "away": "4.50*"
       },
-      "analysis": "Prices: Chelsea 1.67 / Draw 4.00 / Bournemouth 4.50 (Chelsea 1.74 to 1.87 at other firms). Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.50 / No 2.45. Asian handicap: Bournemouth +0.75 at about 1.90 (BetMGM). Chelsea have conceded the most goals in the league (12) and are winless in three, so a heavy Chelsea win is not a given. This bet wins if Bournemouth win or draw, loses half if they lose by one goal, and loses in full only if Chelsea win by two or more. It is priced close to fair, so this is a small lean at 1% of bankroll, not a strong play."
+      "analysis": "Prices: Chelsea 1.67 / Draw 4.00 / Bournemouth 4.50 (Chelsea 1.74 to 1.87 at other firms). Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.50 / No 2.45. Asian handicap: Bournemouth +0.75 at about 1.90 (BetMGM). Chelsea have conceded the most goals in the league (12) and are winless in three, so a heavy Chelsea win is not a given. This bet wins if Bournemouth win or draw, loses half if they lose by one goal, and loses in full only if Chelsea win by two or more. It is priced close to fair, so this is a small lean at 1% of bankroll, not a strong play.",
+      "result": {
+        "score": "5-1",
+        "outcome": "lost",
+        "pnl": -5.08
+      }
     },
     {
       "number": 4,
@@ -307,7 +317,12 @@
         "draw": "4.50*",
         "away": "4.50*"
       },
-      "analysis": "Prices: Leipzig 1.57 / Draw 4.50 / Frankfurt 4.50. Over 2.5 1.28 / Under 2.5 3.75; BTTS Yes 1.36 / No 3.10. Asian handicap: Frankfurt +1.25 at about 1.78 (Thrill). The bet wins if Frankfurt win, draw or lose by one goal, with a one-goal loss paying half. It loses only if Leipzig win by two or more. Leipzig are favourites at roughly 60%, but a margin of two or more is the harder part. Frankfurt have covered this line in 16 of their last 18 away games, while Leipzig have failed to cover -1.25 in 15 of their last 20. Frankfurt's defence is leaky (2.2 conceded a game), so the risk is a blowout. Stake 1.5% of bankroll."
+      "analysis": "Prices: Leipzig 1.57 / Draw 4.50 / Frankfurt 4.50. Over 2.5 1.28 / Under 2.5 3.75; BTTS Yes 1.36 / No 3.10. Asian handicap: Frankfurt +1.25 at about 1.78 (Thrill). The bet wins if Frankfurt win, draw or lose by one goal, with a one-goal loss paying half. It loses only if Leipzig win by two or more. Leipzig are favourites at roughly 60%, but a margin of two or more is the harder part. Frankfurt have covered this line in 16 of their last 18 away games, while Leipzig have failed to cover -1.25 in 15 of their last 20. Frankfurt's defence is leaky (2.2 conceded a game), so the risk is a blowout. Stake 1.5% of bankroll.",
+      "result": {
+        "score": "6-0",
+        "outcome": "lost",
+        "pnl": -7.63
+      }
     },
     {
       "number": 19,
