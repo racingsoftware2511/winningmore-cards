@@ -19,7 +19,7 @@
     "Polish Ekstraklasa",
     "Czech First League"
   ],
-  "lesson": "Saturday finished one win and two losses for -$4.07: Villa-Brentford Over 2.5 won, while Leipzig beat Frankfurt 6-0 and Chelsea beat Bournemouth 5-1, so both plus-handicaps lost. Today we price every game across match odds, handicap, goals and BTTS. Most prices were fair, so the card is three small bets where team news and recent scoring support the price.",
+  "lesson": "Sunday finished two wins and one loss for +$4.09: Cagliari +1 held at 1-1 against Juventus and Rennes 4-1 Auxerre landed Both Teams to Score, while Southampton's 1-0 win over Portsmouth missed Over 2.5. Today is a Championship-only slate, so we price every game across match odds, handicap, goals and BTTS and only back what the numbers support.",
   "matches": [
     {
       "number": 1,
@@ -211,7 +211,12 @@
         "draw": "3.80*",
         "away": "1.55*"
       },
-      "analysis": "Prices: Cagliari 6.00 / Draw 3.80 / Juventus 1.55. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 2.00 / No 1.75. Asian handicap: Cagliari +1 at about 1.78 (BetMGM). The bet wins if Cagliari win or draw, returns the stake if Juventus win by exactly one goal, and loses only if Juventus win by two or more. Juventus are missing Kenan Yildiz, Khephren Thuram and Manuel Locatelli. Cagliari have won three in a row and 7 of their last 10, and have conceded just 0.5 goals a game at home. Cagliari have covered +1 in 8 of their last 10 games, and Juventus have failed to cover -1 in 9 of their last 10 away games. Juventus are still the stronger side, so this is a small stake (1.5%)."
+      "analysis": "Prices: Cagliari 6.00 / Draw 3.80 / Juventus 1.55. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 2.00 / No 1.75. Asian handicap: Cagliari +1 at about 1.78 (BetMGM). The bet wins if Cagliari win or draw, returns the stake if Juventus win by exactly one goal, and loses only if Juventus win by two or more. Juventus are missing Kenan Yildiz, Khephren Thuram and Manuel Locatelli. Cagliari have won three in a row and 7 of their last 10, and have conceded just 0.5 goals a game at home. Cagliari have covered +1 in 8 of their last 10 games, and Juventus have failed to cover -1 in 9 of their last 10 away games. Juventus are still the stronger side, so this is a small stake (1.5%).",
+      "result": {
+        "score": "1-1",
+        "outcome": "won",
+        "pnl": 5.9
+      }
     },
     {
       "number": 13,
@@ -243,7 +248,12 @@
         "draw": "4.60*",
         "away": "6.00*"
       },
-      "analysis": "Prices: Rennes 1.40 / Draw 4.60 / Auxerre 6.00. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.65 / No 2.20 (about 1.64 at BetMGM). Rennes at 1.40 is too short to back, so we use the goals market. Both teams have scored in 14 of Rennes' last 19 home games and in 8 of Auxerre's last 10 games, and in Auxerre's last two away games. Rennes concede 2.0 a game at home, Lepaul has 8 goals in his last 10 league games, and Auxerre have won their last two. Rennes have a full squad, which keeps their attack strong. Small stake (1%)."
+      "analysis": "Prices: Rennes 1.40 / Draw 4.60 / Auxerre 6.00. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.65 / No 2.20 (about 1.64 at BetMGM). Rennes at 1.40 is too short to back, so we use the goals market. Both teams have scored in 14 of Rennes' last 19 home games and in 8 of Auxerre's last 10 games, and in Auxerre's last two away games. Rennes concede 2.0 a game at home, Lepaul has 8 goals in his last 10 league games, and Auxerre have won their last two. Rennes have a full squad, which keeps their attack strong. Small stake (1%).",
+      "result": {
+        "score": "4-1",
+        "outcome": "won",
+        "pnl": 3.23
+      }
     },
     {
       "number": 15,
@@ -403,7 +413,12 @@
         "draw": "4.00*",
         "away": "4.80*"
       },
-      "analysis": "Prices: 1.60 / 4.00 / 4.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.70 / No 2.05. Over 2.5 is about 1.62 (BetMGM) to 1.67 (other firms), so take it at 1.62 or better. Southampton average 2.4 goals a game over their last 10, have won four straight at home, and Over 2.5 has landed in 15 of their last 20 games and 8 of their last home games. Cyle Larin has 9 league goals. Portsmouth have gone over in 4 of their last 5 away games and drew 2-2 in their last home match. Southampton are the favourites, but the goals look the better value than the result. The edge is small, so the stake is 1%."
+      "analysis": "Prices: 1.60 / 4.00 / 4.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.70 / No 2.05. Over 2.5 is about 1.62 (BetMGM) to 1.67 (other firms), so take it at 1.62 or better. Southampton average 2.4 goals a game over their last 10, have won four straight at home, and Over 2.5 has landed in 15 of their last 20 games and 8 of their last home games. Cyle Larin has 9 league goals. Portsmouth have gone over in 4 of their last 5 away games and drew 2-2 in their last home match. Southampton are the favourites, but the goals look the better value than the result. The edge is small, so the stake is 1%.",
+      "result": {
+        "score": "1-0",
+        "outcome": "lost",
+        "pnl": -5.04
+      }
     },
     {
       "number": 25,
