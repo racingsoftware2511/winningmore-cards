@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-13",
+  "card_number": 18,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "Sunday finished two wins and one loss for +$4.09: Cagliari +1 held at 1-1 against Juventus and Rennes 4-1 Auxerre landed Both Teams to Score, while Southampton's 1-0 win over Portsmouth missed Over 2.5. Tonight is an eight-game Championship card. We priced every game across match odds, handicap, goals and BTTS, and one bet has support from team news.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Bristol City vs Blackburn Rovers",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.95*",
+        "draw": "3.40*",
+        "away": "3.60*"
+      },
+      "analysis": "Prices: Bristol City 1.95 / Draw 3.40 / Blackburn 3.60. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 2.00. Blackburn have eight players out, including four defenders (Litherland, Ribeiro, Wharton, Miller) and forwards Ohashi and Jorgensen, with Kargbo doubtful, and Bristol City have lost Dickie, Eile and Tolaj. The injuries hit both sides, and Bristol City have scored only 0.75 a game at home. The market already reflects Blackburn's problems, so the 1.95 price is fair and the goals line is level. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Burnley vs Charlton Athletic",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "3.75*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Burnley 1.62 / Draw 3.75 / Charlton 5.00. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.80 / No 1.95. Burnley have won five of six meetings and beat Watford 4-0 last time out, but 13 players are listed as out, including Mejbri, Beyer, Ramsey and Humphreys. Charlton have an unchanged, settled side with Ramsay and keeper Mannion doubtful. Burnley at 1.62 is the right favourite but the price leaves no margin, and the handicap lines are priced to match. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Cardiff City vs Watford",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.67*",
+        "draw": "4.00*",
+        "away": "4.33*"
+      },
+      "analysis": "Prices: Cardiff 1.67 / Draw 4.00 / Watford 4.33. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.50 / No 2.45. Cardiff are 21st with seven points and miss the suspended Krystian Bielik for two games. Watford are 20th, have lost three in a row, were beaten 4-0 by Burnley and have no clean sheet this season, but they have scored only seven in nine. Cardiff have not lost to Watford in five meetings. The goals prices at 1.50 to 1.53 are too short for a side that has scored 11 in nine, so there is no value in the result or the goals market. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Millwall vs Swansea City",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.50*",
+        "draw": "3.25*",
+        "away": "2.62*"
+      },
+      "analysis": "Prices: Millwall 2.50 / Draw 3.25 / Swansea 2.62. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.70 / No 2.05. Leaders Swansea (WWWLD) are without Kukharevych, Eustaquio, Burgess and Stewart, while Millwall have seven out, including goalkeeper Jensen, De Norre and Luongo. Millwall won 2-1 in this fixture in January. Both squads are thin, the prices are level and Swansea or draw at 1.53 is slightly short. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Wolverhampton Wanderers vs Bolton Wanderers",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.40*",
+        "draw": "4.50*",
+        "away": "6.50*"
+      },
+      "analysis": "Prices: Wolves 1.40 / Draw 4.50 / Bolton 6.50. Over 2.5 1.62 / Under 2.30; BTTS Yes 1.75 / No 2.00. Wolves are without Mosquera, Jimenez and Said and rotate more than most sides (58% of their XI kept), and they lost 1-0 at Middlesbrough last time. Bolton are settled but have lost two of their last three. Wolves at 1.40 is the shortest price on the card and the return does not justify the risk. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Wrexham vs West Bromwich Albion",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Under 2.5 Goals",
+      "stake": "$5.08 @ ~1.80*",
+      "odds": {
+        "home": "2.25*",
+        "draw": "3.25*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Wrexham 2.25 / Draw 3.25 / West Brom 3.00. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.80 / No 1.91. Wrexham are missing Broadhead, Cacace, Cleworth and Thomason, and Windass went off injured at the weekend. West Brom are without Johnston and Galves, lost at home to Birmingham, and have not scored in their last two games. Wrexham have drawn three of their last five. With attackers missing on both sides, we expect a cagey game. Under 2.5 is available at about 1.80, so take 1.75 or better. The edge is small, so the stake is 1%."
+    },
+    {
+      "number": 7,
+      "league": "Championship",
+      "time": "20:00 UK",
+      "match": "Stoke City vs Middlesbrough",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.40*",
+        "draw": "3.50*",
+        "away": "1.95*"
+      },
+      "analysis": "Prices: Stoke 3.40 / Draw 3.50 / Middlesbrough 1.95. Over 2.5 1.67 / Under 2.20; BTTS Yes 1.62 / No 2.20. Stoke are fourth and have won five of their last six, but they lose centre-back Maksym Talovierov to suspension. Middlesbrough are second, unbeaten in seven and unchanged, with Lankshear on seven league goals, and they are unbeaten in four against Stoke. Stoke or draw at 1.80 and the away win at 1.95 are both priced fairly for a match we expect to be close. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Championship",
+      "time": "20:00 UK",
+      "match": "Birmingham City vs Preston North End",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "3.90*",
+        "away": "4.80*"
+      },
+      "analysis": "Prices: Birmingham 1.62 / Draw 3.90 / Preston 4.80. Over 2.5 1.73 / Under 2.10; BTTS Yes 1.70 / No 2.05. Preston are bottom with four points, have scored 0.8 a game and conceded 16 in nine, and Birmingham have won the last three meetings and not lost at home. The case for Birmingham is clear, but they have drawn too many home games for the handicap to pay, and 1.62 is already the price of that case. Birmingham -0.75 is priced at about 1.95, which is fair. No bet."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the EPL, La Liga, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League, Polish Ekstraklasa or Czech First League.",
+  "avoid": "Favourites priced under 1.40 and any straight win with no margin (Wolves 1.40, Burnley 1.62, Birmingham 1.62). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 13 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $508.37. Bet responsibly."
+}
