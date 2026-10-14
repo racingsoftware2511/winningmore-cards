@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-14",
+  "card_number": 19,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "Tuesday's only bet, Wrexham vs West Brom Under 2.5, lost when West Brom won 2-1 for -$5.08. We passed on the other seven games, which ended Bristol City 0-1 Blackburn, Burnley 2-2 Charlton, Cardiff 5-1 Watford, Millwall 0-1 Swansea, Stoke 2-3 Middlesbrough, Birmingham 4-0 Preston and Wolves 1-3 Bolton, so the losing risk stayed small. Tonight is a four-game Championship card. We priced every game across match odds, goals and BTTS and back the two where team news and scoring records disagree with the price.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Queens Park Rangers vs Derby County",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.75*",
+        "draw": "3.60*",
+        "away": "4.20*"
+      },
+      "analysis": "Prices: QPR 1.75 / Draw 3.60 / Derby 4.20. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.70 / No 2.05. Derby have lost three in a row, have six players out (Agyemang, Forsyth, Murkin, Clarke, Zetterstrom, Taylor) and Bilbija and Meister are doubtful. QPR have drawn four of their last five league games, though, and miss Chair, Dembele and Kone. Derby +1 is priced about 1.65, which is fair, and QPR at 1.75 leaves no margin. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Portsmouth vs Sheffield United",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.20*",
+        "draw": "3.30*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Portsmouth 2.20 / Draw 3.30 / Sheffield United 3.00. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 1.95. Portsmouth have six players out (Kosznovszky, Ogilvie, Murphy, Umeh, Brooke-Smith, Waddingham) and are coming off a 1-0 defeat at Southampton, but they have won only two of their last ten. Sheffield United rotate (55% of the XI kept) and have Oné and Burrows doubtful. Even teams, even prices. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Norwich City vs Southampton",
+      "status": "primary",
+      "featured": false,
+      "bet_headline": "Southampton to Win",
+      "stake": "$5.03 @ ~2.60*",
+      "odds": {
+        "home": "2.40*",
+        "draw": "3.50*",
+        "away": "2.60*"
+      },
+      "analysis": "Prices: Norwich 2.40 / Draw 3.50 / Southampton 2.60. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.44 / No 2.62. Norwich have seven players out (Toure, McLean, Ahmed, Mahovo, Topic, Diallo, Chrisene), have kept only 42% of their XI over the last six games and have won once in five. Southampton are settled (82% of the XI kept, same eleven two games running), are 8-4 up in the 17 meetings and won 1-0 at Portsmouth on Sunday, with Cyle Larin on 9 league goals. Bragg is suspended and Jander is doubtful, which is why this is a small bet. Norwich are the favourites on price only, so Southampton at 2.60 is the value. Take 2.50 or better. The stake is 1%."
+    },
+    {
+      "number": 4,
+      "league": "Championship",
+      "time": "20:00 UK",
+      "match": "Lincoln City vs West Ham United",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "West Ham to Win",
+      "stake": "$7.55 @ ~1.65*",
+      "odds": {
+        "home": "4.50*",
+        "draw": "4.00*",
+        "away": "1.65*"
+      },
+      "analysis": "Prices: Lincoln 4.50 / Draw 4.00 / West Ham 1.65. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.70 / No 2.05. West Ham are third and have scored 23 in nine games (2.6 a game) with a goal difference of +11, and they are unbeaten away with one win and three draws. Lincoln are 16th, have scored only seven in nine (0.8 a game), have not won at home this season (two draws, two defeats) and have not won away either. Areola and Soucek are doubtful for West Ham and Lamadrid and Veltman are out, but the squad is deep. West Ham at 1.65 is a better price than their attack against Lincoln's record deserves. Take 1.60 or better. The stake is 1.5%."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the EPL, La Liga, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League, Polish Ekstraklasa or Czech First League.",
+  "avoid": "Goals prices that are too short to pay, such as Norwich vs Southampton Over 2.5 at 1.50, and any favourite with no margin (QPR 1.75). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 14 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $503.29. Bet responsibly."
+}
