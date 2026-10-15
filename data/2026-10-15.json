@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-15",
+  "card_number": 20,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "Europa League",
+    "Conference League"
+  ],
+  "lesson": "Wednesday finished two wins from two for +$12.96: Southampton won 1-0 at Norwich and West Ham won 6-0 at Lincoln. None of our 15 domestic leagues play today, so this is a European night card. We priced each match and found one bet where team news and form disagree with the price.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Lyon vs Crystal Palace",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.20*",
+        "draw": "3.40*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Lyon 2.20 / Draw 3.40 / Crystal Palace 3.00. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.30. Lyon lose striker Lois Openda for several weeks and Niakhate and Ouedraogo are also out. Palace are without Henderson, Mateta, Tomiyasu and Riad but come in after a 4-0 win over Lech Poznan. Both sides are weakened and the prices reflect it. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Red Bull Salzburg vs AC Milan",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.25*",
+        "draw": "3.60*",
+        "away": "2.05*"
+      },
+      "analysis": "Prices: Salzburg 3.25 / Draw 3.60 / Milan 2.05. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.38. Salzburg have been unbeaten in 15 competitive games and are second in Austria. Milan lost 2-0 to Benfica in their opener, are unbeaten in Serie A and may rotate, and Gabbia is out for about four months. Salzburg or draw is priced at about 1.75, which is close to fair. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Union Saint-Gilloise vs Real Sociedad",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.38*",
+        "draw": "3.50*",
+        "away": "2.70*"
+      },
+      "analysis": "Prices: Union 2.38 / Draw 3.50 / Real Sociedad 2.70. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.55 / No 2.45. Union have won their last four, and Sociedad are W W L L W. The match odds and goals prices are fair. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Gent vs Aarhus",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.60*",
+        "draw": "4.00*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Gent 1.60 / Draw 4.00 / Aarhus 5.00. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.91 / No 1.85. Gent are W W D W W and Aarhus W W D W L, so the form is close and Gent at 1.60 leaves no margin. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Benfica vs Celtic",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.25*",
+        "draw": "6.00*",
+        "away": "10.00*"
+      },
+      "analysis": "Prices: Benfica 1.25 / Draw 6.00 / Celtic 10.00. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.85 / No 1.91. Benfica are W L W W W and beat Milan 2-0 in their opener. A favourite at 1.25 is too short to back, so we leave it alone. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "AFC Bournemouth vs Sturm Graz",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.20*",
+        "draw": "6.50*",
+        "away": "11.00*"
+      },
+      "analysis": "Prices: Bournemouth 1.20 / Draw 6.50 / Sturm Graz 11.00. Over 2.5 1.36 / Under 2.5 3.20; BTTS Yes 1.85 / No 1.91. Bournemouth are L L W D W, and a 1.20 favourite offers no value. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Rennes vs OFI",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.22*",
+        "draw": "6.00*",
+        "away": "11.00*"
+      },
+      "analysis": "Prices: Rennes 1.22 / Draw 6.00 / OFI 11.00. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.91 / No 1.85. Rennes are W L L D W, and 1.22 is too short for a side with that form. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Celta Vigo vs Juventus",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.40*",
+        "draw": "3.25*",
+        "away": "2.10*"
+      },
+      "analysis": "Prices: Celta 3.40 / Draw 3.25 / Juventus 2.10. Over 2.5 2.10 / Under 2.5 1.73; BTTS Yes 1.83 / No 1.95. Juventus are without Yildiz, Locatelli, Thuram and Boga and have won only one of their last four league games, but Kolo Muani is in form. Celta have drawn four of their last five league games and kept consecutive clean sheets. Under 2.5 at 1.73 and the draw at 3.25 are both priced fairly for that picture. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Dinamo Zagreb vs Anderlecht",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.00*",
+        "draw": "3.40*",
+        "away": "3.60*"
+      },
+      "analysis": "Prices: Zagreb 2.00 / Draw 3.40 / Anderlecht 3.60. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.70 / No 2.10. Anderlecht are W W W L W but lost 2-1 at Lyon last time, and Zagreb are L W W D L. The prices are fair. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Ferencvaros vs Viktoria Plzen",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.91*",
+        "draw": "3.60*",
+        "away": "3.60*"
+      },
+      "analysis": "Prices: Ferencvaros 1.91 / Draw 3.60 / Plzen 3.60. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.62 / No 2.25. Ferencvaros are D D W W D and Plzen W L L L D. The home side is a fair favourite at 1.91. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Marseille vs Olympiakos",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Olympiakos to Win",
+      "stake": "$7.74 @ ~2.90*",
+      "odds": {
+        "home": "2.25*",
+        "draw": "3.40*",
+        "away": "2.90*"
+      },
+      "analysis": "Prices: Marseille 2.25 / Draw 3.40 / Olympiakos 2.90. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.57 / No 2.38. Marseille are 32nd in the league phase, lost five in a row before the international break (including 4-1 at Besiktas), have lost back-to-back home games and conceded six in their last three. They are without Hojbjerg and Cornelius. Olympiakos have won three straight, have lost once in five away games and have only El Kaabi and Yazici out. They are 13th and carry more momentum than the price suggests. Marseille have won four of six meetings, which keeps the stake moderate. Olympiakos to win at 2.90 is the value. Take 2.75 or better. The stake is 1.5%."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the EPL, La Liga, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie, Championship, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League, Polish Ekstraklasa or Czech First League. Tonight's card covers Europa League and Conference League matches.",
+  "avoid": "Favourites priced under 1.40 (Benfica 1.25, Bournemouth 1.20, Rennes 1.22). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 15 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $516.25. Bet responsibly."
+}
