@@ -6,7 +6,7 @@
     "Europa League",
     "Conference League"
   ],
-  "lesson": "Wednesday finished two wins from two for +$12.96: Southampton won 1-0 at Norwich and West Ham won 6-0 at Lincoln. None of our 15 domestic leagues play today, so this is a European night card. We priced each match and found one bet where team news and form disagree with the price.",
+  "lesson": "Thursday's one bet landed: Olympiakos won 1-0 at Marseille at about 2.90 for +$14.71. The rest of the European night was priced fairly or too short, so we stayed out and kept the card to a single bet.",
   "matches": [
     {
       "number": 1,
@@ -182,7 +182,12 @@
         "draw": "3.40*",
         "away": "2.90*"
       },
-      "analysis": "Prices: Marseille 2.25 / Draw 3.40 / Olympiakos 2.90. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.57 / No 2.38. Marseille are 32nd in the league phase, lost five in a row before the international break (including 4-1 at Besiktas), have lost back-to-back home games and conceded six in their last three. They are without Hojbjerg and Cornelius. Olympiakos have won three straight, have lost once in five away games and have only El Kaabi and Yazici out. They are 13th and carry more momentum than the price suggests. Marseille have won four of six meetings, which keeps the stake moderate. Olympiakos to win at 2.90 is the value. Take 2.75 or better. The stake is 1.5%."
+      "analysis": "Prices: Marseille 2.25 / Draw 3.40 / Olympiakos 2.90. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.57 / No 2.38. Marseille are 32nd in the league phase, lost five in a row before the international break (including 4-1 at Besiktas), have lost back-to-back home games and conceded six in their last three. They are without Hojbjerg and Cornelius. Olympiakos have won three straight, have lost once in five away games and have only El Kaabi and Yazici out. They are 13th and carry more momentum than the price suggests. Marseille have won four of six meetings, which keeps the stake moderate. Olympiakos to win at 2.90 is the value. Take 2.75 or better. The stake is 1.5%.",
+      "result": {
+        "score": "0-1",
+        "outcome": "won",
+        "pnl": 14.71
+      }
     }
   ],
   "no_fixture_today": "No fixtures today in the EPL, La Liga, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie, Championship, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League, Polish Ekstraklasa or Czech First League. Tonight's card covers Europa League and Conference League matches.",
