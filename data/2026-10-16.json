@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-16",
+  "card_number": 21,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "Thursday's one bet landed: Olympiakos won 1-0 at Marseille at about 2.90 for +$14.71. Friday is a seven-game card across seven leagues. We priced each match and found one small bet where an away side's poor road record disagrees with the price.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Eredivisie",
+      "time": "19:00 UK",
+      "match": "Heerenveen vs Excelsior",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.65*",
+        "draw": "4.20*",
+        "away": "4.50*"
+      },
+      "analysis": "Prices: Heerenveen 1.65 / Draw 4.20 / Excelsior 4.50. Over 2.5 1.44 / Under 2.5 2.70; BTTS Yes 1.50 / No 2.50. Heerenveen are L W D L D and Excelsior L D L D W, so there is little between them on form. A 1.65 favourite with that record leaves no margin, and the goals prices are too short. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Bundesliga",
+      "time": "19:30 UK",
+      "match": "Eintracht Frankfurt vs Koln",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.91*",
+        "draw": "3.90*",
+        "away": "3.30*"
+      },
+      "analysis": "Prices: Frankfurt 1.91 / Draw 3.90 / Koln 3.30. Over 2.5 1.36 / Under 2.5 3.20; BTTS Yes 1.36 / No 3.00. Frankfurt are L W D W L and were beaten 6-0 at Leipzig last Saturday. Koln are W D L D L and won 2-1 against Gladbach last time out. We could not confirm a reliable team-news picture for either side, and the match odds are fair. The goals prices at 1.36 are too short. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Ekstraklasa",
+      "time": "19:30 UK",
+      "match": "Widzew Lodz vs Wisla Krakow",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.20*",
+        "draw": "3.40*",
+        "away": "2.90*"
+      },
+      "analysis": "Prices: Widzew 2.20 / Draw 3.40 / Wisla 2.90. Over 2.5 1.67 / Under 2.5 2.15; BTTS Yes 1.57 / No 2.25. Wisla (L W W W D) are in much better form than Widzew (L D D D L), but the 2.90 already reflects that and we found no team news to add. Wisla or draw at 1.67 is close to fair. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Serie A",
+      "time": "19:45 UK",
+      "match": "Frosinone vs Sassuolo",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Frosinone to Win",
+      "stake": "$5.31 @ ~2.45*",
+      "odds": {
+        "home": "2.45*",
+        "draw": "3.40*",
+        "away": "2.60*"
+      },
+      "analysis": "Prices: Frosinone 2.45 / Draw 3.40 / Sassuolo 2.60. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.40 / No 2.75. Frosinone are ninth, have won four of their last six home games and average 2.0 points a game at home, scoring 2.0 a game there. Sassuolo have not won away (0.25 points a game in their last four away games), have conceded 2.25 a game on the road and have let in a goal in each of their last nine league games. Several Sassuolo players are injured or doubtful, including Kone, Boloca, Pieragnolo and Leysen. Frosinone have Grillitsch and Birligea doubtful. Sassuolo drew 1-1 with Milan and won 4 of their last 10, so this is not a big edge. The two sides are priced as near equals, and Sassuolo's away record says they should not be. Take 2.40 or better. Draw No Bet is a safer alternative at about 1.83. The stake is 1%."
+    },
+    {
+      "number": 5,
+      "league": "Ligue 1",
+      "time": "19:45 UK",
+      "match": "Le Mans vs Toulouse",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.90*",
+        "draw": "3.30*",
+        "away": "2.25*"
+      },
+      "analysis": "Prices: Le Mans 2.90 / Draw 3.30 / Toulouse 2.25. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.60 / No 2.30. Le Mans lost 3-1 at PSG last Saturday and are L L W D D. Toulouse drew 2-2 at Monaco and are D L W D L. Neither side has an edge on form and the prices are fair. No bet."
+    },
+    {
+      "number": 6,
+      "league": "La Liga",
+      "time": "20:00 UK",
+      "match": "Deportivo La Coruna vs Levante",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.40*",
+        "away": "3.40*"
+      },
+      "analysis": "Prices: Deportivo 2.10 / Draw 3.40 / Levante 3.40. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.70 / No 2.05. Deportivo have not won in five (L L D L D) and are without Aubameyang, Eddahchouri and Casado, with Amatucci suspended. Levante are missing Eyong, Sotelo and keeper Primo. The injuries cancel out and the prices are even. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Championship",
+      "time": "20:00 UK",
+      "match": "Burnley vs Wolverhampton Wanderers",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.00*",
+        "draw": "3.30*",
+        "away": "2.20*"
+      },
+      "analysis": "Prices: Burnley 3.00 / Draw 3.30 / Wolves 2.20. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.65 / No 2.15. Burnley have 15 players listed as out (Humphreys, Beyer, Barnes, Banel, Cullen, Mejbri and others) and drew 2-2 with Charlton on Tuesday. Wolves have six out and lost 3-1 at home to Bolton. The market already makes Burnley the underdog at home, so the price is fair and the last meeting was a 1-1 draw. No bet."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the EPL, Belgian Pro League, Primeira Liga, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League or Czech First League.",
+  "avoid": "Favourites with no margin and goals prices that are too short to pay (Heerenveen 1.65, Frankfurt-Koln Over 2.5 at 1.36). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 16 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $530.96. Bet responsibly."
+}
