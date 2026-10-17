@@ -19,7 +19,7 @@
     "Polish Ekstraklasa",
     "Czech First League"
   ],
-  "lesson": "Thursday's one bet landed: Olympiakos won 1-0 at Marseille at about 2.90 for +$14.71. Friday is a seven-game card across seven leagues. We priced each match and found one small bet where an away side's poor road record disagrees with the price.",
+  "lesson": "Friday's one bet landed: Frosinone beat Sassuolo 4-2 at about 2.45 for +$7.70, as Sassuolo's poor away record suggested. We passed on the other six games (Deportivo 1-1 Levante was one of them) because the prices were fair or too short.",
   "matches": [
     {
       "number": 1,
@@ -83,7 +83,12 @@
         "draw": "3.40*",
         "away": "2.60*"
       },
-      "analysis": "Prices: Frosinone 2.45 / Draw 3.40 / Sassuolo 2.60. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.40 / No 2.75. Frosinone are ninth, have won four of their last six home games and average 2.0 points a game at home, scoring 2.0 a game there. Sassuolo have not won away (0.25 points a game in their last four away games), have conceded 2.25 a game on the road and have let in a goal in each of their last nine league games. Several Sassuolo players are injured or doubtful, including Kone, Boloca, Pieragnolo and Leysen. Frosinone have Grillitsch and Birligea doubtful. Sassuolo drew 1-1 with Milan and won 4 of their last 10, so this is not a big edge. The two sides are priced as near equals, and Sassuolo's away record says they should not be. Take 2.40 or better. Draw No Bet is a safer alternative at about 1.83. The stake is 1%."
+      "analysis": "Prices: Frosinone 2.45 / Draw 3.40 / Sassuolo 2.60. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.40 / No 2.75. Frosinone are ninth, have won four of their last six home games and average 2.0 points a game at home, scoring 2.0 a game there. Sassuolo have not won away (0.25 points a game in their last four away games), have conceded 2.25 a game on the road and have let in a goal in each of their last nine league games. Several Sassuolo players are injured or doubtful, including Kone, Boloca, Pieragnolo and Leysen. Frosinone have Grillitsch and Birligea doubtful. Sassuolo drew 1-1 with Milan and won 4 of their last 10, so this is not a big edge. The two sides are priced as near equals, and Sassuolo's away record says they should not be. Take 2.40 or better. Draw No Bet is a safer alternative at about 1.83. The stake is 1%.",
+      "result": {
+        "score": "4-2",
+        "outcome": "won",
+        "pnl": 7.7
+      }
     },
     {
       "number": 5,
