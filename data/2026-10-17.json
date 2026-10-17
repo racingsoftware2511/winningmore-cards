@@ -1,0 +1,780 @@
+{
+  "date": "2026-10-17",
+  "card_number": 22,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "Friday's one bet landed again: Frosinone beat Sassuolo 4-2 at about 2.45 for +$7.70. Saturday is the biggest card of the week, so we priced every game across match odds, goals and BTTS and kept to the two where team news and form disagree with the price.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "EPL",
+      "time": "12:30 UK",
+      "match": "Everton vs Chelsea",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.10*",
+        "draw": "3.50*",
+        "away": "2.10*"
+      },
+      "analysis": "Prices: Everton 3.10 / Draw 3.50 / Chelsea 2.10. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.55 / No 2.40. Chelsea are without Palmer, James, Emegha and Bynoe-Gittens, have Caicedo, Pedro and Palestra doubtful and have kept only 49% of their XI over six games. Everton have kept 78% and are D W W D D after a 2-2 draw at Hull, with Mykolenko and Norgaard doubtful. Chelsea's absences are already in the 2.10, so there is no edge. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Championship",
+      "time": "12:30 UK",
+      "match": "Middlesbrough vs Cardiff City",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.53*",
+        "draw": "4.50*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Middlesbrough 1.53 / Draw 4.50 / Cardiff City 5.00. Over 2.5 1.36 / Under 2.5 3.20; BTTS Yes 1.44 / No 2.62. Middlesbrough beat Stoke 3-2 on Tuesday and are W W D D W. Cardiff beat Watford 5-1 but are W L W L D. Middlesbrough at 1.53 is a fair price for the better side, with no margin. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Championship",
+      "time": "12:30 UK",
+      "match": "Millwall vs Lincoln City",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.67*",
+        "draw": "3.75*",
+        "away": "4.60*"
+      },
+      "analysis": "Prices: Millwall 1.67 / Draw 3.75 / Lincoln City 4.60. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.75 / No 1.95. Millwall have nine players out (Esse, Luongo, Jensen, Servais, Coburn, Ivanovic, De Norre, Crama, Leonard). Lincoln lost 6-0 at home to West Ham and have McGrandles and Hamer suspended, with Darikwa, Hackett and Melia out. Both squads are thin and 1.67 already reflects the gap. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Championship",
+      "time": "12:30 UK",
+      "match": "Watford vs Charlton Athletic",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.50*",
+        "draw": "3.20*",
+        "away": "2.75*"
+      },
+      "analysis": "Prices: Watford 2.50 / Draw 3.20 / Charlton Athletic 2.75. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.70 / No 2.05. Watford lost 5-1 at Cardiff, are L L L L W and have seven players listed (Baah, Ngakia, Bove and others). Charlton drew 2-2 at Burnley, are D D L D D, have named the same eleven two games running and have Chalobah, Godden and Sichenje out. The prices are level and Charlton draw too often to back at 2.75. No bet."
+    },
+    {
+      "number": 5,
+      "league": "La Liga",
+      "time": "13:00 UK",
+      "match": "Espanyol vs Atletico Madrid",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.50*",
+        "draw": "3.60*",
+        "away": "1.75*"
+      },
+      "analysis": "Prices: Espanyol 4.50 / Draw 3.60 / Atletico Madrid 1.75. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.73 / No 2.05. Atletico won 2-1 at Alaves last time; Espanyol are D L L W D. Atletico at 1.75 is priced for the better side. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Polish Ekstraklasa",
+      "time": "13:45 UK",
+      "match": "Motor Lublin vs Slask Wroclaw",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.95*",
+        "draw": "3.50*",
+        "away": "3.40*"
+      },
+      "analysis": "Prices: Motor Lublin 1.95 / Draw 3.50 / Slask Wroclaw 3.40. Over 2.5 1.57 / Under 2.5 2.35; BTTS Yes 1.50 / No 2.45. Slask have lost five in a row (L L L L L) and Motor are W D L L W. Motor at 1.95 already carries that gap and we found no team news to add. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Czech First League",
+      "time": "14:00 UK",
+      "match": "Mlada Boleslav vs Teplice",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.30*",
+        "away": "3.25*"
+      },
+      "analysis": "Prices: Mlada Boleslav 2.10 / Draw 3.30 / Teplice 3.25. Over 2.5 1.70 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.20. Mlada Boleslav are L L W W W and Teplice D W W W L, so the sides are level on form and price. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Czech First League",
+      "time": "14:00 UK",
+      "match": "Pardubice vs Zlin",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.65*",
+        "draw": "3.60*",
+        "away": "4.80*"
+      },
+      "analysis": "Prices: Pardubice 1.65 / Draw 3.60 / Zlin 4.80. Over 2.5 1.95 / Under 2.5 1.85; BTTS Yes 1.85 / No 1.85. Pardubice are L W W W W and Zlin L L D W L. Pardubice at 1.65 is a fair price. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Czech First League",
+      "time": "14:00 UK",
+      "match": "Slavia Praha vs Hradec Kralove",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.35*",
+        "draw": "4.80*",
+        "away": "7.50*"
+      },
+      "analysis": "Prices: Slavia Praha 1.35 / Draw 4.80 / Hradec Kralove 7.50. Over 2.5 1.57 / Under 2.5 2.35; BTTS Yes 1.75 / No 1.95. Slavia are L W W W W and Hradec W L W W L. A 1.35 favourite is too short to back. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Serie A",
+      "time": "14:00 UK",
+      "match": "Venezia vs Napoli",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.40*",
+        "draw": "3.80*",
+        "away": "1.67*"
+      },
+      "analysis": "Prices: Venezia 4.40 / Draw 3.80 / Napoli 1.67. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.73 / No 2.05. Venezia have lost five in a row, including 3-1 at Atalanta. Napoli beat Frosinone 3-0 but are L W D W L. Napoli at 1.67 is already a short price for an away side with that record. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Bundesliga",
+      "time": "14:30 UK",
+      "match": "Hamburger SV vs VfB Stuttgart",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.75*",
+        "draw": "3.75*",
+        "away": "1.83*"
+      },
+      "analysis": "Prices: Hamburger SV 3.75 / Draw 3.75 / VfB Stuttgart 1.83. Over 2.5 1.40 / Under 2.5 3.00; BTTS Yes 1.40 / No 2.90. HSV won 3-2 at Hoffenheim last time and are W W W L L. Stuttgart beat Paderborn 2-0 and are W W W W L. Stuttgart at 1.83 is a fair price. No bet."
+    },
+    {
+      "number": 12,
+      "league": "Bundesliga",
+      "time": "14:30 UK",
+      "match": "SV Elversberg vs FC Augsburg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.40*",
+        "draw": "3.60*",
+        "away": "2.62*"
+      },
+      "analysis": "Prices: SV Elversberg 2.40 / Draw 3.60 / FC Augsburg 2.62. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.40 / No 2.80. Elversberg lost 1-0 at Union and are L D L W W. Augsburg drew 2-2 with Bayern and are D D L D W. Level match, level prices. No bet."
+    },
+    {
+      "number": 13,
+      "league": "Bundesliga",
+      "time": "14:30 UK",
+      "match": "Schalke 04 vs Mainz 05",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.90*",
+        "draw": "3.40*",
+        "away": "2.20*"
+      },
+      "analysis": "Prices: Schalke 04 2.90 / Draw 3.40 / Mainz 05 2.20. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.53 / No 2.50. Schalke lost 2-1 at Freiburg and are L W D W D. Mainz lost 4-3 to Leverkusen and are L W W L W. The prices are level. No bet."
+    },
+    {
+      "number": 14,
+      "league": "Bundesliga",
+      "time": "14:30 UK",
+      "match": "Union Berlin vs Borussia Dortmund",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.60*",
+        "draw": "4.00*",
+        "away": "1.62*"
+      },
+      "analysis": "Prices: Union Berlin 4.60 / Draw 4.00 / Borussia Dortmund 1.62. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.53 / No 2.50. Union beat Elversberg 1-0 but are W W L L L. Dortmund drew 2-2 with Bremen and are L D W W W. Dortmund at 1.62 is a fair price for the better side. No bet."
+    },
+    {
+      "number": 15,
+      "league": "Bundesliga",
+      "time": "14:30 UK",
+      "match": "Werder Bremen vs SC Paderborn",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.75*",
+        "draw": "3.90*",
+        "away": "3.90*"
+      },
+      "analysis": "Prices: Werder Bremen 1.75 / Draw 3.90 / SC Paderborn 3.90. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.55 / No 2.45. Bremen drew 2-2 with Dortmund and are D W D W L. Paderborn lost 2-0 to Stuttgart and are L W W L L. Bremen at 1.75 is a fair price. No bet."
+    },
+    {
+      "number": 16,
+      "league": "Scottish Premiership",
+      "time": "15:00 UK",
+      "match": "Aberdeen vs St Mirren",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.85*",
+        "draw": "3.40*",
+        "away": "4.00*"
+      },
+      "analysis": "Prices: Aberdeen 1.85 / Draw 3.40 / St Mirren 4.00. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.70 / No 2.05. Aberdeen are L W D W D and St Mirren L L L L W. Aberdeen at 1.85 already reflects the gap and we found no team news to add. No bet."
+    },
+    {
+      "number": 17,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Birmingham City vs Queens Park Rangers",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.00*",
+        "draw": "3.40*",
+        "away": "3.50*"
+      },
+      "analysis": "Prices: Birmingham City 2.00 / Draw 3.40 / Queens Park Rangers 3.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.73 / No 2.00. Birmingham beat Preston 4-0 and are W W D W L. QPR beat Derby 4-1 on Wednesday but have drawn most of their games (W D D D D). Even match with even prices. No bet."
+    },
+    {
+      "number": 18,
+      "league": "EPL",
+      "time": "15:00 UK",
+      "match": "Brentford vs Liverpool",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Brentford to Win",
+      "stake": "$5.39 @ ~2.30*",
+      "odds": {
+        "home": "2.30*",
+        "draw": "3.40*",
+        "away": "2.80*"
+      },
+      "analysis": "Prices: Brentford 2.30 / Draw 3.40 / Liverpool 2.80. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.50 / No 2.50. Brentford are fourth, unbeaten in six league games and in eight at home, and drew 2-2 at Aston Villa. Liverpool lost 3-0 to Manchester City, then won 6-3 at LASK in midweek, and are missing Ekitike and Bradley, with Gravenberch suspended. Szoboszlai, Isak and Gakpo are doubtful and unlikely to start, and Liverpool are expected to rotate. Brentford have Schade, Schuster, Damsgaard and Collins doubtful. Liverpool are priced as the stronger side on reputation, and with their forwards missing Brentford at 2.30 is the value. Take 2.25 or better. Draw No Bet is about 1.70. The stake is 1%."
+    },
+    {
+      "number": 19,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Bristol City vs Sheffield United",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.95*",
+        "draw": "3.40*",
+        "away": "3.60*"
+      },
+      "analysis": "Prices: Bristol City 1.95 / Draw 3.40 / Sheffield United 3.60. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.67 / No 2.10. Bristol City lost 1-0 to Blackburn and are L D W W L. Sheffield United lost 3-2 at Portsmouth and are L W L L L. The price for the home side is fair. No bet."
+    },
+    {
+      "number": 20,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Derby County vs Stoke City",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Stoke City +0.25 Asian Handicap",
+      "stake": "$8.08 @ ~1.64*",
+      "odds": {
+        "home": "2.62*",
+        "draw": "3.30*",
+        "away": "2.50*"
+      },
+      "analysis": "Prices: Derby County 2.62 / Draw 3.30 / Stoke City 2.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 2.00. Derby are 23rd, winless in six and lost 4-1 at QPR on Wednesday. They have scored only nine goals (third-lowest) and conceded 19, and they are without Langas, Clarke, Cashin, Johnston, Murkin, Taylor, Zetterstrom and Agyemang. Stoke are eighth, have won five of ten and lost 3-2 to Middlesbrough on Tuesday. Talovierov returns from suspension, though Ampah, Cresswell, Ingelsson and Gallagher are out. Stoke have not won at Derby in their last six league visits, which keeps the stake moderate. The match odds make this a level game, and Derby's form and squad do not support that. Stoke +0.25 pays at about 1.64, so take 1.60 or better. It wins if Stoke win, returns half the stake on a draw and loses only if Derby win. The stake is 1.5%."
+    },
+    {
+      "number": 21,
+      "league": "EPL",
+      "time": "15:00 UK",
+      "match": "Fulham vs Hull City",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.70*",
+        "draw": "3.75*",
+        "away": "4.50*"
+      },
+      "analysis": "Prices: Fulham 1.70 / Draw 3.75 / Hull City 4.50. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.70 / No 2.10. Fulham lost 2-1 at Ipswich and are L D D L L. Hull drew 2-2 with Everton and are D L D L D. A 1.70 favourite with that form leaves no margin. No bet."
+    },
+    {
+      "number": 22,
+      "league": "Scottish Premiership",
+      "time": "15:00 UK",
+      "match": "Hibernian vs Falkirk",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.65*",
+        "draw": "3.75*",
+        "away": "4.80*"
+      },
+      "analysis": "Prices: Hibernian 1.65 / Draw 3.75 / Falkirk 4.80. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.73 / No 2.05. Hibernian are 10th with seven points and L D L W L; Falkirk are 11th with six and L D W D L. A 1.65 favourite with that form leaves no margin. No bet."
+    },
+    {
+      "number": 23,
+      "league": "Scottish Premiership",
+      "time": "15:00 UK",
+      "match": "Kilmarnock vs Motherwell",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.30*",
+        "draw": "3.40*",
+        "away": "2.05*"
+      },
+      "analysis": "Prices: Kilmarnock 3.30 / Draw 3.40 / Motherwell 2.05. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.55 / No 2.30. Motherwell are L L L L W yet remain 2.05 favourites away from home. Kilmarnock are L D W D L. We found no team news to separate the sides. No bet."
+    },
+    {
+      "number": 24,
+      "league": "EPL",
+      "time": "15:00 UK",
+      "match": "Manchester City vs Ipswich Town",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.22*",
+        "draw": "6.50*",
+        "away": "10.00*"
+      },
+      "analysis": "Prices: Manchester City 1.22 / Draw 6.50 / Ipswich Town 10.00. Over 2.5 1.36 / Under 2.5 3.20; BTTS Yes 1.75 / No 2.00. City beat Liverpool 3-0 last time. Ipswich beat Fulham 2-1, but a 1.22 favourite is too short to back. No bet."
+    },
+    {
+      "number": 25,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Norwich City vs Portsmouth",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.67*",
+        "draw": "3.70*",
+        "away": "4.60*"
+      },
+      "analysis": "Prices: Norwich City 1.67 / Draw 3.70 / Portsmouth 4.60. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.67 / No 2.10. Norwich have seven players out (Diallo, Toure, McLean, Ahmed, Mahovo, Topic, Chrisene), rotate heavily (44% of the XI kept) and lost 1-0 to Southampton on Wednesday. Portsmouth have seven out (Kosznovszky, Ogilvie, Murphy, Umeh and others), lost 1-0 at Southampton last Sunday and beat Sheffield United 3-2 on Wednesday. Both teams are depleted, and Portsmouth or draw at about 2.05 is fair for that. No bet."
+    },
+    {
+      "number": 26,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Southampton vs Bolton Wanderers",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.44*",
+        "draw": "4.60*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: Southampton 1.44 / Draw 4.60 / Bolton Wanderers 5.50. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.53 / No 2.40. Southampton won 1-0 at Norwich on Wednesday and are W W L W W. Bolton beat Wolves 3-1 but are W L W W L. A 1.44 favourite leaves no margin. No bet."
+    },
+    {
+      "number": 27,
+      "league": "Scottish Premiership",
+      "time": "15:00 UK",
+      "match": "St Johnstone vs Dundee United",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.50*",
+        "draw": "3.30*",
+        "away": "2.50*"
+      },
+      "analysis": "Prices: St Johnstone 2.50 / Draw 3.30 / Dundee United 2.50. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.62 / No 2.20. St Johnstone are W D L W D and Dundee United W W D L W. Level match, level prices. No bet."
+    },
+    {
+      "number": 28,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Swansea City vs West Ham United",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.00*",
+        "draw": "3.50*",
+        "away": "2.15*"
+      },
+      "analysis": "Prices: Swansea City 3.00 / Draw 3.50 / West Ham United 2.15. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.57 / No 2.30. Swansea lead the table but are without Lissah (suspended), Eustaquio, Key, Burgess, Kukharevych and Stewart. West Ham won 6-0 at Lincoln on Wednesday, have Lamadrid and Veltman out with Areola and Soucek doubtful, and rotate (62% of the XI kept). West Ham at 2.15 and Swansea at 3.00 are both fair. No bet."
+    },
+    {
+      "number": 29,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "West Bromwich Albion vs Blackburn Rovers",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.91*",
+        "draw": "3.40*",
+        "away": "3.80*"
+      },
+      "analysis": "Prices: West Bromwich Albion 1.91 / Draw 3.40 / Blackburn Rovers 3.80. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.80 / No 1.91. West Brom won 2-1 at Wrexham and are W L L D W. Blackburn won 1-0 at Bristol City despite a long injury list and are W W D W L. The prices are level. No bet."
+    },
+    {
+      "number": 30,
+      "league": "Championship",
+      "time": "15:00 UK",
+      "match": "Wrexham vs Preston North End",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.67*",
+        "draw": "3.60*",
+        "away": "4.80*"
+      },
+      "analysis": "Prices: Wrexham 1.67 / Draw 3.60 / Preston North End 4.80. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 1.95. Wrexham lost 2-1 to West Brom and are L D W L D, with four players out. Preston are bottom, lost 4-0 at Birmingham and are L L D L L. Wrexham at 1.67 is a fair price. No bet."
+    },
+    {
+      "number": 31,
+      "league": "La Liga",
+      "time": "15:15 UK",
+      "match": "Villarreal vs Elche",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.44*",
+        "draw": "4.50*",
+        "away": "6.00*"
+      },
+      "analysis": "Prices: Villarreal 1.44 / Draw 4.50 / Elche 6.00. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.57 / No 2.30. Villarreal lost 1-0 at Real Madrid and are L W W L L. Elche drew 0-0 at Celta. A 1.44 favourite with that form leaves no margin. No bet."
+    },
+    {
+      "number": 32,
+      "league": "Eredivisie",
+      "time": "15:30 UK",
+      "match": "ADO Den Haag vs PSV Eindhoven",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "8.50*",
+        "draw": "6.00*",
+        "away": "1.25*"
+      },
+      "analysis": "Prices: ADO Den Haag 8.50 / Draw 6.00 / PSV Eindhoven 1.25. Over 2.5 1.25 / Under 2.5 4.00; BTTS Yes 1.50 / No 2.50. PSV at 1.25 is too short to back. No bet."
+    },
+    {
+      "number": 33,
+      "league": "Austrian Bundesliga",
+      "time": "16:00 UK",
+      "match": "Austria Lustenau vs LASK",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "7.50*",
+        "draw": "4.60*",
+        "away": "1.36*"
+      },
+      "analysis": "Prices: Austria Lustenau 7.50 / Draw 4.60 / LASK 1.36. Over 2.5 1.44 / Under 2.5 2.70; BTTS Yes 1.67 / No 2.10. LASK are third with 16 points and Lustenau eighth with eight. A 1.36 favourite is too short to back. No bet."
+    },
+    {
+      "number": 34,
+      "league": "Ligue 1",
+      "time": "16:15 UK",
+      "match": "Strasbourg vs Paris Saint-Germain",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "6.00*",
+        "draw": "5.00*",
+        "away": "1.40*"
+      },
+      "analysis": "Prices: Strasbourg 6.00 / Draw 5.00 / Paris Saint-Germain 1.40. Over 2.5 1.33 / Under 2.5 3.40; BTTS Yes 1.50 / No 2.60. PSG have won their last five. Strasbourg lost 2-1 to Nice. A 1.40 favourite is too short to back. No bet."
+    },
+    {
+      "number": 35,
+      "league": "Serie A",
+      "time": "17:00 UK",
+      "match": "Bologna vs Inter Milan",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "5.50*",
+        "draw": "3.80*",
+        "away": "1.57*"
+      },
+      "analysis": "Prices: Bologna 5.50 / Draw 3.80 / Inter Milan 1.57. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.67 / No 2.15. Bologna won 2-1 at Lecce and are W D L D L. Inter beat Parma 3-0 and are L W W D W. Inter at 1.57 is a fair price for the better side. No bet."
+    },
+    {
+      "number": 36,
+      "league": "Czech First League",
+      "time": "17:00 UK",
+      "match": "Sigma Olomouc vs Slovan Liberec",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.49*",
+        "draw": "3.36*",
+        "away": "2.58*"
+      },
+      "analysis": "Prices: Sigma Olomouc 2.49 / Draw 3.36 / Slovan Liberec 2.58. Over 2.5 1.87 / Under 2.5 1.87; BTTS Yes 1.67 / No 2.05. Olomouc are D W L W D and Liberec L W D W W. Level match, level prices. No bet."
+    },
+    {
+      "number": 37,
+      "league": "Bundesliga",
+      "time": "17:30 UK",
+      "match": "Bayern Munich vs RB Leipzig",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.22*",
+        "draw": "6.50*",
+        "away": "9.00*"
+      },
+      "analysis": "Prices: Bayern Munich 1.22 / Draw 6.50 / RB Leipzig 9.00. Over 2.5 1.14 / Under 2.5 5.50; BTTS Yes 1.36 / No 3.00. Leipzig beat Frankfurt 6-0 last Saturday, but Bayern at 1.22 is too short to back. No bet."
+    },
+    {
+      "number": 38,
+      "league": "EPL",
+      "time": "17:30 UK",
+      "match": "Newcastle United vs Aston Villa",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.15*",
+        "draw": "3.50*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Newcastle United 2.15 / Draw 3.50 / Aston Villa 3.00. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.55 / No 2.40. Newcastle lost 4-1 at Coventry on Monday, have kept 84% of their XI and have Jaouen, Ramsey, Elanga and Livramento out. Villa played in the Champions League on Wednesday, are expected to rotate (64% of the XI kept) and have Maatsen, Onana and Cash out, but are W D W W W. Newcastle at 2.15 and Villa at 3.00 are both fairly priced. No bet."
+    },
+    {
+      "number": 39,
+      "league": "La Liga",
+      "time": "17:30 UK",
+      "match": "Real Betis vs Barcelona",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "5.50*",
+        "draw": "4.80*",
+        "away": "1.36*"
+      },
+      "analysis": "Prices: Real Betis 5.50 / Draw 4.80 / Barcelona 1.36. Over 2.5 1.20 / Under 2.5 4.50; BTTS Yes 1.36 / No 3.00. Betis beat Osasuna 5-2 but Barcelona at 1.36 is too short to back. No bet."
+    },
+    {
+      "number": 40,
+      "league": "Austrian Bundesliga",
+      "time": "18:30 UK",
+      "match": "SV Ried vs Austria Wien",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.30*",
+        "draw": "3.40*",
+        "away": "2.75*"
+      },
+      "analysis": "Prices: SV Ried 2.30 / Draw 3.40 / Austria Wien 2.75. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.62 / No 2.20. Ried are W D W D W and Austria Wien L W D W W. Level match, level prices. No bet."
+    },
+    {
+      "number": 41,
+      "league": "Eredivisie",
+      "time": "19:00 UK",
+      "match": "Telstar vs Feyenoord",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "7.50*",
+        "draw": "5.00*",
+        "away": "1.30*"
+      },
+      "analysis": "Prices: Telstar 7.50 / Draw 5.00 / Feyenoord 1.30. Over 2.5 1.33 / Under 2.5 3.40; BTTS Yes 1.50 / No 2.40. Feyenoord at 1.30 is too short to back. No bet."
+    },
+    {
+      "number": 42,
+      "league": "Polish Ekstraklasa",
+      "time": "19:15 UK",
+      "match": "Cracovia Krakow vs Legia Warszawa",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.75*",
+        "draw": "3.20*",
+        "away": "2.40*"
+      },
+      "analysis": "Prices: Cracovia Krakow 2.75 / Draw 3.20 / Legia Warszawa 2.40. Over 2.5 1.85 / Under 2.5 1.95; BTTS Yes 1.62 / No 2.20. Legia have won four and drawn one of their last five; Cracovia have lost four of five. Legia are already the favourite at 2.40 away from home and we found no team news to add. No bet."
+    },
+    {
+      "number": 43,
+      "league": "Serie A",
+      "time": "19:45 UK",
+      "match": "AS Roma vs Genoa",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.53*",
+        "draw": "4.00*",
+        "away": "5.80*"
+      },
+      "analysis": "Prices: AS Roma 1.53 / Draw 4.00 / Genoa 5.80. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.85 / No 1.85. Roma drew 0-0 at Como and have drawn three of their last five; Genoa have two wins from five. Roma at 1.53 leaves no margin. No bet."
+    },
+    {
+      "number": 44,
+      "league": "Ligue 1",
+      "time": "19:45 UK",
+      "match": "Lille vs Brest",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.80*",
+        "draw": "3.70*",
+        "away": "4.00*"
+      },
+      "analysis": "Prices: Lille 1.80 / Draw 3.70 / Brest 4.00. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.70 / No 2.10. Lille beat Le Havre 1-0 and Brest won 5-1 against Angers. Lille at 1.80 is a fair price. No bet."
+    },
+    {
+      "number": 45,
+      "league": "Scottish Premiership",
+      "time": "20:00 UK",
+      "match": "Dundee vs Rangers",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "7.00*",
+        "draw": "4.75*",
+        "away": "1.36*"
+      },
+      "analysis": "Prices: Dundee 7.00 / Draw 4.75 / Rangers 1.36. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.73 / No 2.05. Rangers have won their last five. Dundee are W W L D L. A 1.36 favourite is too short to back. No bet."
+    },
+    {
+      "number": 46,
+      "league": "Eredivisie",
+      "time": "20:00 UK",
+      "match": "Sparta Rotterdam vs Willem II",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.60*",
+        "draw": "4.00*",
+        "away": "4.75*"
+      },
+      "analysis": "Prices: Sparta Rotterdam 1.60 / Draw 4.00 / Willem II 4.75. Over 2.5 1.48 / Under 2.5 2.60; BTTS Yes 1.50 / No 2.45. Sparta are D L L D L and Willem II L L L D L, so a 1.60 favourite with that record leaves no margin. No bet."
+    },
+    {
+      "number": 47,
+      "league": "La Liga",
+      "time": "20:00 UK",
+      "match": "Valencia vs Athletic Club",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.25*",
+        "draw": "3.20*",
+        "away": "2.20*"
+      },
+      "analysis": "Prices: Valencia 3.25 / Draw 3.20 / Athletic Club 2.20. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.80 / No 1.95. Valencia drew 2-2 at Racing and are D L W L L; Athletic are D D W W L. The prices are fair. No bet."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the Belgian Pro League, Primeira Liga, Danish Superliga or Swiss Super League.",
+  "avoid": "Favourites priced under 1.40 (Manchester City, Bayern Munich, Barcelona, PSV, Feyenoord, Rangers, LASK, Slavia Praha). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 17 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $538.66. Bet responsibly."
+}
