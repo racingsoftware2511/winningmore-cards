@@ -1,556 +1,396 @@
 {
   "date": "2026-10-18",
-  "card_number": 27,
-  "season_label": "2026/27 World Season",
+  "card_number": 23,
+  "season_label": "2026/27 Season",
   "leagues_covered": [
-    "J1 League",
-    "K League 1",
-    "Chinese Super League",
-    "Turkish Super Lig",
-    "Greek Super League",
-    "Russian Premier League",
-    "Ukrainian Premier League",
-    "Croatian HNL",
-    "Serbian SuperLiga",
-    "Allsvenskan",
-    "Eliteserien",
-    "Saudi Pro League",
-    "Qatar Stars League",
-    "UAE Pro League",
-    "South African Premiership",
-    "Brasileirão",
-    "Argentina Liga Profesional",
-    "Colombia Primera A",
-    "Uruguay Primera",
-    "MLS",
-    "Liga MX"
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
   ],
-  "lesson": "Settled: card #26 (17 Oct) won. Levadiakos 0-0 Volos, so Both Teams To Score - No paid +$9.50 (Fox Sports, voetbalwedden and Sky Sports all show 0-0). Running total is now 29W-12L-6V, +$133.06 confirmed net. Today there is no bet. 58 league games were researched and none has a named-bookmaker price that beats its break-even by about four points: the favourites are priced out (Hammarby 1.22, Panathinaikos 1.22, Molde 1.36, Dinamo 1.38, Beijing 1.43), and the mid-price games sit at the market number. The three closest were Wuhan vs Shenhua draw at 4.33 (Betway, about four points by our count, but a best-of-market straight draw bet), Beijing vs Qingdao West Coast draw at 5.11 (1xbet) and Seoul vs Gimcheon Under 2.5, whose only price was an unnamed 2.25 from an undated prediction site. Several leagues carry no usable prices on the pages that exist (Ukraine, Colombia, Uruguay, the UAE and some Norwegian and Greek games), which is a reason to pass, not a reason to guess. Reminder from card #24: a fixture list is not a postponement check. Betfred's 18 Oct page still showed Al Nassr vs Neom (moved to 20 Oct) and Al-Sadd vs Al-Duhail (marked cancelled, reason unknown), and it showed Al-Ettifaq vs Al-Ittihad one day after Ettifaq's last game. Passing a day is a result too.",
-  "matches": [],
-  "no_fixture_today": {
-    "intro": "Window: 8:00 AM UK Sunday 18 Oct to 8:00 AM UK Monday 19 Oct, all kickoffs in UK time. Every league in scope was checked against Betfred's dated fixture list for 18 Oct and cross-checked with local sources. There are 58 league games in the window, plus three Betfred listings that are not live games (one cancelled, one moved to 20 Oct, one unconfirmed). None clears the bar, so each game is listed under 'Avoid today' with the reason it sits out. As of 6:10 AM UK no game in the window had started.",
-    "sections": [
-      {
-        "title": "Asia (Sunday morning to afternoon, UK time)",
-        "items": [
-          "J1 League: Machida vs Avispa (8:00 AM). K League 1 round 32: Seoul vs Gimcheon, Gangwon vs Incheon and Pohang vs Anyang (all 8:30 AM)",
-          "Chinese Super League round 28: Wuhan Three Towns vs Shenhua (11:00 AM), Beijing Guoan vs Qingdao West Coast (12:00 PM), Shanghai Port vs Chengdu (1:00 PM)"
-        ]
+  "lesson": "Saturday's two bets split for a net loss of $0.22: Stoke +0.25 won at Derby (+$5.17) and Brentford lost to Liverpool (-$5.39). Sunday is a lighter card with several favourites too short to back, so we keep to one small bet where Manchester United's injuries and rotation are not fully in the price.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Polish Ekstraklasa",
+      "time": "11:15 UK",
+      "match": "Gornik Zabrze vs Piast Gliwice",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.60*",
+        "draw": "3.80*",
+        "away": "4.80*"
       },
-      {
-        "title": "Europe (Sunday)",
-        "items": [
-          "Turkish Süper Lig: Kasımpaşa vs Samsunspor (11:30 AM), Kocaelispor vs Göztepe (2:00 PM), Başakşehir vs Gaziantep (5:00 PM)",
-          "Greek Super League round 7: Kalamata vs OFI (2:00 PM), Panetolikos vs Olympiacos (3:00 PM), Panathinaikos vs Asteras (3:30 PM), Kifisia vs Aris (6:00 PM), PAOK vs Iraklis (7:00 PM). The only postponement in the round is Atromitos vs AEK, from last week's card",
-          "Russian Premier League: Zenit vs Akhmat (12:00 PM), Dynamo Moscow vs CSKA (2:15 PM), Spartak vs Rubin (4:30 PM), Baltika vs Rostov (6:45 PM). Ukrainian Premier League: Kryvbas vs LNZ and Polissya vs Dynamo Kyiv (11:00 AM), Karpaty vs Epitsentr (4:00 PM)",
-          "Croatian HNL: Hajduk vs Varaždin (2:00 PM), Slaven vs Dinamo Zagreb (5:00 PM). Serbian SuperLiga: Novi Pazar vs IMT (1:00 PM), Zvezda vs Mladost (3:00 PM), Železničar vs Partizan (5:30 PM)",
-          "Allsvenskan: Sirius vs Elfsborg and Västerås vs Mjällby (1:00 PM), Örgryte vs GAIS, Malmö vs Häcken and Halmstad vs Hammarby (3:30 PM). Eliteserien: Sarpsborg vs Rosenborg (1:30 PM), Molde vs Start, Vålerenga vs Brann and Sandefjord vs Lillestrøm (4:00 PM), Tromsø vs KFUM (6:15 PM)"
-        ]
+      "analysis": "Prices: Gornik Zabrze 1.60 / Draw 3.80 / Piast Gliwice 4.80. Over 2.5 1.73 / Under 2.5 2.08; BTTS Yes 1.73 / No 2.00. Gornik are W L D W W and Piast W L L W W. Gornik at 1.60 is a fair price for the home side and we found no team news to add. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Serie A",
+      "time": "11:30 UK",
+      "match": "Udinese vs Lecce",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.80*",
+        "draw": "3.40*",
+        "away": "4.20*"
       },
-      {
-        "title": "Gulf and Africa (Sunday)",
-        "items": [
-          "Qatar Stars League: Al-Gharafa vs Al-Rayyan (5:45 PM); Al-Sadd vs Al-Duhail (3:30 PM) is shown as cancelled. Saudi Pro League: Al Fateh vs Al Khaleej (7:00 PM); Al Nassr vs Neom has moved to Tuesday 20 Oct and Al-Ettifaq vs Al-Ittihad is not confirmed for Sunday",
-          "UAE Pro League: Khorfakkan vs Al-Wahda and Kalba vs Jazira (2:05 PM), Ajman vs Sharjah (4:45 PM). South African Premiership: Siwelele vs Polokwane City (2:30 PM)",
-          "Egypt: no Egyptian Premier League game on 18 or 19 Oct; round 7 is on 20 and 21 Oct (Al Bayan), and Betfred's list shows none"
-        ]
+      "analysis": "Prices: Udinese 1.80 / Draw 3.40 / Lecce 4.20. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.85 / No 1.91. Udinese are L D L L L and Lecce L L W L L. A 1.80 favourite with that record leaves no margin. No bet."
+    },
+    {
+      "number": 3,
+      "league": "La Liga",
+      "time": "13:00 UK",
+      "match": "Osasuna vs Racing Santander",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.00*",
+        "draw": "3.40*",
+        "away": "3.50*"
       },
-      {
-        "title": "The Americas (Sunday evening to Monday morning, UK time)",
-        "items": [
-          "Brazil round 31: Fluminense vs Santos and Grêmio vs Cruzeiro (8:00 PM), Bahia vs Flamengo (10:30 PM), Remo vs Bragantino (11:30 PM). Argentina fecha 13: Racing vs Independiente (6:45 PM), Estudiantes vs San Lorenzo and Estudiantes Río Cuarto vs Aldosivi (10:00 PM), Belgrano vs River (12:15 AM Monday)",
-          "Colombia Primera A: Águilas Doradas vs Tolima (8:00 PM), Bucaramanga vs América de Cali (10:00 PM). Uruguay Clausura: Albion vs Torque (2:00 PM), Danubio vs Central Español (7:00 PM), Liverpool vs Peñarol (10:30 PM)",
-          "MLS: Cincinnati vs Columbus (10:00 PM), the only Sunday game; the other 14 weekend games were on Saturday night. Liga MX jornada 12: Monterrey vs Pachuca (2:00 AM Monday), the last of the nine round games"
-        ]
+      "analysis": "Prices: Osasuna 2.00 / Draw 3.40 / Racing Santander 3.50. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.53 / No 2.40. Osasuna are L D L L L and Racing D L L W L, so both sides are out of form. Osasuna at 2.00 is a fair price. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Ligue 1",
+      "time": "14:00 UK",
+      "match": "Angers vs Marseille",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.25*",
+        "draw": "3.50*",
+        "away": "2.05*"
       },
-      {
-        "title": "No game in the window",
-        "items": [
-          "Chile: no Primera game (the only Chilean games on Betfred's list are Primera B; fecha 25 starts on 23 Oct)",
-          "Already covered by the 17 Oct card: Okayama vs Kobe, Daejeon vs Gwangju and Jeonbuk vs Jeju (early Sunday), and Saturday night's MLS and Liga MX games. Argentina's Monday games (Newell's, Sarmiento, Riestra) start after the window closes, and Brazil's Corinthians vs Vitória is on Tuesday"
-        ]
-      }
-    ]
-  },
-  "avoid": {
-    "intro": "Every game in the window (58 of them) was researched and none cleared our bar, so there is no bet today; the three Betfred listings that are not live games are included so nobody backs them off an old fixture list. Prices are as listed by named bookmakers on comparison sites (Bet365 via kickoff.co.uk, Wincomparator, Sportytrader, Betfred, 22Bet, 17-18 Oct) and are indicative; 'unnamed' means the page did not name its bookmaker, and we do not publish a bet off an unnamed price. 'Fair' figures are our own arithmetic from the three-way prices with the margin removed, a rough guide, not a quote. Where a game says 'No odds found', we looked for a named-bookmaker price and could not find one; for the Colombian, Uruguayan, Ukrainian, Gulf and some Norwegian and Greek games the pages that exist carry no prices, so those games could not be priced.",
-    "sections": [
-      {
-        "title": "Japan and South Korea (Sunday morning, UK time)",
-        "items": [
-          {
-            "match": "Machida Zelvia vs Avispa Fukuoka (8:00 AM)",
-            "price": "Machida 1.76, draw 3.30, Avispa 4.33; Machida draw no bet 1.33; Over 2.5 at 2.08, Under 1.73; BTTS Yes 1.95, No 1.80 (Bet365 via kickoff.co.uk)",
-            "why": [
-              "Machida (4th, 20 points) against 17th-placed Avispa, but the draw no bet at 1.33 needs 75.2% against a fair 71%, and Over 2.5 at 2.08 needs 48.1% against our 48 to 51%, so there is no edge on any line",
-              "The last four meetings finished 0-0, 2-2, 3-0 to Machida and 0-0, and both clubs played midweek (Machida won 1-0 at Tampines in Asia; Avispa lost in the League Cup)"
-            ]
-          },
-          {
-            "match": "FC Seoul vs Gimcheon Sangmu (8:30 AM)",
-            "price": "Seoul 1.55 (1xbet), draw 4.33 (Bwin), Gimcheon 5.75 (Bet365); unnamed Under 2.5 at 2.25",
-            "why": [
-              "Seoul lead the league (65 points, 20W-5D-6L) and need seven more for the title, but they lost 3-0 at Melbourne in the Asian competition on Wednesday and the manager hinted at rotation; Gimcheon are 5W-18D-8L, so no side-only price has an edge",
-              "The Under 2.5 at 2.25 is the one number that looked large (our rough count puts the under near 55% against the 44% it needs), but it comes from an undated, unnamed prediction site and is a twelve-point gap to the market, so we do not publish it; Seoul have scored 84 in 31 and one Gimcheon meeting finished 6-2"
-            ]
-          },
-          {
-            "match": "Gangwon vs Incheon United (8:30 AM)",
-            "price": "Gangwon 2.21 (Stake), draw 3.25 (Bwin), Incheon 3.45 (BC Game)",
-            "why": [
-              "3rd against 7th, level on the market: the draw at 3.25 needs 30.8% and we put it at 30 to 32%; Gangwon played in Asia on Thursday (lost 2-1 to Phnom Penh Crown) and have won five and drawn one of the last six meetings, but there is no draw-protected price"
-            ]
-          },
-          {
-            "match": "Pohang Steelers vs FC Anyang (8:30 AM)",
-            "price": "Pohang 2.05 (Bwin), draw 3.50 (1xbet), Anyang 3.70 (Bet365)",
-            "why": [
-              "Pohang have lost two straight (0-2 to Johor in Asia on 13 Oct and 0-3 at Incheon) but have won four of the last five meetings; Anyang at 3.70 needs 27.0% against about 25%, and no draw-protected line was found"
-            ]
-          }
-        ]
+      "analysis": "Prices: Angers 3.25 / Draw 3.50 / Marseille 2.05. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.53 / No 2.45. Angers have kept the same eleven (89% of the XI over six games) and are L W D L W, but have Lefort suspended and Simbakoli out, with Camara and Kalulu doubtful. Marseille are L W L L L, played in the Europa League three days earlier and have Cornelius and Hojbjerg out with Kondogbia, Nnadi and Gouiri doubtful. Marseille at 2.05 already carries their poor run and the rotation. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Czech First League",
+      "time": "14:00 UK",
+      "match": "Banik Ostrava vs Sparta Praha",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.00*",
+        "draw": "3.80*",
+        "away": "1.73*"
       },
-      {
-        "title": "Chinese Super League (round 28)",
-        "items": [
-          {
-            "match": "Wuhan Three Towns vs Shanghai Shenhua (11:00 AM)",
-            "price": "Wuhan 2.88 (1xbet), draw 4.33 (Betway), Shenhua 2.28 (Unibet)",
-            "why": [
-              "The nearest thing to a lean on the slate: Wuhan (15th) have drawn 12 of 27 league games and Shenhua played in Cambodia on Thursday, so the draw at 4.33 needs 23.1% against our 27%",
-              "We pass: it is a best-of-market price from a comparison site, a straight draw bet with no protection, Shenhua have won three of the last five meetings, and the page's over/under rows were mis-parsed"
-            ]
-          },
-          {
-            "match": "Beijing Guoan vs Qingdao West Coast (12:00 PM)",
-            "price": "Beijing 1.43 (1xbet), draw 5.11 (1xbet), Qingdao 6.75 (Unibet)",
-            "why": [
-              "Qingdao have drawn 14 of 27, and three of the last six meetings finished level, so the draw at 5.11 (19.6% needed) is a 23 to 24% shot for us, but Beijing's listed points do not add up (12W-10D-5L is 46, the page says 41) and Beijing played in Asia on 13 Oct",
-              "Beijing at 1.43 is about fair (a 69.9% chance needed), and the Qingdao here is West Coast, not Hainiu"
-            ]
-          },
-          {
-            "match": "Shanghai Port vs Chengdu Rongcheng (1:00 PM)",
-            "price": "Port 2.04 (Unibet), draw 3.96 (1xbet), Chengdu 3.30 (1xbet); odds page date unclear",
-            "why": [
-              "Leaders Chengdu (52 points) at 3.30 away against 7th-placed Port, who drew 1-1 at home to Daejeon in Asia on 13 Oct; the odds page says 11 Oct but includes 13 Oct results, and no Chengdu draw no bet or handicap price was found"
-            ]
-          }
-        ]
+      "analysis": "Prices: Banik Ostrava 4.00 / Draw 3.80 / Sparta Praha 1.73. Over 2.5 1.60 / Under 2.5 2.30; BTTS Yes 1.57 / No 2.25. Sparta have won their last four (D W W W W). Banik are L D W D L. Sparta at 1.73 away from home is a fair price. No bet."
+    },
+    {
+      "number": 6,
+      "league": "EPL",
+      "time": "14:00 UK",
+      "match": "Brighton vs Crystal Palace",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.33*",
+        "away": "5.50*"
       },
-      {
-        "title": "Turkey: Süper Lig (week 8)",
-        "items": [
-          {
-            "match": "Kasımpaşa vs Samsunspor (11:30 AM)",
-            "price": "Bet365: 2.30 / 3.30 / 2.70; draw no bet 1.73 / 2.00; Over 2.5 at 2.00, Under 1.80; BTTS Yes 1.80, No 1.91",
-            "why": [
-              "Samsunspor (17th) have lost five straight, but that is already in the price: Kasımpaşa draw no bet at 1.73 needs 57.8% against a fair 54%, and the draw at 3.30 is under fair as well"
-            ]
-          },
-          {
-            "match": "Kocaelispor vs Göztepe (2:00 PM)",
-            "price": "Bet365: 2.80 / 3.30 / 2.25; draw no bet 2.10 / 1.67; Over 2.5 at 1.90; BTTS Yes 1.73, No 2.00",
-            "why": [
-              "Kocaelispor have won their last three at home with three clean sheets, but that is a three-game sample and the page's form and head-to-head blocks mix seasons; their draw no bet at 2.10 needs 47.6% against a fair 44.6%"
-            ]
-          },
-          {
-            "match": "İstanbul Başakşehir vs Gaziantep (5:00 PM)",
-            "price": "Bet365: 1.57 / 4.00 / 4.75; draw no bet 1.25; Over 2.5 at 1.57, Under 2.35",
-            "why": [
-              "Başakşehir have won five straight home meetings with Gaziantep and Gaziantep have failed to score in three, but the market has it: draw no bet at 1.25 needs 80% against a fair 75%, and the over at 1.57 needs 63.7% against about 60%"
-            ]
-          }
-        ]
+      "analysis": "Prices: Brighton 1.50 / Draw 4.33 / Crystal Palace 5.50. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.62 / No 2.20. Brighton have won their last five. Palace are L W L D W. Brighton at 1.50 already prices that gap and we found no team news to add. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Serie A",
+      "time": "14:00 UK",
+      "match": "Fiorentina vs Como",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.30*",
+        "draw": "3.50*",
+        "away": "2.05*"
       },
-      {
-        "title": "Greece, Russia and Ukraine",
-        "items": [
-          {
-            "match": "Kalamata vs OFI (2:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff matches pagenews.gr's round-7 list (16:00 Greek time, 12 Oct), and the only postponement that list shows is Atromitos vs AEK, but no price, form or team news could be found for this game"
-            ]
-          },
-          {
-            "match": "Panetolikos vs Olympiacos (3:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Olympiacos won 1-0 at Marseille in the Europa League on Thursday, so rotation is likely, and Panetolikos lost 0-2 at Kifisia last week; kickoff confirmed by futboltotal (10:00 New York) and FotMob, but no named-bookmaker price was found"
-            ]
-          },
-          {
-            "match": "Panathinaikos vs Asteras Tripolis (3:30 PM)",
-            "price": "Panathinaikos 1.22, draw 5.50, Asteras 12.00 (Bet365 via an undated Gainblers page)",
-            "why": [
-              "Panathinaikos beat Borac 2-1 in the Conference League on Thursday; 1.22 needs 82% against a fair 75.6%, so the favourite is overpriced, and we found no injury news"
-            ]
-          },
-          {
-            "match": "Kifisia vs Aris (6:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff matches pagenews.gr's list (20:00 Greek time); Kifisia beat Panetolikos 2-0 last week, but no form, news or price could be found for either side"
-            ]
-          },
-          {
-            "match": "PAOK vs Iraklis (7:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff matches pagenews.gr's list (21:00 Greek time); Iraklis beat Levadiakos 2-0 on 11 Oct, but no PAOK price or team news was found, and a heavy favourite would be priced out in any case"
-            ]
-          },
-          {
-            "match": "Zenit vs Akhmat (12:00 PM)",
-            "price": "No odds from a named bookmaker found",
-            "why": [
-              "Zenit (21 points from 9) have Wendel out, and Akhmat are missing Ndong and Ibishev with Romao doubtful; Zenit won 2-0 in April and lead the head-to-head 16-7-4, but no price names a bookmaker"
-            ]
-          },
-          {
-            "match": "Dynamo Moscow vs CSKA (2:15 PM)",
-            "price": "No odds from a named bookmaker found",
-            "why": [
-              "Foresportia's model makes it a three-way coin flip (34 / 33 / 33%); Dynamo are without Caceres and Rubens (suspended) and two others, CSKA without Barinov, Moises and Gajic, so team news is heavy on both sides and we have no price"
-            ]
-          },
-          {
-            "match": "Spartak vs Rubin (4:30 PM)",
-            "price": "No odds from a named bookmaker found",
-            "why": [
-              "Kickoff is 4:30 PM on the two Moscow-time schedules (sport24, rg.ru) but starting11 says 4:45 PM, so it is not confirmed by two UK-time sources; both clubs played a cup tie three days earlier and both have suspensions"
-            ]
-          },
-          {
-            "match": "Baltika vs Rostov (6:45 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff is confirmed only by the Moscow-time schedules (20:45); we found no form, news or named-bookmaker price"
-            ]
-          },
-          {
-            "match": "Kryvbas vs LNZ Cherkasy (11:00 AM)",
-            "price": "No odds found",
-            "why": [
-              "Betfred lists the round-9 games on 18 Oct at 11:00 and 16:00 UK; the tsn.ua calendar gives 17 Oct as the round's base date, and no kickoff, table, form or price source could be found, so we cannot back anything"
-            ]
-          },
-          {
-            "match": "Polissya vs Dynamo Kyiv (11:00 AM)",
-            "price": "No odds found",
-            "why": [
-              "The top two meet on the same unresolved round-9 schedule (Betfred 18 Oct); Polissya are reported top of the table, but no price, team news or second kickoff source was found"
-            ]
-          },
-          {
-            "match": "Karpaty vs Epitsentr (4:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Same schedule caveat as the other two Ukrainian games; no price, table, form or team news was found"
-            ]
-          }
-        ]
+      "analysis": "Prices: Fiorentina 3.30 / Draw 3.50 / Como 2.05. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.30. Fiorentina are L D W W L and Como L D L W W. The prices are fair for a level match. No bet."
+    },
+    {
+      "number": 8,
+      "league": "EPL",
+      "time": "14:00 UK",
+      "match": "Leeds United vs Manchester United",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Leeds United to Win",
+      "stake": "$5.38 @ ~2.30*",
+      "odds": {
+        "home": "2.30*",
+        "draw": "3.40*",
+        "away": "2.80*"
       },
-      {
-        "title": "Croatia, Serbia, Sweden and Norway",
-        "items": [
-          {
-            "match": "Hajduk Split vs Varaždin (2:00 PM)",
-            "price": "Hajduk 1.83 (Shangrila), draw 3.50 (Bet365), Varaždin 4.75 (Betway); unnamed 1.80 / 3.50 / 4.00, BTTS No 1.95, Under 2.5 at 2.00",
-            "why": [
-              "First against second, but Hajduk beat Ajax 2-1 in the Conference League on Thursday so rotation is likely; Varaždin at 4.75 needs 21.1% against about 23% fair, under two points, and only two of the last eight meetings had more than 2.5 goals (the under price is unnamed)"
-            ]
-          },
-          {
-            "match": "Slaven Belupo vs Dinamo Zagreb (5:00 PM)",
-            "price": "Dinamo 1.38 (Shangrila), draw 5.25 (Bwin), Slaven 7.15 (1xbet)",
-            "why": [
-              "Dinamo have won the last six meetings, but 1.38 needs 72.5% against a fair 68%, and they beat Anderlecht in Europe on Thursday so rotation is likely"
-            ]
-          },
-          {
-            "match": "Novi Pazar vs IMT Beograd (1:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff is listed by Betfred only; we found no table, form, news or price for this game"
-            ]
-          },
-          {
-            "match": "Crvena Zvezda vs Mladost Lučani (3:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Zvezda lost in Europe at Lugano on Thursday and the table we found is stale (31 August); they have won 24 of 26 against Mladost, but no price could be found"
-            ]
-          },
-          {
-            "match": "Železničar Pančevo vs Partizan (5:30 PM)",
-            "price": "Bet365: 2.30 / 3.60 / 2.70; Over 2.5 at 1.50, Under 2.37; BTTS Yes 1.41, No 2.62 (Wincomparator, undated)",
-            "why": [
-              "Partizan at 2.70 away needs 37.0% against a fair 34%, and Under 2.5 at 2.37 needs 42.2% against about 39%, so no edge",
-              "The date is also open: starting11, Betfred and Wincomparator say Sunday 18 Oct, but a Rowdie page and one search snippet said Saturday 17 Oct, and we could not settle it from Serbian news; Partizan are rotating (61% of the XI kept over four games)"
-            ]
-          },
-          {
-            "match": "Sirius vs Elfsborg (1:00 PM)",
-            "price": "Bet365: 1.96 / 3.60 / 3.40; draw no bet 1.44 / 2.63; Over 2.5 at 1.70, Under 2.10; BTTS Yes 1.62, No 2.20",
-            "why": [
-              "League leaders Sirius (54 points) have won four straight, but every line is at the market number and the draw no bet at 1.44 needs 69%; no edge anywhere"
-            ]
-          },
-          {
-            "match": "Västerås vs Mjällby (1:00 PM)",
-            "price": "Bet365: 2.30 / 3.40 / 2.80; Over 2.5 at 1.75, Under 2.05; BTTS Yes 1.62, No 2.20",
-            "why": [
-              "Mjällby have conceded in each of their last ten league games, which makes BTTS Yes tempting, but 1.62 needs 61.7% against a margin-free fair figure of about 58%, and the sides drew 0-0 earlier this season"
-            ]
-          },
-          {
-            "match": "Örgryte vs GAIS (3:30 PM)",
-            "price": "Bet365: 5.00 / 4.00 / 1.57; GAIS draw no bet 1.25; Over 2.5 at 1.62, Under 2.25; BTTS Yes 1.67, No 2.10",
-            "why": [
-              "Örgryte (15th, goal difference -27) against 10th-placed GAIS, who won 4-0 in the only listed meeting; GAIS draw no bet at 1.25 needs 80% against a fair 76%, so the favourite is overpriced"
-            ]
-          },
-          {
-            "match": "Malmö vs Häcken (3:30 PM)",
-            "price": "Bet365: 2.50 / 3.60 / 2.45; draw no bet 1.83 each; Over 2.5 at 1.57, Under 2.35; BTTS Yes 1.50, No 2.50",
-            "why": [
-              "A genuine coin flip (6th against 5th) with draw no bet at 1.83 either way, which is under fair; the form lists on the page are unordered, so we do not lean on them"
-            ]
-          },
-          {
-            "match": "Halmstad vs Hammarby (3:30 PM)",
-            "price": "Bet365: 10.00 / 6.00 / 1.22; Hammarby draw no bet 1.07; Over 2.5 at 1.40, Under 2.88",
-            "why": [
-              "Priced out: Hammarby (3rd, goal difference +28) at 1.22 need 81.8% against a fair 75%, and Halmstad (16th, three wins) are poor, but there is nothing to back at those prices"
-            ]
-          },
-          {
-            "match": "Sarpsborg 08 vs Rosenborg (1:30 PM)",
-            "price": "Unnamed 2.50 / 3.60 / 2.45; Over 2.5 at 1.50, BTTS Yes 1.44 (footballpredictions.ai)",
-            "why": [
-              "Seven of the last eight meetings went over 2.5 and had both teams scoring, which suggests goals, but every price on the page is unnamed and 1.50 needs 66.7%, so there is nothing to price against"
-            ]
-          },
-          {
-            "match": "Molde vs Start (4:00 PM)",
-            "price": "Molde 1.36 (Unibet), draw 5.80 (Stake), Start 9.10 (Betsson)",
-            "why": [
-              "Priced out: Start are bottom (16 points) and Molde 4th, but 1.36 needs 73.5% against a fair 69%; Molde have several injuries and the artificial pitch is a factor"
-            ]
-          },
-          {
-            "match": "Vålerenga vs Brann (4:00 PM)",
-            "price": "Unnamed 2.45 / 3.60 / 2.50; BTTS Yes 1.36, Over 2.5 at 1.40 (footballpredictions.ai)",
-            "why": [
-              "Seven of the last eight meetings had both teams scoring and Vålerenga won 3-2 at Brann in July, but BTTS Yes at 1.36 needs 73.5% on an unnamed price, and Brann beat Lincoln Red Imps in the Conference League on Thursday"
-            ]
-          },
-          {
-            "match": "Sandefjord vs Lillestrøm (4:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Lillestrøm (6th, 33 points) against 12th-placed Sandefjord; the only evidence is the table, so we found no head-to-head, injury news or price"
-            ]
-          },
-          {
-            "match": "Tromsø vs KFUM (6:15 PM)",
-            "price": "No odds found",
-            "why": [
-              "Tromsø are 3rd (39 points) and KFUM 10th (28), and the only listed meeting was a 0-0 in May; the form lists we found conflict on order, so we use none and have no price"
-            ]
-          }
-        ]
+      "analysis": "Prices: Leeds United 2.30 / Draw 3.40 / Manchester United 2.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.55 / No 2.38. Manchester United are without Yoro (suspended), Ugarte, Mazraoui, Sesko, Dorgu and de Ligt, with Shaw and Mainoo doubtful. They have won none of their last five (D D L L L), have a Champions League game three days later and are expected to rotate (53% of the XI kept). Leeds are W D D L L, but have Calvert-Lewin leading the line at home and beat United 2-1 at Old Trafford in April. Leeds are missing Rodon and Joseph, with James doubtful. The price makes Leeds slightly the better side, and with United's defence and rotation we make it a bit more. The edge is small. Take 2.25 or better. Leeds or draw is about 1.44. The stake is 1%."
+    },
+    {
+      "number": 9,
+      "league": "La Liga",
+      "time": "15:15 UK",
+      "match": "Celta Vigo vs Alaves",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.20*",
+        "away": "3.40*"
       },
-      {
-        "title": "Gulf and South Africa",
-        "items": [
-          {
-            "match": "Al-Gharafa vs Al-Rayyan (5:45 PM)",
-            "price": "No odds found",
-            "why": [
-              "Rayyan lead the Qatar league (13 points from 5) against 10th-placed Gharafa (4 points); the QSL's 14 Oct schedule update, issued for stadium maintenance, lists this game at 19:45 Qatar time, but there is no named-bookmaker price"
-            ]
-          },
-          {
-            "match": "Al-Sadd vs Al-Duhail (listed 3:30 PM) - SHOWN AS CANCELLED",
-            "price": "No price: not a live game",
-            "why": [
-              "Betfred marks it Cancelled; the QSL's 14 Oct schedule update and a 15 Oct referee notice still list it, and we could not find the reason, so it carries no bet either way"
-            ]
-          },
-          {
-            "match": "Al Fateh vs Al Khaleej (7:00 PM)",
-            "price": "Unnamed aggregator: 2.30 / 3.10 / 2.62; BTTS Yes 1.60, No 2.15; Over 2.5 at 1.85, Under 1.95",
-            "why": [
-              "16th-placed Fateh (7-17 goals) against 11th-placed Khaleej, who have drawn six of nine; both played on Thursday, Over 2.5 landed in four of Fateh's last five and one of Khaleej's, and Fateh have won six of the last eight meetings, but the prices are unnamed and about 14% margin"
-            ]
-          },
-          {
-            "match": "Al-Ettifaq vs Al-Ittihad (Betfred 6:00 PM) - NOT CONFIRMED FOR SUNDAY",
-            "price": "No price: date unconfirmed",
-            "why": [
-              "Al-Ettifaq played Neom on Saturday 17 Oct (1-0), so a game the next day would break the league's own rest rule; we could not confirm the date from a news source, so it carries no bet"
-            ]
-          },
-          {
-            "match": "Al Nassr vs Neom (Betfred 6:00 PM) - MOVED TO 20 OCT",
-            "price": "No price: not in the window",
-            "why": [
-              "starting11 (updated 18 Oct), 22Bet and Predscope all place it on Tuesday 20 Oct, 7:00 PM UK; Betfred's 18 Oct listing and Foresportia's 17 Oct date are stale. The Saudi league's round 10 runs 18 to 20 Oct"
-            ]
-          },
-          {
-            "match": "Khorfakkan vs Al-Wahda (2:05 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff is consistent with a 17:05 local slot but rests on Betfred and one UAE league page; we found no table, form, news or price"
-            ]
-          },
-          {
-            "match": "Al Ittihad Kalba vs Al-Jazira (2:05 PM)",
-            "price": "No odds found",
-            "why": [
-              "Same thin evidence as the other 2:05 PM game: Betfred and the UAE league's own pairings list, with no form, news or price"
-            ]
-          },
-          {
-            "match": "Ajman vs Sharjah (4:45 PM)",
-            "price": "Unnamed aggregator: 3.10 / 3.30 / 2.00; Over 2.5 at 1.70, Under 2.10; BTTS Yes 1.57, No 2.25",
-            "why": [
-              "Over 2.5 landed in five of the last eight meetings and Ajman's games average 4.6 goals, so the over at 1.70 (58.8% needed) is a 60 to 63% shot for us, but that is one to four points on an unnamed price, Ajman played in the Gulf Champions League on Wednesday (5-4), and Sharjah's games are lower-scoring"
-            ]
-          },
-          {
-            "match": "Siwelele vs Polokwane City (2:30 PM)",
-            "price": "No odds found",
-            "why": [
-              "Siwelele are winless in seven (0W-3D-4L, 6 goals for) and Polokwane have 1W-4D-2L, so a draw is likely, but there has been a month's gap in the league for both and we found no named-bookmaker price"
-            ]
-          }
-        ]
+      "analysis": "Prices: Celta Vigo 2.10 / Draw 3.20 / Alaves 3.40. Over 2.5 2.20 / Under 2.5 1.67; BTTS Yes 1.85 / No 1.85. Celta are L D W L D and Alaves L D L L W. Celta at 2.10 is a fair price. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Eredivisie",
+      "time": "15:45 UK",
+      "match": "Groningen vs Ajax",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.40*",
+        "draw": "3.90*",
+        "away": "1.85*"
       },
-      {
-        "title": "Brazil, Argentina, Colombia and Uruguay",
-        "items": [
-          {
-            "match": "Fluminense vs Santos (8:00 PM)",
-            "price": "Bet365: 2.40 / 3.40 / 2.80; draw no bet 1.73 / 2.00; Over 2.5 at 1.95, Under 1.85; BTTS Yes 1.75, No 2.00",
-            "why": [
-              "Fluminense draw no bet at 1.73 needs 57.8% against a market-fair 53.9% (valorfinal's model says 60.8%, which we do not trust over the market without news); Fluminense lost the Libertadores semi-final first leg 2-1 to Palmeiras at home on Wednesday and play the return at Palmeiras on 21 Oct, so rotation is possible but unreported",
-              "Over 2.5 at 1.95 needs 51.3% against about 51% on the model, so no edge on goals either"
-            ]
-          },
-          {
-            "match": "Grêmio vs Cruzeiro (8:00 PM)",
-            "price": "Bet365: 2.75 / 3.40 / 2.45; draw no bet 2.00 / 1.73; Over 2.5 at 1.80, Under 2.00; BTTS Yes 1.62, No 2.20",
-            "why": [
-              "Grêmio are 18th on 31 points with three straight draws; Cruzeiro (7th, 48 points) draw no bet at 1.73 needs 57.8% against a model figure of 54.8%, and BTTS Yes at 1.62 needs 61.7% against about 55%, so neither has an edge"
-            ]
-          },
-          {
-            "match": "Bahia vs Flamengo (10:30 PM)",
-            "price": "Bet365: 3.25 / 3.40 / 2.20; draw no bet 2.25 / 1.57; Over 2.5 at 1.65, Under 2.20; BTTS Yes 1.53, No 2.38",
-            "why": [
-              "Flamengo lead the league (64 points) and play the Libertadores return at home to Estudiantes on Thursday 22 Oct after a 0-0, so Bahia draw no bet at 2.25 (44.4% needed) would gain if they rotate; the model says 45.9% and the market-fair 40.4%, so the edge is one to two points and rests on lineup news we could not find"
-            ]
-          },
-          {
-            "match": "Remo vs Red Bull Bragantino (11:30 PM)",
-            "price": "Bet365: 3.30 / 3.50 / 2.10; draw no bet 2.38 / 1.53; Over 2.5 at 1.73, Under 2.08; BTTS Yes 1.62, No 2.20",
-            "why": [
-              "Remo (19th) have two points from their last five and only three goals scored; Bragantino draw no bet at 1.53 needs 65%, and Remo draw no bet at 2.38 needs 42.0% against about 42 to 44% for us, so there is no edge either way"
-            ]
-          },
-          {
-            "match": "Racing Club vs Independiente (6:45 PM)",
-            "price": "Bet365: 2.10 / 3.10 / 3.80; draw no bet 1.44 / 2.63; Over 2.5 at 2.25, Under 1.62; BTTS Yes 1.95, No 1.80",
-            "why": [
-              "Under 2.5 at 1.62 needs 61.7% and a rough count gives 63 to 65%, but Racing's last five went over 2.5 four times, so we cannot call it an edge; Racing draw no bet at 1.44 needs 69%"
-            ]
-          },
-          {
-            "match": "Estudiantes (La Plata) vs San Lorenzo (10:00 PM)",
-            "price": "Bet365: 2.30 / 2.75 / 3.70; draw no bet 1.53 / 2.38; Over 2.5 at 2.70, Under 1.44; BTTS Yes 2.20, No 1.62",
-            "why": [
-              "Estudiantes lead the league but drew 0-0 with Flamengo on Thursday and play the Libertadores return on 22 Oct, so rotation is likely; Under 2.5 at 1.44 needs 69.4% against about 68%, and kickoff.co.uk names an unusual stadium that we could not verify"
-            ]
-          },
-          {
-            "match": "Estudiantes (Río Cuarto) vs Aldosivi (10:00 PM)",
-            "price": "Bet365: 2.80 / 2.75 / 2.80; draw no bet 1.83 each; Over 2.5 at 3.10, Under 1.36; BTTS Yes 2.25, No 1.57",
-            "why": [
-              "Both clubs have lost their last five league games (Río Cuarto 1W-4D-15L, Aldosivi 2W-2D-16L), so the market has it level and we have no reliable scoring data to separate the sides"
-            ]
-          },
-          {
-            "match": "Belgrano vs River Plate (12:15 AM Monday)",
-            "price": "Bet365: 3.60 / 3.00 / 2.20; draw no bet 2.38 / 1.53; Over 2.5 at 2.50, Under 1.50; BTTS Yes 2.10, No 1.67",
-            "why": [
-              "Second against ninth; Under 2.5 at 1.50 needs 66.7% against 68 to 70% from a goals model, about two points"
-            ]
-          },
-          {
-            "match": "Águilas Doradas vs Tolima (8:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Kickoff is Betfred's time only (2:00 PM Colombia); we could not find a current table, form, team news, price or postponement news, and the Colombian league has had several late changes this month"
-            ]
-          },
-          {
-            "match": "Bucaramanga vs América de Cali (10:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Same position: Betfred's time only, with no current table, form, team news or price"
-            ]
-          },
-          {
-            "match": "Albion vs Montevideo City Torque (2:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "Bottom side Albion (6 points) at home to league leaders Torque (22 points after fecha 10, undated table), but the only kickoff source is Betfred and no price or postponement evidence was found"
-            ]
-          },
-          {
-            "match": "Danubio vs Central Español (7:00 PM)",
-            "price": "No odds found",
-            "why": [
-              "13th against 16th; kickoff from Betfred only, with no price, form or postponement evidence"
-            ]
-          },
-          {
-            "match": "Liverpool vs Peñarol (10:30 PM)",
-            "price": "No odds found",
-            "why": [
-              "Second against third in the Clausura (21 and 20 points, Peñarol after a one-point deduction); kickoff from Betfred only and no named-bookmaker price"
-            ]
-          }
-        ]
+      "analysis": "Prices: Groningen 3.40 / Draw 3.90 / Ajax 1.85. Over 2.5 1.36 / Under 2.5 3.10; BTTS Yes 1.36 / No 2.80. Ajax have seven players out (Henrique, Gaaei, Berghuis, Dolberg, Blind, Bouwman, Adingra), played in the Conference League three days earlier and are expected to rotate. Groningen have kept 95% of their XI and are W W D D L, though they have Mercera, Hernes, Jeng and others out. Groningen beat Ajax 3-1 in March, but Ajax won both of the other recent meetings. Ajax at 1.85 looks a little short, but not by enough to back Groningen at 3.40. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Austrian Bundesliga",
+      "time": "16:00 UK",
+      "match": "Sturm Graz vs Grazer AK",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.73*",
+        "draw": "3.70*",
+        "away": "4.20*"
       },
-      {
-        "title": "MLS and Liga MX",
-        "items": [
-          {
-            "match": "FC Cincinnati vs Columbus Crew (10:00 PM)",
-            "price": "Bet365: 2.35 / 3.90 / 2.60; draw no bet 1.80 / 1.91; Over 2.5 at 1.36, BTTS Yes 1.33; DraftKings Columbus 2.60, FanDuel 2.30 Cincinnati",
-            "why": [
-              "Both draw no bet prices are under the fair figure from the three-way market (about 1.90 and 2.10); the club moved kickoff from 7:00 PM to 5:00 PM ET (10:00 PM UK), which is why older pages show a later time",
-              "Over 2.5 at 1.36 needs 73.3% and BTTS Yes at 1.33 needs 75%; Cincinnati's five straight overs regress to about 65 to 70%, so the goals lines are overpriced too"
-            ]
-          },
-          {
-            "match": "Monterrey vs Pachuca (2:00 AM Monday)",
-            "price": "Bet365: 1.62 / 4.00 / 5.00; draw no bet 1.25 / 3.75; Over 2.5 at 1.62, Under 2.25; BTTS Yes 1.67, No 2.10",
-            "why": [
-              "Both draw no bet prices are worse than fair (Monterrey fair 1.32, Pachuca fair about 4.1); Pachuca have won four straight meetings and five of the last six went over 2.5, but Monterrey's last four league games had 2, 6, 1 and 0 goals and the over at 1.62 needs 61.7% against about 58 to 60%",
-              "The game is Sunday night in Mexico (7:00 PM Mexico City); Monterrey's postponed round-7 game does not affect it"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "footer": "Kickoff times are quoted in UK time. No bets are recommended on this card. Prices shown under 'Avoid today' are as listed by named bookmakers on comparison sites on 17-18 Oct, converted to decimal where needed, and are indicative only. Some fixture sites list Al Nassr vs Neom, Al-Sadd vs Al-Duhail and Al-Ettifaq vs Al-Ittihad for today: do not rely on them. Draw no bet: the stake is refunded if the match ends level after 90 minutes. All other bets settle on 90-minute regulation time. Bet smart. Stake small. Stay disciplined. If gambling stops being fun, seek help: GamCare (UK) 0808 802 0133 • Gambling Help Online (AUS) 1800 858 858."
+      "analysis": "Prices: Sturm Graz 1.73 / Draw 3.70 / Grazer AK 4.20. Over 2.5 1.70 / Under 2.5 2.10; BTTS Yes 1.67 / No 2.10. Sturm are L W W L D and Grazer AK D W D W W. Sturm at 1.73 leaves no margin against a side in that form. No bet."
+    },
+    {
+      "number": 12,
+      "league": "Ligue 1",
+      "time": "16:15 UK",
+      "match": "Le Havre vs Auxerre",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.30*",
+        "draw": "3.25*",
+        "away": "2.90*"
+      },
+      "analysis": "Prices: Le Havre 2.30 / Draw 3.25 / Auxerre 2.90. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.73 / No 2.05. Le Havre are L W L D L and Auxerre L W W W L. The prices are level. No bet."
+    },
+    {
+      "number": 13,
+      "league": "Ligue 1",
+      "time": "16:15 UK",
+      "match": "Lorient vs Monaco",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.50*",
+        "draw": "3.30*",
+        "away": "2.00*"
+      },
+      "analysis": "Prices: Lorient 3.50 / Draw 3.30 / Monaco 2.00. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 2.05. Lorient are W L D W L and Monaco D W D W W. Monaco at 2.00 away from home is a fair price. No bet."
+    },
+    {
+      "number": 14,
+      "league": "Ligue 1",
+      "time": "16:15 UK",
+      "match": "Paris FC vs Rennes",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.25*",
+        "draw": "3.30*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Paris FC 2.25 / Draw 3.30 / Rennes 3.00. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.40. Paris FC are L W D W W and Rennes W W L L D. The prices are level. No bet."
+    },
+    {
+      "number": 15,
+      "league": "EPL",
+      "time": "16:30 UK",
+      "match": "Nottingham Forest vs Arsenal",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "5.50*",
+        "draw": "3.60*",
+        "away": "1.62*"
+      },
+      "analysis": "Prices: Nottingham Forest 5.50 / Draw 3.60 / Arsenal 1.62. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.91 / No 1.85. Arsenal have Saliba, Hincapie and Tzolis out with Zubimendi and Mosquera doubtful, play in the Champions League three days later and are expected to rotate (45% of the XI kept). Forest have kept 84% of their XI but have Savona and Igor Jesus out, with Gibbs-White, Milenkovic and Williams doubtful, and are L L W D D. Arsenal at 1.62 already carries the rotation and Forest at 5.50 is too long. No bet."
+    },
+    {
+      "number": 16,
+      "league": "Serie A",
+      "time": "17:00 UK",
+      "match": "AC Milan vs Atalanta",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.83*",
+        "draw": "3.50*",
+        "away": "4.00*"
+      },
+      "analysis": "Prices: AC Milan 1.83 / Draw 3.50 / Atalanta 4.00. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.73 / No 2.05. Milan are W D W L D and Atalanta W W L L L. Milan at 1.83 is a fair price. No bet."
+    },
+    {
+      "number": 17,
+      "league": "Danish Superliga",
+      "time": "17:00 UK",
+      "match": "FC Copenhagen vs Aarhus",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "3.90*",
+        "away": "4.60*"
+      },
+      "analysis": "Prices: FC Copenhagen 1.62 / Draw 3.90 / Aarhus 4.60. Over 2.5 1.62 / Under 2.5 2.25; BTTS Yes 1.62 / No 2.20. Copenhagen are W L L W W and Aarhus L W W D W. Copenhagen at 1.62 is a fair price. No bet."
+    },
+    {
+      "number": 18,
+      "league": "La Liga",
+      "time": "17:30 UK",
+      "match": "Malaga vs Real Sociedad",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.20*",
+        "draw": "3.30*",
+        "away": "2.15*"
+      },
+      "analysis": "Prices: Malaga 3.20 / Draw 3.30 / Real Sociedad 2.15. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.62 / No 2.25. Malaga are D L L D D and Sociedad D W W L L. Sociedad at 2.15 is a fair price. No bet."
+    },
+    {
+      "number": 19,
+      "league": "Eredivisie",
+      "time": "19:00 UK",
+      "match": "NEC Nijmegen vs Fortuna Sittard",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.57*",
+        "draw": "4.00*",
+        "away": "4.60*"
+      },
+      "analysis": "Prices: NEC Nijmegen 1.57 / Draw 4.00 / Fortuna Sittard 4.60. Over 2.5 1.40 / Under 2.5 2.88; BTTS Yes 1.44 / No 2.62. NEC are D D L D L without a win and Fortuna are D W L W W. NEC at 1.57 leaves no margin on that record. No bet."
+    },
+    {
+      "number": 20,
+      "league": "Eredivisie",
+      "time": "19:00 UK",
+      "match": "Twente vs Utrecht",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.33*",
+        "draw": "5.00*",
+        "away": "7.00*"
+      },
+      "analysis": "Prices: Twente 1.33 / Draw 5.00 / Utrecht 7.00. Over 2.5 1.33 / Under 2.5 3.40; BTTS Yes 1.53 / No 2.40. Twente are W D W W W. A 1.33 favourite is too short to back. No bet."
+    },
+    {
+      "number": 21,
+      "league": "Serie A",
+      "time": "19:45 UK",
+      "match": "Juventus vs Lazio",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "3.70*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Juventus 1.62 / Draw 3.70 / Lazio 5.00. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.83 / No 1.91. Lazio are unbeaten in five (W D W W D) and Juventus W D L W W. A 1.62 favourite against that run leaves no margin. No bet."
+    },
+    {
+      "number": 22,
+      "league": "Ligue 1",
+      "time": "19:45 UK",
+      "match": "Lyon vs Nice",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.67*",
+        "draw": "3.80*",
+        "away": "4.75*"
+      },
+      "analysis": "Prices: Lyon 1.67 / Draw 3.80 / Nice 4.75. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.65 / No 2.20. Lyon are W L W W D and Nice W W L D L. Lyon at 1.67 is a fair price. No bet."
+    },
+    {
+      "number": 23,
+      "league": "La Liga",
+      "time": "20:00 UK",
+      "match": "Real Madrid vs Sevilla",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.25*",
+        "draw": "5.80*",
+        "away": "10.00*"
+      },
+      "analysis": "Prices: Real Madrid 1.25 / Draw 5.80 / Sevilla 10.00. Over 2.5 1.40 / Under 2.5 3.00; BTTS Yes 1.85 / No 1.91. Madrid are W W L W W. A 1.25 favourite is too short to back. No bet."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the Belgian Pro League, Primeira Liga or Swiss Super League, and no Championship games.",
+  "avoid": "Favourites priced under 1.40 (Real Madrid, Twente). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 18 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $538.44. Bet responsibly."
 }
