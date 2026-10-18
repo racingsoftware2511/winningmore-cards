@@ -19,7 +19,7 @@
     "Polish Ekstraklasa",
     "Czech First League"
   ],
-  "lesson": "Friday's one bet landed again: Frosinone beat Sassuolo 4-2 at about 2.45 for +$7.70. Saturday is the biggest card of the week, so we priced every game across match odds, goals and BTTS and kept to the two where team news and form disagree with the price.",
+  "lesson": "Saturday's two bets split for a net loss of $0.22: Stoke won 1-0 at Derby, so the +0.25 handicap won (+$5.17), while Liverpool won 2-1 at Brentford and that bet lost (-$5.39). We stayed out of the other 45 games, where prices were fair or the favourite was too short.",
   "matches": [
     {
       "number": 1,
@@ -307,7 +307,12 @@
         "draw": "3.40*",
         "away": "2.80*"
       },
-      "analysis": "Prices: Brentford 2.30 / Draw 3.40 / Liverpool 2.80. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.50 / No 2.50. Brentford are fourth, unbeaten in six league games and in eight at home, and drew 2-2 at Aston Villa. Liverpool lost 3-0 to Manchester City, then won 6-3 at LASK in midweek, and are missing Ekitike and Bradley, with Gravenberch suspended. Szoboszlai, Isak and Gakpo are doubtful and unlikely to start, and Liverpool are expected to rotate. Brentford have Schade, Schuster, Damsgaard and Collins doubtful. Liverpool are priced as the stronger side on reputation, and with their forwards missing Brentford at 2.30 is the value. Take 2.25 or better. Draw No Bet is about 1.70. The stake is 1%."
+      "analysis": "Prices: Brentford 2.30 / Draw 3.40 / Liverpool 2.80. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.50 / No 2.50. Brentford are fourth, unbeaten in six league games and in eight at home, and drew 2-2 at Aston Villa. Liverpool lost 3-0 to Manchester City, then won 6-3 at LASK in midweek, and are missing Ekitike and Bradley, with Gravenberch suspended. Szoboszlai, Isak and Gakpo are doubtful and unlikely to start, and Liverpool are expected to rotate. Brentford have Schade, Schuster, Damsgaard and Collins doubtful. Liverpool are priced as the stronger side on reputation, and with their forwards missing Brentford at 2.30 is the value. Take 2.25 or better. Draw No Bet is about 1.70. The stake is 1%.",
+      "result": {
+        "score": "1-2",
+        "outcome": "lost",
+        "pnl": -5.39
+      }
     },
     {
       "number": 19,
@@ -339,7 +344,12 @@
         "draw": "3.30*",
         "away": "2.50*"
       },
-      "analysis": "Prices: Derby County 2.62 / Draw 3.30 / Stoke City 2.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 2.00. Derby are 23rd, winless in six and lost 4-1 at QPR on Wednesday. They have scored only nine goals (third-lowest) and conceded 19, and they are without Langas, Clarke, Cashin, Johnston, Murkin, Taylor, Zetterstrom and Agyemang. Stoke are eighth, have won five of ten and lost 3-2 to Middlesbrough on Tuesday. Talovierov returns from suspension, though Ampah, Cresswell, Ingelsson and Gallagher are out. Stoke have not won at Derby in their last six league visits, which keeps the stake moderate. The match odds make this a level game, and Derby's form and squad do not support that. Stoke +0.25 pays at about 1.64, so take 1.60 or better. It wins if Stoke win, returns half the stake on a draw and loses only if Derby win. The stake is 1.5%."
+      "analysis": "Prices: Derby County 2.62 / Draw 3.30 / Stoke City 2.50. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 2.00. Derby are 23rd, winless in six and lost 4-1 at QPR on Wednesday. They have scored only nine goals (third-lowest) and conceded 19, and they are without Langas, Clarke, Cashin, Johnston, Murkin, Taylor, Zetterstrom and Agyemang. Stoke are eighth, have won five of ten and lost 3-2 to Middlesbrough on Tuesday. Talovierov returns from suspension, though Ampah, Cresswell, Ingelsson and Gallagher are out. Stoke have not won at Derby in their last six league visits, which keeps the stake moderate. The match odds make this a level game, and Derby's form and squad do not support that. Stoke +0.25 pays at about 1.64, so take 1.60 or better. It wins if Stoke win, returns half the stake on a draw and loses only if Derby win. The stake is 1.5%.",
+      "result": {
+        "score": "0-1",
+        "outcome": "won",
+        "pnl": 5.17
+      }
     },
     {
       "number": 21,
