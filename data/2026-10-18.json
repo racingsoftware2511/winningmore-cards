@@ -19,7 +19,7 @@
     "Polish Ekstraklasa",
     "Czech First League"
   ],
-  "lesson": "Saturday's two bets split for a net loss of $0.22: Stoke +0.25 won at Derby (+$5.17) and Brentford lost to Liverpool (-$5.39). Sunday is a lighter card with several favourites too short to back, so we keep to one small bet where Manchester United's injuries and rotation are not fully in the price.",
+  "lesson": "Sunday's one bet lost: Leeds drew 1-1 with Manchester United, so the $5.38 stake was lost. The read on United's injuries and rotation was right on the day, but Leeds could not turn it into a win. We stayed out of the other 37 games, where the exchange prices were fair.",
   "matches": [
     {
       "number": 1,
@@ -31,14 +31,30 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.60*",
-        "draw": "3.80*",
-        "away": "4.80*"
+        "home": "1.59*",
+        "draw": "4.40*",
+        "away": "6.20*"
       },
-      "analysis": "Prices: Gornik Zabrze 1.60 / Draw 3.80 / Piast Gliwice 4.80. Over 2.5 1.73 / Under 2.5 2.08; BTTS Yes 1.73 / No 2.00. Gornik are W L D W W and Piast W L L W W. Gornik at 1.60 is a fair price for the home side and we found no team news to add. No bet."
+      "analysis": "Prices: Gornik Zabrze 1.59 / Draw 4.40 / Piast Gliwice 6.20. Over 2.5 1.77 / Under 2.5 2.22; BTTS Yes 1.98 / No 2.02. Gornik are W L D W W and Piast W L L W W. Gornik at 1.59 is a fair price for the home side. We found no team news to add and the price looks fair. No bet."
     },
     {
       "number": 2,
+      "league": "Eredivisie",
+      "time": "11:15 UK",
+      "match": "PEC Zwolle vs Go Ahead Eagles",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.85*",
+        "draw": "4.00*",
+        "away": "2.00*"
+      },
+      "analysis": "Prices: PEC Zwolle 3.85 / Draw 4.00 / Go Ahead Eagles 2.00. Over 2.5 1.52 / Under 2.5 2.82; BTTS Yes 1.69 / No 2.45. Go Ahead Eagles at 2.00 are the clear favourite away from home. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 3,
       "league": "Serie A",
       "time": "11:30 UK",
       "match": "Udinese vs Lecce",
@@ -47,14 +63,46 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.80*",
-        "draw": "3.40*",
-        "away": "4.20*"
+        "home": "1.86*",
+        "draw": "3.70*",
+        "away": "4.90*"
       },
-      "analysis": "Prices: Udinese 1.80 / Draw 3.40 / Lecce 4.20. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.85 / No 1.91. Udinese are L D L L L and Lecce L L W L L. A 1.80 favourite with that record leaves no margin. No bet."
+      "analysis": "Prices: Udinese 1.86 / Draw 3.70 / Lecce 4.90. Over 2.5 2.06 / Under 2.5 1.91; BTTS Yes 2.06 / No 1.95. Udinese are L D L L L and Lecce L L W L L. A 1.86 favourite with that record leaves no margin. No bet."
     },
     {
-      "number": 3,
+      "number": 4,
+      "league": "Czech First League",
+      "time": "12:00 UK",
+      "match": "Slovacko vs Zbrojovka Brno",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.66*",
+        "draw": "3.50*",
+        "away": "2.84*"
+      },
+      "analysis": "Prices: Slovacko 2.66 / Draw 3.50 / Zbrojovka Brno 2.84. Over 2.5 2.00 / Under 2.5 1.94; BTTS Yes 1.91 / No 2.10. The prices are level between the sides. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Danish Superliga",
+      "time": "13:00 UK",
+      "match": "Lyngby vs FC Nordsjaelland",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.90*",
+        "draw": "4.30*",
+        "away": "1.92*"
+      },
+      "analysis": "Prices: Lyngby 3.90 / Draw 4.30 / FC Nordsjaelland 1.92. Over 2.5 1.54 / Under 2.5 2.76; BTTS Yes 1.77 / No 2.30. Nordsjaelland at 1.92 away from home already carries the gap. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 6,
       "league": "La Liga",
       "time": "13:00 UK",
       "match": "Osasuna vs Racing Santander",
@@ -63,14 +111,94 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "2.00*",
-        "draw": "3.40*",
-        "away": "3.50*"
+        "home": "2.06*",
+        "draw": "3.90*",
+        "away": "3.80*"
       },
-      "analysis": "Prices: Osasuna 2.00 / Draw 3.40 / Racing Santander 3.50. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.53 / No 2.40. Osasuna are L D L L L and Racing D L L W L, so both sides are out of form. Osasuna at 2.00 is a fair price. No bet."
+      "analysis": "Prices: Osasuna 2.06 / Draw 3.90 / Racing Santander 3.80. Over 2.5 1.67 / Under 2.5 2.46; BTTS Yes 1.77 / No 2.30. Osasuna are L D L L L and Racing D L L W L, so both sides are out of form. Osasuna at 2.06 is a fair price. No bet."
     },
     {
-      "number": 4,
+      "number": 7,
+      "league": "Danish Superliga",
+      "time": "13:00 UK",
+      "match": "Sonderjyske vs Silkeborg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.56*",
+        "draw": "3.80*",
+        "away": "2.78*"
+      },
+      "analysis": "Prices: Sonderjyske 2.56 / Draw 3.80 / Silkeborg 2.78. Over 2.5 1.65 / Under 2.5 2.52; BTTS Yes 1.75 / No 2.34. The prices are level between the sides. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Eredivisie",
+      "time": "13:30 UK",
+      "match": "Cambuur vs AZ Alkmaar",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "6.40*",
+        "draw": "5.10*",
+        "away": "1.53*"
+      },
+      "analysis": "Prices: Cambuur 6.40 / Draw 5.10 / AZ Alkmaar 1.53. Over 2.5 1.42 / Under 2.5 3.25; BTTS Yes 1.84 / No 2.20. AZ at 1.53 away from home is a short price and leaves no margin. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Austrian Bundesliga",
+      "time": "13:30 UK",
+      "match": "Red Bull Salzburg vs Altach",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.40*",
+        "draw": "5.80*",
+        "away": "8.20*"
+      },
+      "analysis": "Prices: Red Bull Salzburg 1.40 / Draw 5.80 / Altach 8.20. Over 2.5 1.54 / Under 2.5 2.76; BTTS Yes 2.06 / No 1.94. A 1.40 favourite leaves no margin. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Austrian Bundesliga",
+      "time": "13:30 UK",
+      "match": "Wolfsberger AC vs WSG Tirol",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.58*",
+        "draw": "3.75*",
+        "away": "2.78*"
+      },
+      "analysis": "Prices: Wolfsberger AC 2.58 / Draw 3.75 / WSG Tirol 2.78. Over 2.5 1.65 / Under 2.5 2.44; BTTS Yes 1.74 / No 2.35. The prices are level between the sides. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Polish Ekstraklasa",
+      "time": "13:45 UK",
+      "match": "Zaglebie Lubin vs Jagiellonia Bialystok",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.76*",
+        "draw": "3.65*",
+        "away": "2.62*"
+      },
+      "analysis": "Prices: Zaglebie Lubin 2.76 / Draw 3.65 / Jagiellonia Bialystok 2.62. Over 2.5 1.80 / Under 2.5 2.18; BTTS Yes 1.81 / No 2.23. The prices are level between the sides. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 12,
       "league": "Ligue 1",
       "time": "14:00 UK",
       "match": "Angers vs Marseille",
@@ -79,14 +207,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "3.25*",
-        "draw": "3.50*",
-        "away": "2.05*"
+        "home": "3.70*",
+        "draw": "3.95*",
+        "away": "2.08*"
       },
-      "analysis": "Prices: Angers 3.25 / Draw 3.50 / Marseille 2.05. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.53 / No 2.45. Angers have kept the same eleven (89% of the XI over six games) and are L W D L W, but have Lefort suspended and Simbakoli out, with Camara and Kalulu doubtful. Marseille are L W L L L, played in the Europa League three days earlier and have Cornelius and Hojbjerg out with Kondogbia, Nnadi and Gouiri doubtful. Marseille at 2.05 already carries their poor run and the rotation. No bet."
+      "analysis": "Prices: Angers 3.70 / Draw 3.95 / Marseille 2.08. Over 2.5 1.70 / Under 2.5 2.40; BTTS Yes 1.79 / No 2.27. Angers have kept the same eleven (89% of the XI over six games) and are L W D L W, but have Lefort suspended and Simbakoli out, with Camara and Kalulu doubtful. Marseille are L W L L L, played in the Europa League three days earlier and have Cornelius and Hojbjerg out with Kondogbia, Nnadi and Gouiri doubtful. Marseille at 2.08 already carries their poor run and the rotation. No bet."
     },
     {
-      "number": 5,
+      "number": 13,
       "league": "Czech First League",
       "time": "14:00 UK",
       "match": "Banik Ostrava vs Sparta Praha",
@@ -95,14 +223,30 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "4.00*",
-        "draw": "3.80*",
-        "away": "1.73*"
+        "home": "4.80*",
+        "draw": "4.30*",
+        "away": "1.76*"
       },
-      "analysis": "Prices: Banik Ostrava 4.00 / Draw 3.80 / Sparta Praha 1.73. Over 2.5 1.60 / Under 2.5 2.30; BTTS Yes 1.57 / No 2.25. Sparta have won their last four (D W W W W). Banik are L D W D L. Sparta at 1.73 away from home is a fair price. No bet."
+      "analysis": "Prices: Banik Ostrava 4.80 / Draw 4.30 / Sparta Praha 1.76. Over 2.5 1.65 / Under 2.5 2.44; BTTS Yes 1.89 / No 2.13. Sparta have won their last four (D W W W W). Banik are L D W D L. Sparta at 1.76 away from home is a fair price. No bet."
     },
     {
-      "number": 6,
+      "number": 14,
+      "league": "EPL",
+      "time": "14:00 UK",
+      "match": "Bournemouth vs Sunderland",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.18*",
+        "draw": "3.55*",
+        "away": "3.75*"
+      },
+      "analysis": "Prices: Bournemouth 2.18 / Draw 3.55 / Sunderland 3.75. Over 2.5 2.02 / Under 2.5 1.97; BTTS Yes 1.90 / No 2.11. Both sides played in the Europa League three days earlier. Bournemouth are without Milosevic, Araujo, Scott and Kroupi, with Kluivert and Adli doubtful. Sunderland are without Ballard, Mundle and Diarra, with Meunier and Isidor doubtful. Bournemouth are 2W 1D 2L over their last five and Sunderland 2W 3L. Level match, level prices. No bet."
+    },
+    {
+      "number": 15,
       "league": "EPL",
       "time": "14:00 UK",
       "match": "Brighton vs Crystal Palace",
@@ -111,14 +255,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.50*",
-        "draw": "4.33*",
-        "away": "5.50*"
+        "home": "1.52*",
+        "draw": "5.00*",
+        "away": "6.80*"
       },
-      "analysis": "Prices: Brighton 1.50 / Draw 4.33 / Crystal Palace 5.50. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.62 / No 2.20. Brighton have won their last five. Palace are L W L D W. Brighton at 1.50 already prices that gap and we found no team news to add. No bet."
+      "analysis": "Prices: Brighton 1.52 / Draw 5.00 / Crystal Palace 6.80. Over 2.5 1.59 / Under 2.5 2.66; BTTS Yes 1.94 / No 2.06. Brighton have won their last five. Palace are L W L D W. Brighton at 1.52 already prices that gap. No bet."
     },
     {
-      "number": 7,
+      "number": 16,
       "league": "Serie A",
       "time": "14:00 UK",
       "match": "Fiorentina vs Como",
@@ -127,30 +271,83 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "3.30*",
-        "draw": "3.50*",
-        "away": "2.05*"
+        "home": "3.55*",
+        "draw": "3.75*",
+        "away": "2.18*"
       },
-      "analysis": "Prices: Fiorentina 3.30 / Draw 3.50 / Como 2.05. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.30. Fiorentina are L D W W L and Como L D L W W. The prices are fair for a level match. No bet."
+      "analysis": "Prices: Fiorentina 3.55 / Draw 3.75 / Como 2.18. Over 2.5 1.73 / Under 2.5 2.36; BTTS Yes 1.79 / No 2.27. Fiorentina are L D W W L and Como L D L W W. Como at 2.18 is a fair price for the better side on form. No bet."
     },
     {
-      "number": 8,
+      "number": 17,
       "league": "EPL",
       "time": "14:00 UK",
       "match": "Leeds United vs Manchester United",
       "status": "primary",
       "featured": true,
       "bet_headline": "Leeds United to Win",
-      "stake": "$5.38 @ ~2.30*",
+      "stake": "$5.38 @ ~2.46*",
       "odds": {
-        "home": "2.30*",
-        "draw": "3.40*",
-        "away": "2.80*"
+        "home": "2.46*",
+        "draw": "3.70*",
+        "away": "3.00*"
       },
-      "analysis": "Prices: Leeds United 2.30 / Draw 3.40 / Manchester United 2.80. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.55 / No 2.38. Manchester United are without Yoro (suspended), Ugarte, Mazraoui, Sesko, Dorgu and de Ligt, with Shaw and Mainoo doubtful. They have won none of their last five (D D L L L), have a Champions League game three days later and are expected to rotate (53% of the XI kept). Leeds are W D D L L, but have Calvert-Lewin leading the line at home and beat United 2-1 at Old Trafford in April. Leeds are missing Rodon and Joseph, with James doubtful. The price makes Leeds slightly the better side, and with United's defence and rotation we make it a bit more. The edge is small. Take 2.25 or better. Leeds or draw is about 1.44. The stake is 1%."
+      "analysis": "Prices: Leeds United 2.46 / Draw 3.70 / Manchester United 3.00. Over 2.5 1.78 / Under 2.5 2.24; BTTS Yes 1.78 / No 2.29. Manchester United are without Yoro (suspended), Ugarte, Mazraoui, Sesko, Dorgu and de Ligt, with Shaw and Mainoo doubtful. They have won none of their last five (D D L L L), have a Champions League game three days later and are expected to rotate (53% of the XI kept). Leeds are W D D L L, but have Calvert-Lewin leading the line at home and beat United 2-1 at Old Trafford in April. Leeds are missing Rodon and Joseph, with James doubtful. The exchange makes this a close match (Leeds 2.46, Draw 3.70, United 3.00), and with United's defence and rotation we make Leeds a little stronger than that. The edge is small. Take 2.40 or better. Leeds or draw is about 1.45. The stake is 1%.",
+      "result": {
+        "score": "1-1",
+        "outcome": "lost",
+        "pnl": -5.38
+      }
     },
     {
-      "number": 9,
+      "number": 18,
+      "league": "Bundesliga",
+      "time": "14:30 UK",
+      "match": "Bayer Leverkusen vs Freiburg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.66*",
+        "draw": "4.70*",
+        "away": "5.10*"
+      },
+      "analysis": "Prices: Bayer Leverkusen 1.66 / Draw 4.70 / Freiburg 5.10. Over 2.5 1.50 / Under 2.5 2.98; BTTS Yes 1.79 / No 2.27. Leverkusen at 1.66 is a fair price for the home side. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 19,
+      "league": "Scottish Premiership",
+      "time": "15:00 UK",
+      "match": "Celtic vs Hearts",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "4.80*",
+        "away": "5.40*"
+      },
+      "analysis": "Prices: Celtic 1.62 / Draw 4.80 / Hearts 5.40. Over 2.5 1.54 / Under 2.5 2.80; BTTS Yes 1.84 / No 2.19. Celtic at 1.62 is a short price for the home side. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 20,
+      "league": "Danish Superliga",
+      "time": "15:00 UK",
+      "match": "OB vs Brondby",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.10*",
+        "draw": "3.90*",
+        "away": "2.32*"
+      },
+      "analysis": "Prices: OB 3.10 / Draw 3.90 / Brondby 2.32. Over 2.5 1.65 / Under 2.5 2.46; BTTS Yes 1.77 / No 2.30. The prices are level between the sides. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 21,
       "league": "La Liga",
       "time": "15:15 UK",
       "match": "Celta Vigo vs Alaves",
@@ -159,14 +356,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "2.10*",
-        "draw": "3.20*",
-        "away": "3.40*"
+        "home": "2.34*",
+        "draw": "3.35*",
+        "away": "3.60*"
       },
-      "analysis": "Prices: Celta Vigo 2.10 / Draw 3.20 / Alaves 3.40. Over 2.5 2.20 / Under 2.5 1.67; BTTS Yes 1.85 / No 1.85. Celta are L D W L D and Alaves L D L L W. Celta at 2.10 is a fair price. No bet."
+      "analysis": "Prices: Celta Vigo 2.34 / Draw 3.35 / Alaves 3.60. Over 2.5 2.58 / Under 2.5 1.62; BTTS Yes 2.20 / No 1.84. Celta are L D W L D and Alaves L D L L W. Celta at 2.34 is a fair price. No bet."
     },
     {
-      "number": 10,
+      "number": 22,
       "league": "Eredivisie",
       "time": "15:45 UK",
       "match": "Groningen vs Ajax",
@@ -175,14 +372,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "3.40*",
-        "draw": "3.90*",
-        "away": "1.85*"
+        "home": "3.70*",
+        "draw": "4.40*",
+        "away": "1.96*"
       },
-      "analysis": "Prices: Groningen 3.40 / Draw 3.90 / Ajax 1.85. Over 2.5 1.36 / Under 2.5 3.10; BTTS Yes 1.36 / No 2.80. Ajax have seven players out (Henrique, Gaaei, Berghuis, Dolberg, Blind, Bouwman, Adingra), played in the Conference League three days earlier and are expected to rotate. Groningen have kept 95% of their XI and are W W D D L, though they have Mercera, Hernes, Jeng and others out. Groningen beat Ajax 3-1 in March, but Ajax won both of the other recent meetings. Ajax at 1.85 looks a little short, but not by enough to back Groningen at 3.40. No bet."
+      "analysis": "Prices: Groningen 3.70 / Draw 4.40 / Ajax 1.96. Over 2.5 1.40 / Under 2.5 3.35; BTTS Yes 1.69 / No 2.46. Ajax have seven players out (Henrique, Gaaei, Berghuis, Dolberg, Blind, Bouwman, Adingra), played in the Conference League three days earlier and are expected to rotate. Groningen have kept 95% of their XI and are W W D D L, though they have Mercera, Hernes, Jeng and others out. Groningen beat Ajax 3-1 in March, but Ajax won both of the other recent meetings. The exchange already makes Ajax only 1.96, which allows for most of this, so Groningen at 3.70 is not far enough above fair to back. No bet."
     },
     {
-      "number": 11,
+      "number": 23,
       "league": "Austrian Bundesliga",
       "time": "16:00 UK",
       "match": "Sturm Graz vs Grazer AK",
@@ -191,14 +388,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.73*",
-        "draw": "3.70*",
-        "away": "4.20*"
+        "home": "1.88*",
+        "draw": "3.95*",
+        "away": "4.40*"
       },
-      "analysis": "Prices: Sturm Graz 1.73 / Draw 3.70 / Grazer AK 4.20. Over 2.5 1.70 / Under 2.5 2.10; BTTS Yes 1.67 / No 2.10. Sturm are L W W L D and Grazer AK D W D W W. Sturm at 1.73 leaves no margin against a side in that form. No bet."
+      "analysis": "Prices: Sturm Graz 1.88 / Draw 3.95 / Grazer AK 4.40. Over 2.5 1.77 / Under 2.5 2.26; BTTS Yes 1.86 / No 2.17. Sturm are L W W L D and Grazer AK D W D W W. Sturm at 1.88 leaves no margin against a side in that form. No bet."
     },
     {
-      "number": 12,
+      "number": 24,
       "league": "Ligue 1",
       "time": "16:15 UK",
       "match": "Le Havre vs Auxerre",
@@ -207,14 +404,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "2.30*",
-        "draw": "3.25*",
-        "away": "2.90*"
+        "home": "2.40*",
+        "draw": "3.55*",
+        "away": "3.25*"
       },
-      "analysis": "Prices: Le Havre 2.30 / Draw 3.25 / Auxerre 2.90. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.73 / No 2.05. Le Havre are L W L D L and Auxerre L W W W L. The prices are level. No bet."
+      "analysis": "Prices: Le Havre 2.40 / Draw 3.55 / Auxerre 3.25. Over 2.5 1.92 / Under 2.5 2.04; BTTS Yes 1.87 / No 2.15. Le Havre are L W L D L and Auxerre L W W W L. The prices are level. No bet."
     },
     {
-      "number": 13,
+      "number": 25,
       "league": "Ligue 1",
       "time": "16:15 UK",
       "match": "Lorient vs Monaco",
@@ -223,14 +420,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "3.50*",
-        "draw": "3.30*",
-        "away": "2.00*"
+        "home": "3.90*",
+        "draw": "3.55*",
+        "away": "2.14*"
       },
-      "analysis": "Prices: Lorient 3.50 / Draw 3.30 / Monaco 2.00. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.75 / No 2.05. Lorient are W L D W L and Monaco D W D W W. Monaco at 2.00 away from home is a fair price. No bet."
+      "analysis": "Prices: Lorient 3.90 / Draw 3.55 / Monaco 2.14. Over 2.5 2.00 / Under 2.5 1.95; BTTS Yes 1.94 / No 2.07. Lorient are W L D W L and Monaco D W D W W. Monaco at 2.14 away from home is a fair price. No bet."
     },
     {
-      "number": 14,
+      "number": 26,
       "league": "Ligue 1",
       "time": "16:15 UK",
       "match": "Paris FC vs Rennes",
@@ -239,14 +436,46 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "2.25*",
-        "draw": "3.30*",
-        "away": "3.00*"
+        "home": "2.22*",
+        "draw": "3.70*",
+        "away": "3.55*"
       },
-      "analysis": "Prices: Paris FC 2.25 / Draw 3.30 / Rennes 3.00. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.57 / No 2.40. Paris FC are L W D W W and Rennes W W L L D. The prices are level. No bet."
+      "analysis": "Prices: Paris FC 2.22 / Draw 3.70 / Rennes 3.55. Over 2.5 1.71 / Under 2.5 2.38; BTTS Yes 1.77 / No 2.30. Paris FC are L W D W W and Rennes W W L L D. The prices are level. No bet."
     },
     {
-      "number": 15,
+      "number": 27,
+      "league": "Bundesliga",
+      "time": "16:30 UK",
+      "match": "Borussia Monchengladbach vs Hoffenheim",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.25*",
+        "draw": "4.20*",
+        "away": "2.18*"
+      },
+      "analysis": "Prices: Borussia Monchengladbach 3.25 / Draw 4.20 / Hoffenheim 2.18. Over 2.5 1.42 / Under 2.5 3.25; BTTS Yes 1.66 / No 2.52. Hoffenheim at 2.18 away from home is the favourite. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 28,
+      "league": "Polish Ekstraklasa",
+      "time": "16:30 UK",
+      "match": "Lech Poznan vs Korona Kielce",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.57*",
+        "draw": "4.70*",
+        "away": "5.80*"
+      },
+      "analysis": "Prices: Lech Poznan 1.57 / Draw 4.70 / Korona Kielce 5.80. Over 2.5 1.61 / Under 2.5 2.54; BTTS Yes 1.94 / No 2.06. Lech at 1.57 is a short price for the home side. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 29,
       "league": "EPL",
       "time": "16:30 UK",
       "match": "Nottingham Forest vs Arsenal",
@@ -255,14 +484,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "5.50*",
-        "draw": "3.60*",
-        "away": "1.62*"
+        "home": "7.20*",
+        "draw": "4.10*",
+        "away": "1.60*"
       },
-      "analysis": "Prices: Nottingham Forest 5.50 / Draw 3.60 / Arsenal 1.62. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.91 / No 1.85. Arsenal have Saliba, Hincapie and Tzolis out with Zubimendi and Mosquera doubtful, play in the Champions League three days later and are expected to rotate (45% of the XI kept). Forest have kept 84% of their XI but have Savona and Igor Jesus out, with Gibbs-White, Milenkovic and Williams doubtful, and are L L W D D. Arsenal at 1.62 already carries the rotation and Forest at 5.50 is too long. No bet."
+      "analysis": "Prices: Nottingham Forest 7.20 / Draw 4.10 / Arsenal 1.60. Over 2.5 1.98 / Under 2.5 2.00; BTTS Yes 2.16 / No 1.86. Arsenal have Saliba, Hincapie and Tzolis out with Zubimendi and Mosquera doubtful, play in the Champions League three days later and are expected to rotate (45% of the XI kept). Forest have kept 84% of their XI but have Savona and Igor Jesus out, with Gibbs-White, Milenkovic and Williams doubtful, and are L L W D D. Arsenal at 1.60 already carries the rotation and Forest at 7.20 is too long. No bet."
     },
     {
-      "number": 16,
+      "number": 30,
       "league": "Serie A",
       "time": "17:00 UK",
       "match": "AC Milan vs Atalanta",
@@ -271,14 +500,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.83*",
-        "draw": "3.50*",
-        "away": "4.00*"
+        "home": "1.86*",
+        "draw": "3.95*",
+        "away": "4.60*"
       },
-      "analysis": "Prices: AC Milan 1.83 / Draw 3.50 / Atalanta 4.00. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.73 / No 2.05. Milan are W D W L D and Atalanta W W L L L. Milan at 1.83 is a fair price. No bet."
+      "analysis": "Prices: AC Milan 1.86 / Draw 3.95 / Atalanta 4.60. Over 2.5 1.75 / Under 2.5 2.28; BTTS Yes 1.85 / No 2.18. Milan are W D W L D and Atalanta W W L L L. Milan at 1.86 is a fair price. No bet."
     },
     {
-      "number": 17,
+      "number": 31,
       "league": "Danish Superliga",
       "time": "17:00 UK",
       "match": "FC Copenhagen vs Aarhus",
@@ -287,14 +516,30 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.62*",
-        "draw": "3.90*",
-        "away": "4.60*"
+        "home": "1.63*",
+        "draw": "4.50*",
+        "away": "5.70*"
       },
-      "analysis": "Prices: FC Copenhagen 1.62 / Draw 3.90 / Aarhus 4.60. Over 2.5 1.62 / Under 2.5 2.25; BTTS Yes 1.62 / No 2.20. Copenhagen are W L L W W and Aarhus L W W D W. Copenhagen at 1.62 is a fair price. No bet."
+      "analysis": "Prices: FC Copenhagen 1.63 / Draw 4.50 / Aarhus 5.70. Over 2.5 1.68 / Under 2.5 2.40; BTTS Yes 1.92 / No 2.09. Copenhagen are W L L W W and Aarhus L W W D W. Copenhagen at 1.63 is a fair price. No bet."
     },
     {
-      "number": 18,
+      "number": 32,
+      "league": "Czech First League",
+      "time": "17:00 UK",
+      "match": "Jablonec vs Viktoria Plzen",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.80*",
+        "draw": "3.65*",
+        "away": "2.58*"
+      },
+      "analysis": "Prices: Jablonec 2.80 / Draw 3.65 / Viktoria Plzen 2.58. Over 2.5 1.88 / Under 2.5 2.08; BTTS Yes 1.85 / No 2.18. The prices are level between the sides. We found no team news to add and the price looks fair. No bet."
+    },
+    {
+      "number": 33,
       "league": "La Liga",
       "time": "17:30 UK",
       "match": "Malaga vs Real Sociedad",
@@ -303,14 +548,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "3.20*",
-        "draw": "3.30*",
-        "away": "2.15*"
+        "home": "3.50*",
+        "draw": "3.70*",
+        "away": "2.22*"
       },
-      "analysis": "Prices: Malaga 3.20 / Draw 3.30 / Real Sociedad 2.15. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.62 / No 2.25. Malaga are D L L D D and Sociedad D W W L L. Sociedad at 2.15 is a fair price. No bet."
+      "analysis": "Prices: Malaga 3.50 / Draw 3.70 / Real Sociedad 2.22. Over 2.5 1.77 / Under 2.5 2.28; BTTS Yes 1.80 / No 2.25. Malaga are D L L D D and Sociedad D W W L L. Sociedad at 2.22 is a fair price. No bet."
     },
     {
-      "number": 19,
+      "number": 34,
       "league": "Eredivisie",
       "time": "19:00 UK",
       "match": "NEC Nijmegen vs Fortuna Sittard",
@@ -319,30 +564,30 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.57*",
-        "draw": "4.00*",
-        "away": "4.60*"
+        "home": "1.74*",
+        "draw": "4.40*",
+        "away": "4.80*"
       },
-      "analysis": "Prices: NEC Nijmegen 1.57 / Draw 4.00 / Fortuna Sittard 4.60. Over 2.5 1.40 / Under 2.5 2.88; BTTS Yes 1.44 / No 2.62. NEC are D D L D L without a win and Fortuna are D W L W W. NEC at 1.57 leaves no margin on that record. No bet."
+      "analysis": "Prices: NEC Nijmegen 1.74 / Draw 4.40 / Fortuna Sittard 4.80. Over 2.5 1.52 / Under 2.5 2.86; BTTS Yes 1.76 / No 2.31. NEC are D D L D L without a win and Fortuna are D W L W W. NEC at 1.74 leaves no margin on that record. No bet."
     },
     {
-      "number": 20,
+      "number": 35,
       "league": "Eredivisie",
       "time": "19:00 UK",
       "match": "Twente vs Utrecht",
-      "status": "danger",
+      "status": "skip",
       "featured": false,
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.33*",
-        "draw": "5.00*",
-        "away": "7.00*"
+        "home": "1.40*",
+        "draw": "6.00*",
+        "away": "8.00*"
       },
-      "analysis": "Prices: Twente 1.33 / Draw 5.00 / Utrecht 7.00. Over 2.5 1.33 / Under 2.5 3.40; BTTS Yes 1.53 / No 2.40. Twente are W D W W W. A 1.33 favourite is too short to back. No bet."
+      "analysis": "Prices: Twente 1.40 / Draw 6.00 / Utrecht 8.00. Over 2.5 1.40 / Under 2.5 3.35; BTTS Yes 1.91 / No 2.10. Twente are W D W W W. A 1.40 favourite leaves no margin. No bet."
     },
     {
-      "number": 21,
+      "number": 36,
       "league": "Serie A",
       "time": "19:45 UK",
       "match": "Juventus vs Lazio",
@@ -351,14 +596,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.62*",
-        "draw": "3.70*",
-        "away": "5.00*"
+        "home": "1.70*",
+        "draw": "4.00*",
+        "away": "6.00*"
       },
-      "analysis": "Prices: Juventus 1.62 / Draw 3.70 / Lazio 5.00. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.83 / No 1.91. Lazio are unbeaten in five (W D W W D) and Juventus W D L W W. A 1.62 favourite against that run leaves no margin. No bet."
+      "analysis": "Prices: Juventus 1.70 / Draw 4.00 / Lazio 6.00. Over 2.5 2.04 / Under 2.5 1.94; BTTS Yes 2.15 / No 1.87. Lazio are unbeaten in five (W D W W D) and Juventus W D L W W. A 1.70 favourite against that run leaves no margin. No bet."
     },
     {
-      "number": 22,
+      "number": 37,
       "league": "Ligue 1",
       "time": "19:45 UK",
       "match": "Lyon vs Nice",
@@ -367,14 +612,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.67*",
-        "draw": "3.80*",
-        "away": "4.75*"
+        "home": "1.99*",
+        "draw": "3.95*",
+        "away": "4.00*"
       },
-      "analysis": "Prices: Lyon 1.67 / Draw 3.80 / Nice 4.75. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.65 / No 2.20. Lyon are W L W W D and Nice W W L D L. Lyon at 1.67 is a fair price. No bet."
+      "analysis": "Prices: Lyon 1.99 / Draw 3.95 / Nice 4.00. Over 2.5 1.74 / Under 2.5 2.30; BTTS Yes 1.85 / No 2.18. Lyon are W L W W D and Nice W W L D L. Lyon at 1.99 is a fair price. No bet."
     },
     {
-      "number": 23,
+      "number": 38,
       "league": "La Liga",
       "time": "20:00 UK",
       "match": "Real Madrid vs Sevilla",
@@ -383,14 +628,14 @@
       "bet_headline": "No bet",
       "stake": "-",
       "odds": {
-        "home": "1.25*",
-        "draw": "5.80*",
-        "away": "10.00*"
+        "home": "1.26*",
+        "draw": "7.60*",
+        "away": "12.00*"
       },
-      "analysis": "Prices: Real Madrid 1.25 / Draw 5.80 / Sevilla 10.00. Over 2.5 1.40 / Under 2.5 3.00; BTTS Yes 1.85 / No 1.91. Madrid are W W L W W. A 1.25 favourite is too short to back. No bet."
+      "analysis": "Prices: Real Madrid 1.26 / Draw 7.60 / Sevilla 12.00. Over 2.5 1.44 / Under 2.5 3.20; BTTS Yes 2.17 / No 1.85. Madrid are W W L W W. A 1.26 favourite is too short to back. No bet."
     }
   ],
   "no_fixture_today": "No fixtures today in the Belgian Pro League, Primeira Liga or Swiss Super League, and no Championship games.",
-  "avoid": "Favourites priced under 1.40 (Real Madrid, Twente). The return does not justify the risk.",
-  "footer": "Odds marked * were taken from public price pages on 18 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $538.44. Bet responsibly."
+  "avoid": "Favourites priced under 1.40 (Real Madrid). The return does not justify the risk.",
+  "footer": "Match odds and goals prices marked * are Betfair exchange back prices taken on 18 Oct 2026 and move before kickoff. BTTS prices are worked out from the correct-score market. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $538.44. Bet responsibly."
 }
