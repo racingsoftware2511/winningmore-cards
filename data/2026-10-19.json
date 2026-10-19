@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-19",
+  "card_number": 24,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League"
+  ],
+  "lesson": "Sunday's one bet lost: Leeds drew 1-1 with Manchester United, costing $5.38. Monday is a light card of six games, and none has a gap between team news and price large enough to back. Passing on a day like this is part of the plan.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Serie A",
+      "time": "17:30 UK",
+      "match": "Monza vs Cagliari",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.38*",
+        "draw": "3.00*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Monza 2.38 / Draw 3.00 / Cagliari 3.00. Over 2.5 2.10 / Under 2.5 1.73; BTTS Yes 1.80 / No 2.00. Monza are L D L W L and Cagliari D W W W L. The prices are level for a match between two similar sides, and we found no team news to separate them. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Polish Ekstraklasa",
+      "time": "18:00 UK",
+      "match": "Wisla Plock vs Radomiak Radom",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.91*",
+        "draw": "3.50*",
+        "away": "3.50*"
+      },
+      "analysis": "Prices: Wisla Plock 1.91 / Draw 3.50 / Radomiak Radom 3.50. Over 2.5 1.60 / Under 2.5 2.30; BTTS Yes 1.55 / No 2.30. Plock are L W W W D and Radomiak L W L L D. Plock at 1.91 already reflects the gap and we found no team news to add. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Serie A",
+      "time": "19:45 UK",
+      "match": "Parma vs Torino",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.10*",
+        "draw": "2.90*",
+        "away": "2.38*"
+      },
+      "analysis": "Prices: Parma 3.10 / Draw 2.90 / Torino 2.38. Over 2.5 2.38 / Under 2.5 1.57; BTTS Yes 2.00 / No 1.75. Parma are L W L D L and Torino W D L W L. Level form and level prices. No bet."
+    },
+    {
+      "number": 4,
+      "league": "La Liga",
+      "time": "20:00 UK",
+      "match": "Getafe vs Rayo Vallecano",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.80*",
+        "draw": "2.90*",
+        "away": "2.62*"
+      },
+      "analysis": "Prices: Getafe 2.80 / Draw 2.90 / Rayo Vallecano 2.62. Over 2.5 2.62 / Under 2.5 1.50; BTTS Yes 2.05 / No 1.75. Getafe have Mario Martin suspended, Azon, Juanmi and Uche out and five more doubtful, and they play in the Conference League three days later, so rotation is likely. Rayo have Ratiu, Batalla and Luiz Felipe out but have kept 80% of their XI. The prices already make Rayo the slight favourite at 2.62, which allows for most of this. No bet."
+    },
+    {
+      "number": 5,
+      "league": "EPL",
+      "time": "20:00 UK",
+      "match": "Tottenham Hotspur vs Coventry City",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.33*",
+        "away": "5.80*"
+      },
+      "analysis": "Prices: Tottenham Hotspur 1.50 / Draw 4.33 / Coventry City 5.80. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.67 / No 2.10. Tottenham have not won in five (D L L D D), have Bentancur suspended, Simons, Odobert and Mudryk out and Kulusevski and Porro doubtful, and rotate heavily (45% of the XI kept). Coventry beat Newcastle 4-1 last time, though they have Amenda, Eccles, Woolfenden and Wright out. Tottenham at 1.50 is a short price for that form, but Coventry at 5.80 is about where we would price them, so there is no edge on either side. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Primeira Liga",
+      "time": "20:15 UK",
+      "match": "SC Braga vs Gil Vicente",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.57*",
+        "draw": "3.70*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: SC Braga 1.57 / Draw 3.70 / Gil Vicente 5.50. Over 2.5 2.05 / Under 2.5 1.75; BTTS Yes 2.00 / No 1.73. Braga are L L D W L, including a 3-0 loss at Copenhagen and a 1-3 home loss to Sporting. Gil Vicente are W W D L L. A 1.57 favourite with that run leaves no margin. We found no team news to add. No bet."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in the Bundesliga, Ligue 1, Eredivisie, Championship, Belgian Pro League, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League or Czech First League.",
+  "avoid": "No favourite is priced under 1.40 today, but Tottenham at 1.50 and Braga at 1.57 leave no margin given their recent form.",
+  "footer": "Odds marked * were taken from public price pages on 19 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $533.06. Bet responsibly."
+}
