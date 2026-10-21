@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-21",
+  "card_number": 26,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League",
+    "Champions League"
+  ],
+  "lesson": "Tuesday's bet lost: Liverpool beat Villarreal 4-3, so Villarreal or Draw did not pay (-$5.33). Small edges lose often, which is why the stake stays at 1%. Wednesday has only one game in our 15 leagues, Levante v Athletic, so the card again adds the Champions League. The one play is Club Brugge at home against a Lens side missing several defenders.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Champions League",
+      "time": "17:45 UK",
+      "match": "Como vs Manchester United",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.25*",
+        "draw": "3.60*",
+        "away": "2.80*"
+      },
+      "analysis": "Prices: Como 2.25 / Draw 3.60 / Manchester United 2.80. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.55 / No 2.40. United are without Yoro (suspended), Sesko, Dorgu, Ugarte and Heaton, with Martinez and Rashford doubtful, and are D L D D L. Como have Kean and Diao out, Chalobah doubtful and a league game three days later, so they are expected to rotate (56% of the XI kept). Como are W L D L W. Como at 2.25 already prices United's absences. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Champions League",
+      "time": "17:45 UK",
+      "match": "Lille vs Galatasaray",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.15*",
+        "draw": "3.50*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Lille 2.15 / Draw 3.50 / Galatasaray 3.00. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.50 / No 2.50. Lille have Mbappe suspended and Santos, Ueda and Igamane out, and they rotate (64% of the XI kept). Galatasaray have Leao and Singo out with Torreira doubtful. Lille are D L W W L and Galatasaray W L W D L. The prices are level. No bet."
+    },
+    {
+      "number": 3,
+      "league": "La Liga",
+      "time": "19:00 UK",
+      "match": "Levante vs Athletic Club",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.30*",
+        "draw": "3.25*",
+        "away": "2.15*"
+      },
+      "analysis": "Prices: Levante 3.30 / Draw 3.25 / Athletic Club 2.15. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.80 / No 1.95. Levante are D D L L D and Athletic D D D W W, and neither side has a reported absence. Athletic at 2.15 away from home is a fair price. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Aston Villa vs Viking",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.25*",
+        "draw": "5.80*",
+        "away": "10.00*"
+      },
+      "analysis": "Prices: Aston Villa 1.25 / Draw 5.80 / Viking 10.00. Over 2.5 1.30 / Under 2.5 3.50; BTTS Yes 1.62 / No 2.25. Villa are W W D W W but have Maatsen, Ruggeri and Onana out and will rotate. A 1.25 favourite is too short to back. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Bayern Munich vs Arsenal",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.05*",
+        "draw": "3.70*",
+        "away": "3.10*"
+      },
+      "analysis": "Prices: Bayern Munich 2.05 / Draw 3.70 / Arsenal 3.10. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.53 / No 2.45. Bayern have Olise suspended and Musiala and Neuer out, and they are W D D W W. Arsenal have Saliba, Hincapie, Tzolis and Zubimendi out, rotate (44% of the XI kept) and are W W W L W. Both sets of absences are already in the 2.05 and 3.10. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Club Brugge vs Lens",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Club Brugge to Win",
+      "stake": "$5.28 @ ~2.05*",
+      "odds": {
+        "home": "2.05*",
+        "draw": "3.70*",
+        "away": "3.10*"
+      },
+      "analysis": "Prices: Club Brugge 2.05 / Draw 3.70 / Lens 3.10. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.44 / No 2.62. Brugge have won their last five (W W W W W), have kept 84% of their XI and have only Ordonez out. Lens are W L W L D and are missing Ganiou, Gradit, Nawrocki and Sima, with Todibo and Aguilar doubtful, so their back line is badly thinned. They also play in Ligue 1 three days later and are expected to rotate (55% of the XI kept). A settled home side against a depleted defence should be a little shorter than 2.05. Take 2.00 or better. Draw No Bet is about 1.60. The stake is 1%."
+    },
+    {
+      "number": 7,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Inter Milan vs Shakhtar Donetsk",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.20*",
+        "draw": "7.00*",
+        "away": "11.00*"
+      },
+      "analysis": "Prices: Inter Milan 1.20 / Draw 7.00 / Shakhtar Donetsk 11.00. Over 2.5 1.30 / Under 2.5 3.50; BTTS Yes 1.65 / No 2.20. Inter are W L W W D and Shakhtar W W W W W. A 1.20 favourite is too short to back. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Real Betis vs Feyenoord",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.50*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Real Betis 1.50 / Draw 4.50 / Feyenoord 5.00. Over 2.5 1.36 / Under 2.5 3.20; BTTS Yes 1.50 / No 2.50. Betis have Bernal suspended and Ruibal, Firpo and Hernandez out, and they rotate (47% of the XI kept). Feyenoord have eight players out or knocked (Beelen, Bos, Nieuwkoop, Moder, Smal, Nelson and others) but are W W W W W and settled. Betis at 1.50 already carries all of this. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Real Madrid vs RB Leipzig",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.25*",
+        "draw": "6.50*",
+        "away": "8.50*"
+      },
+      "analysis": "Prices: Real Madrid 1.25 / Draw 6.50 / RB Leipzig 8.50. Over 2.5 1.22 / Under 2.5 4.33; BTTS Yes 1.50 / No 2.50. Madrid have Mendy, Rodrygo, Asencio and Militao out but are W W W L W. Leipzig have Ouedraogo, Guiu and Baumgartner out. A 1.25 favourite is too short to back. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Sporting CP vs LASK",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.22*",
+        "draw": "6.50*",
+        "away": "10.00*"
+      },
+      "analysis": "Prices: Sporting CP 1.22 / Draw 6.50 / LASK 10.00. Over 2.5 1.33 / Under 2.5 3.40; BTTS Yes 1.67 / No 2.15. Sporting are W W D D W and LASK W L L W D. A 1.22 favourite is too short to back. No bet."
+    }
+  ],
+  "no_fixture_today": "No domestic fixtures today in the EPL, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie, Championship, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League, Polish Ekstraklasa or Czech First League. Levante v Athletic is the only La Liga game.",
+  "avoid": "Favourites priced under 1.40 (Inter, Sporting, Aston Villa, Real Madrid). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 21 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $527.73. Bet responsibly."
+}
