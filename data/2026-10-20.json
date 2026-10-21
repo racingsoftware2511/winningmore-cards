@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-20",
+  "card_number": 25,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League",
+    "Champions League"
+  ],
+  "lesson": "Tuesday's one bet lost: Liverpool beat Villarreal 4-3 despite their injury list, so Villarreal or Draw did not pay and the $5.33 stake was lost. The read on Liverpool's squad was reasonable, but a thin edge loses often, and this was a stake sized for that. Elsewhere the favourites we avoided at short prices all won, which is why we stay out of them: Manchester City 5-1 and Roma 4-0, with Dortmund winning 2-1 at Sabah.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Champions League",
+      "time": "17:45 UK",
+      "match": "Fenerbahce vs Slavia Praha",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.67*",
+        "draw": "3.90*",
+        "away": "4.40*"
+      },
+      "analysis": "Prices: Fenerbahce 1.67 / Draw 3.90 / Slavia Praha 4.40. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.67 / No 2.20. Fenerbahce are W L W W W and Slavia D L W W W. Fenerbahce at 1.67 is a fair price for the home side and we found no team news to add. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Champions League",
+      "time": "17:45 UK",
+      "match": "Sabah vs Borussia Dortmund",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "9.00*",
+        "draw": "5.80*",
+        "away": "1.29*"
+      },
+      "analysis": "Prices: Sabah 9.00 / Draw 5.80 / Borussia Dortmund 1.29. Over 2.5 1.40 / Under 2.5 3.00; BTTS Yes 1.73 / No 2.10. Sabah are W W D W W and Dortmund D L D W W. A 1.29 favourite is too short to back. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Championship",
+      "time": "19:45 UK",
+      "match": "Wolverhampton Wanderers vs Portsmouth",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "3.90*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Wolverhampton Wanderers 1.62 / Draw 3.90 / Portsmouth 5.00. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.75 / No 1.95. Wolves are W L L W L, have Jimenez, Traore, Armstrong, Gomes and Mosquera out and rotate (45% of the XI kept). Portsmouth are W W L D D and have kept 80% of their XI, but have nine players out (Arthur, Ogilvie, Shaughnessy, Brooke-Smith, Kosznovszky, Murphy, Umeh, Waddingham and others). Both squads are thin, and Wolves at 1.62 already carries that. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Liverpool vs Villarreal",
+      "status": "primary",
+      "featured": true,
+      "bet_headline": "Villarreal or Draw (Double Chance)",
+      "stake": "$5.33 @ ~2.35*",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.40*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: Liverpool 1.50 / Draw 4.40 / Villarreal 5.50. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.55 / No 2.45. Liverpool are without Ekitike, Frimpong, Szoboszlai, Bradley, Leoni and Gakpo, with Isak listed as out in one report and in the predicted XI in another, and they have kept only 45% of their XI over six games. They played in the league three days earlier and are expected to rotate. Villarreal have Buchanan, Pepe and Gulacsi out but are D W L W W. A 1.50 price asks Liverpool to win comfortably with that squad, and one data model gives them under 50%. Villarreal or draw pays about 2.35, so take 2.30 or better. The edge is small, so the stake is 1%.",
+      "result": {
+        "score": "4-3",
+        "outcome": "lost",
+        "pnl": -5.33
+      }
+    },
+    {
+      "number": 5,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Manchester City vs AEK Athens",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.08*",
+        "draw": "11.00*",
+        "away": "23.00*"
+      },
+      "analysis": "Prices: Manchester City 1.08 / Draw 11.00 / AEK Athens 23.00. Over 2.5 1.25 / Under 2.5 4.00; BTTS Yes 2.15 / No 1.67. City are W L W W W and AEK L W W W D. A 1.08 favourite is too short to back. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Napoli vs Bodo/Glimt",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "4.20*",
+        "away": "4.60*"
+      },
+      "analysis": "Prices: Napoli 1.62 / Draw 4.20 / Bodo/Glimt 4.60. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.55 / No 2.45. Napoli are L L W D W and lost 1-0 at Venezia on Saturday. Bodo/Glimt are W W W W L. Napoli at 1.62 leaves no margin for a side in that form, but we found no team news to back the other side. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Paris Saint-Germain vs Barcelona",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.42*",
+        "draw": "4.25*",
+        "away": "2.42*"
+      },
+      "analysis": "Prices: Paris Saint-Germain 2.42 / Draw 4.25 / Barcelona 2.42. Over 2.5 1.26 / Under 2.5 4.05; BTTS Yes 1.25 / No 3.95. Both teams have won their last five. PSG have Mayulu and Longoni out and rotate (44% of the XI kept), and Barcelona have Raphinha, de Jong, Bardghji and Christensen out and played three days earlier. Both sides are priced at 2.42, which is where we would price them. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Porto vs PSV Eindhoven",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.62*",
+        "draw": "4.33*",
+        "away": "4.33*"
+      },
+      "analysis": "Prices: Porto 1.62 / Draw 4.33 / PSV Eindhoven 4.33. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.57 / No 2.38. Porto are L W W W W and PSV L L W L W. Porto at 1.62 is a fair price for the home side. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Roma vs Slovan Bratislava",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.15*",
+        "draw": "8.00*",
+        "away": "17.00*"
+      },
+      "analysis": "Prices: Roma 1.15 / Draw 8.00 / Slovan Bratislava 17.00. Over 2.5 1.28 / Under 2.5 3.75; BTTS Yes 1.85 / No 1.91. Roma are W L D D W. A 1.15 favourite is too short to back. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Champions League",
+      "time": "20:00 UK",
+      "match": "Stuttgart vs Atletico Madrid",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.10*",
+        "draw": "3.60*",
+        "away": "2.10*"
+      },
+      "analysis": "Prices: Stuttgart 3.10 / Draw 3.60 / Atletico Madrid 2.10. Over 2.5 1.53 / Under 2.5 2.50; BTTS Yes 1.44 / No 2.62. Stuttgart are L W W W W (the loss was 1-0 at Hamburg) and Atletico have won their last five. Atletico at 2.10 away from home is a fair price. No bet."
+    }
+  ],
+  "no_fixture_today": "No domestic fixtures today in the EPL, La Liga, Serie A, Bundesliga, Ligue 1, Belgian Pro League, Primeira Liga, Eredivisie, Danish Superliga, Scottish Premiership, Austrian Bundesliga, Swiss Super League, Polish Ekstraklasa or Czech First League. Wolves v Portsmouth is the only Championship game.",
+  "avoid": "Favourites priced under 1.40 (Manchester City, Roma, Dortmund). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 20 Oct 2026 and move before kickoff. The double chance price on Liverpool v Villarreal is worked out from the match odds, so check the live price. Only bet at the price shown or better. Stakes are a percentage of the current bankroll of $533.06. Bet responsibly."
+}
