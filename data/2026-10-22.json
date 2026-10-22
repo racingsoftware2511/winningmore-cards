@@ -1,0 +1,494 @@
+{
+  "date": "2026-10-22",
+  "card_number": 27,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Scottish Premiership",
+    "Austrian Bundesliga",
+    "Swiss Super League",
+    "Polish Ekstraklasa",
+    "Czech First League",
+    "Europa League",
+    "Conference League"
+  ],
+  "lesson": "Wednesday's one bet landed: Club Brugge beat Lens 3-0 at about 2.05 for +$5.54. Thursday has no games in our 15 leagues, so the card covers the Europa League and Conference League. We went through every game and found no case where team news and price disagree enough to back, so today is a pass. The closest were Juventus v Rennes and Sunderland at Lech, but the prices already sit close to fair.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Conference League",
+      "time": "15:30 UK",
+      "match": "Kairat Almaty vs Panathinaikos",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.80*",
+        "draw": "3.70*",
+        "away": "1.67*"
+      },
+      "analysis": "Prices: Kairat Almaty 4.80 / Draw 3.70 / Panathinaikos 1.67. Over 2.5 1.85 / Under 2.5 1.95; BTTS Yes 1.80 / No 2.00. Panathinaikos are W W L W W and Kairat W D W L L. Panathinaikos at 1.67 away from home is a fair price and we found no team news to add. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Ararat-Armenia vs AZ Alkmaar",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "5.50*",
+        "draw": "4.20*",
+        "away": "1.53*"
+      },
+      "analysis": "Prices: Ararat-Armenia 5.50 / Draw 4.20 / AZ Alkmaar 1.53. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.70 / No 2.15. AZ are D W L W L and Ararat W L D W W. AZ at 1.53 away from home leaves no margin on that record, and we found no team news. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Dinamo Zagreb vs NEC Nijmegen",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.65*",
+        "draw": "4.00*",
+        "away": "4.60*"
+      },
+      "analysis": "Prices: Dinamo Zagreb 1.65 / Draw 4.00 / NEC Nijmegen 4.60. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.57 / No 2.38. Dinamo are W W L W W and NEC D D D D L, a side that has not won in five. Dinamo at 1.65 is a fair price. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Ferencvaros vs Torreense",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.36*",
+        "draw": "4.80*",
+        "away": "7.50*"
+      },
+      "analysis": "Prices: Ferencvaros 1.36 / Draw 4.80 / Torreense 7.50. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.85 / No 1.91. Ferencvaros are unbeaten in five (two wins, three draws) and Torreense have two wins, a draw and two defeats. A 1.36 favourite is too short to back. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Getafe vs Lugano",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.80*",
+        "draw": "3.30*",
+        "away": "4.50*"
+      },
+      "analysis": "Prices: Getafe 1.80 / Draw 3.30 / Lugano 4.50. Over 2.5 2.08 / Under 2.5 1.73; BTTS Yes 1.85 / No 1.91. Getafe drew 1-1 with Rayo on Monday, are D D L W L and have a league game three days later. Lugano are W W W L W. Getafe at 1.80 is a fair price and we found no team news to add. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Inter Club d'Escaldes vs Universitatea Craiova",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "5.00*",
+        "draw": "3.80*",
+        "away": "1.62*"
+      },
+      "analysis": "Prices: Inter Club d'Escaldes 5.00 / Draw 3.80 / Universitatea Craiova 1.62. Over 2.5 1.90 / Under 2.5 1.90; BTTS Yes 1.85 / No 1.85. Craiova are W D W W W and Inter Club W L W L W. Craiova at 1.62 away from home is a fair price against the weaker side. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Jablonec vs Brighton",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "10.00*",
+        "draw": "5.50*",
+        "away": "1.29*"
+      },
+      "analysis": "Prices: Jablonec 10.00 / Draw 5.50 / Brighton 1.29. Over 2.5 1.50 / Under 2.5 2.50; BTTS Yes 1.85 / No 1.85. Brighton have won their last five, including 5-0 against Crystal Palace on Sunday. A 1.29 favourite is too short to back. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Juventus vs Rennes",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.57*",
+        "draw": "4.00*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Juventus 1.57 / Draw 4.00 / Rennes 5.00. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.75 / No 2.00. Juventus lost 3-0 at home to Lazio on Sunday, have Durmisi suspended and Yildiz, Conceicao, Grabara, Thuram, Locatelli and Ekhator out, and are L W D L W. Rennes are L W W L L, have Lepaul doubtful and rotate (55% of the XI kept). Juventus at 1.57 is a little short for that squad, but Rennes or draw at about 2.10 is not far enough above a fair price to back. No bet."
+    },
+    {
+      "number": 9,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Kauno Zalgiris vs Brann",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.20*",
+        "draw": "3.80*",
+        "away": "1.75*"
+      },
+      "analysis": "Prices: Kauno Zalgiris 4.20 / Draw 3.80 / Brann 1.75. Over 2.5 1.73 / Under 2.5 2.08; BTTS Yes 1.73 / No 2.10. Kauno are W L W W L and Brann L W L L W, yet Brann are the 1.75 favourites. We found no team news to explain that gap, so there is nothing to act on. No bet."
+    },
+    {
+      "number": 10,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Lech Poznan vs Sunderland",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.60*",
+        "draw": "3.90*",
+        "away": "1.67*"
+      },
+      "analysis": "Prices: Lech Poznan 4.60 / Draw 3.90 / Sunderland 1.67. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.75 / No 2.00. Lech are W L W D W with four players out (Moutinho, Sayyadmanesh, Gumny and Douglas). Sunderland are L W L L W, lost 2-0 at Bournemouth on Sunday, have Ballard, Mundle and Diarra out with Isidor and Meunier doubtful, and rotate (56% of the XI kept). Sunderland at 1.67 is a short price for that form, but Lech or draw pays only about 2.00, which is not enough to back. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "OFI vs Bayer Leverkusen",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "11.00*",
+        "draw": "6.00*",
+        "away": "1.22*"
+      },
+      "analysis": "Prices: OFI 11.00 / Draw 6.00 / Bayer Leverkusen 1.22. Over 2.5 1.36 / Under 2.5 3.20; BTTS Yes 1.73 / No 2.10. OFI are L L L D W and Leverkusen have won their last five. A 1.22 favourite is too short to back. No bet."
+    },
+    {
+      "number": 12,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Pafos vs Riga",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.65*",
+        "draw": "3.80*",
+        "away": "4.80*"
+      },
+      "analysis": "Prices: Pafos 1.65 / Draw 3.80 / Riga 4.80. Over 2.5 1.73 / Under 2.5 2.08; BTTS Yes 1.75 / No 2.05. Pafos are D L W L W and Riga W D W W W. Pafos at 1.65 is short for a side that has conceded six goals in five games. We found no team news to back Riga. No bet."
+    },
+    {
+      "number": 13,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Sturm Graz vs Marseille",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.40*",
+        "draw": "3.40*",
+        "away": "2.05*"
+      },
+      "analysis": "Prices: Sturm Graz 3.40 / Draw 3.40 / Marseille 2.05. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.25. Sturm have seven players out (Kiteishvili, Jatta, Grgic, Mamageishvili, Weiper, Soglo and Rozga) and a league game three days later. Marseille have Cornelius and Hojbjerg out with Abdallah doubtful and are expected to rotate (62% of the XI kept). Sturm are W L W W L and Marseille W L W L L. Marseille at 2.05 already prices Sturm's depleted squad. No bet."
+    },
+    {
+      "number": 14,
+      "league": "Conference League",
+      "time": "17:45 UK",
+      "match": "Trabzonspor vs Hearts",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.36*",
+        "draw": "5.00*",
+        "away": "7.00*"
+      },
+      "analysis": "Prices: Trabzonspor 1.36 / Draw 5.00 / Hearts 7.00. Over 2.5 1.48 / Under 2.5 2.60; BTTS Yes 1.67 / No 2.15. Trabzonspor are W W W L W and Hearts L D W D L. A 1.36 favourite is too short to back. No bet."
+    },
+    {
+      "number": 15,
+      "league": "Europa League",
+      "time": "17:45 UK",
+      "match": "Union Saint-Gilloise vs Hapoel Beer Sheva",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.30*",
+        "draw": "5.00*",
+        "away": "8.50*"
+      },
+      "analysis": "Prices: Union Saint-Gilloise 1.30 / Draw 5.00 / Hapoel Beer Sheva 8.50. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.75 / No 2.00. Union have not lost in five (W D D W W) and Hapoel are W L W W D. A 1.30 favourite is too short to back. No bet."
+    },
+    {
+      "number": 16,
+      "league": "Conference League",
+      "time": "20:00 UK",
+      "match": "Aarhus vs Egnatia",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.55*",
+        "draw": "4.00*",
+        "away": "5.50*"
+      },
+      "analysis": "Prices: Aarhus 1.55 / Draw 4.00 / Egnatia 5.50. Over 2.5 1.70 / Under 2.5 2.10; BTTS Yes 1.75 / No 2.00. Aarhus are D L W W D and Egnatia W D W W L. Aarhus at 1.55 leaves no margin and we found no team news. No bet."
+    },
+    {
+      "number": 17,
+      "league": "Conference League",
+      "time": "20:00 UK",
+      "match": "Ajax vs Atalanta",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.50*",
+        "away": "3.10*"
+      },
+      "analysis": "Prices: Ajax 2.10 / Draw 3.50 / Atalanta 3.10. Over 2.5 1.62 / Under 2.5 2.25; BTTS Yes 1.55 / No 2.40. Ajax have Henrique, Adingra, Gaaei, Berghuis, Dolberg and Blind out and rotate (56% of the XI kept). Atalanta have Hien, Sulemana, Raspadori, Kossounou, Scalvini and Kessie out with Bellanova doubtful. Ajax are W L D D W and Atalanta L W W L L. Both squads are depleted and the prices are level. No bet."
+    },
+    {
+      "number": 18,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Besiktas vs Crystal Palace",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.60*",
+        "away": "3.10*"
+      },
+      "analysis": "Prices: Besiktas 2.10 / Draw 3.60 / Crystal Palace 3.10. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.50 / No 2.50. Besiktas have Hyeon-gyu suspended and Rashica, Kokcu, Vlahovic and Cerny out, and they rotate (64% of the XI kept). Palace have Tomiyasu, Riad, Chilwell and Mateta out, Disasi serving a suspension and Henderson doubtful, and they lost 5-0 at Brighton on Sunday. Besiktas are L W W L W and Palace L L W L D. Both squads are thin and the prices are level. No bet."
+    },
+    {
+      "number": 19,
+      "league": "Conference League",
+      "time": "20:00 UK",
+      "match": "Borac Banja Luka vs KuPS",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.80*",
+        "draw": "3.40*",
+        "away": "4.40*"
+      },
+      "analysis": "Prices: Borac Banja Luka 1.80 / Draw 3.40 / KuPS 4.40. Over 2.5 1.95 / Under 2.5 1.85; BTTS Yes 1.80 / No 2.00. Borac are L W D L W and KuPS W L L L W. Borac at 1.80 is a fair price. No bet."
+    },
+    {
+      "number": 20,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Bournemouth vs AC Milan",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.15*",
+        "draw": "3.40*",
+        "away": "3.10*"
+      },
+      "analysis": "Prices: Bournemouth 2.15 / Draw 3.40 / AC Milan 3.10. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.25. Bournemouth beat Sunderland 2-0 on Sunday and have kept 80% of their XI, but have Scott, Kroupi, Araujo and Milosavljevic out with Adli and Kluivert doubtful. Milan have Terracciano suspended, Saelemaekers and Gabbia out and rotate (47% of the XI kept), and they beat Atalanta 3-2 on Sunday. Bournemouth at 2.15 already allows for Milan's changes. No bet."
+    },
+    {
+      "number": 21,
+      "league": "Conference League",
+      "time": "20:00 UK",
+      "match": "Braga vs Gent",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.70*",
+        "draw": "3.50*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Braga 1.70 / Draw 3.50 / Gent 5.00. Over 2.5 2.10 / Under 2.5 1.70; BTTS Yes 2.00 / No 1.80. Braga are L L L D W and Gent D W W W D, so Gent are in better form, but Braga are still 1.70 favourites at home. We found no team news to back Gent. No bet."
+    },
+    {
+      "number": 22,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Celje vs Red Bull Salzburg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.60*",
+        "draw": "3.90*",
+        "away": "1.67*"
+      },
+      "analysis": "Prices: Celje 4.60 / Draw 3.90 / Red Bull Salzburg 1.67. Over 2.5 1.67 / Under 2.5 2.20; BTTS Yes 1.65 / No 2.20. Celje are D L W D L and Salzburg W L D L W. Salzburg at 1.67 away from home leaves no margin on that form. No bet."
+    },
+    {
+      "number": 23,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Celtic vs Celta Vigo",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.62*",
+        "draw": "3.30*",
+        "away": "2.50*"
+      },
+      "analysis": "Prices: Celtic 2.62 / Draw 3.30 / Celta Vigo 2.50. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.65 / No 2.20. Celtic have Van den Berg, Mheuka, Hyun-jun, Johnston, Osmand and Duran out with Carter-Vickers doubtful, and are W L W L L. Celta have Duran, El Abdellaoui, Roman, Nunez, Starfelt and Iglesias out and rotate (58% of the XI kept). Celta beat Alaves 2-1 on Sunday and are W L D W L. Both squads are thin and the prices are level. No bet."
+    },
+    {
+      "number": 24,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Jagiellonia vs Anderlecht",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.00*",
+        "draw": "3.40*",
+        "away": "2.20*"
+      },
+      "analysis": "Prices: Jagiellonia 3.00 / Draw 3.40 / Anderlecht 2.20. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.30. Jagiellonia are L W L L W and Anderlecht L L W W W. The prices make Anderlecht the slight favourite, which fits their form. No bet."
+    },
+    {
+      "number": 25,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Lillestrom vs Real Sociedad",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "5.50*",
+        "draw": "4.33*",
+        "away": "1.50*"
+      },
+      "analysis": "Prices: Lillestrom 5.50 / Draw 4.33 / Real Sociedad 1.50. Over 2.5 1.62 / Under 2.5 2.30; BTTS Yes 1.70 / No 2.10. Lillestrom are W D D W L and Sociedad W D W W L, and Sociedad won 5-2 at Malaga on Sunday. Sociedad at 1.50 away from home is a fair price. No bet."
+    },
+    {
+      "number": 26,
+      "league": "Conference League",
+      "time": "20:00 UK",
+      "match": "Lincoln Red Imps vs Twente",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "12.00*",
+        "draw": "6.00*",
+        "away": "1.22*"
+      },
+      "analysis": "Prices: Lincoln Red Imps 12.00 / Draw 6.00 / Twente 1.22. Over 2.5 1.44 / Under 2.5 2.70; BTTS Yes 1.91 / No 1.85. Twente are L W D W W. A 1.22 favourite is too short to back. No bet."
+    },
+    {
+      "number": 27,
+      "league": "Conference League",
+      "time": "20:00 UK",
+      "match": "Monaco vs Freiburg",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.20*",
+        "draw": "3.50*",
+        "away": "2.90*"
+      },
+      "analysis": "Prices: Monaco 2.20 / Draw 3.50 / Freiburg 2.90. Over 2.5 1.70 / Under 2.5 2.10; BTTS Yes 1.62 / No 2.25. Monaco are L W D W D and lost 1-0 at Lorient on Sunday. Freiburg are L W W W D and lost 2-1 at Leverkusen on Sunday. The prices are level. No bet."
+    },
+    {
+      "number": 28,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Olympiakos vs Sparta Praha",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.50*",
+        "draw": "4.20*",
+        "away": "5.80*"
+      },
+      "analysis": "Prices: Olympiakos 1.50 / Draw 4.20 / Sparta Praha 5.80. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.85 / No 1.91. Olympiakos have won five in a row and Sparta are D D W W W. Olympiakos at 1.50 is a fair price for the home side. No bet."
+    },
+    {
+      "number": 29,
+      "league": "Europa League",
+      "time": "20:00 UK",
+      "match": "Omonia Nicosia vs Benfica",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "7.00*",
+        "draw": "4.75*",
+        "away": "1.40*"
+      },
+      "analysis": "Prices: Omonia Nicosia 7.00 / Draw 4.75 / Benfica 1.40. Over 2.5 1.57 / Under 2.5 2.38; BTTS Yes 1.80 / No 2.00. Omonia are D W W W W and Benfica W W L W W. Benfica at 1.40 away from home leaves no margin. No bet."
+    }
+  ],
+  "no_fixture_today": "No fixtures today in any of the 15 domestic leagues. The card covers the Europa League and Conference League instead.",
+  "avoid": "Favourites priced under 1.40 (Leverkusen, Union Saint-Gilloise, Brighton, Ferencvaros, Trabzonspor, Twente). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 22 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $533.27. Bet responsibly."
+}
