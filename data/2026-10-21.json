@@ -20,7 +20,7 @@
     "Czech First League",
     "Champions League"
   ],
-  "lesson": "Tuesday's bet lost: Liverpool beat Villarreal 4-3, so Villarreal or Draw did not pay (-$5.33). Small edges lose often, which is why the stake stays at 1%. Wednesday has only one game in our 15 leagues, Levante v Athletic, so the card again adds the Champions League. The one play is Club Brugge at home against a Lens side missing several defenders.",
+  "lesson": "Wednesday's one bet landed: Club Brugge beat Lens 3-0 at about 2.05 for +$5.54. The read was simple: a settled, in-form home side against a Lens defence missing several starters. We stayed out of the other nine games, where injuries were already in the price or the favourite was too short.",
   "matches": [
     {
       "number": 1,
@@ -116,7 +116,12 @@
         "draw": "3.70*",
         "away": "3.10*"
       },
-      "analysis": "Prices: Club Brugge 2.05 / Draw 3.70 / Lens 3.10. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.44 / No 2.62. Brugge have won their last five (W W W W W), have kept 84% of their XI and have only Ordonez out. Lens are W L W L D and are missing Ganiou, Gradit, Nawrocki and Sima, with Todibo and Aguilar doubtful, so their back line is badly thinned. They also play in Ligue 1 three days later and are expected to rotate (55% of the XI kept). A settled home side against a depleted defence should be a little shorter than 2.05. Take 2.00 or better. Draw No Bet is about 1.60. The stake is 1%."
+      "analysis": "Prices: Club Brugge 2.05 / Draw 3.70 / Lens 3.10. Over 2.5 1.44 / Under 2.5 2.75; BTTS Yes 1.44 / No 2.62. Brugge have won their last five (W W W W W), have kept 84% of their XI and have only Ordonez out. Lens are W L W L D and are missing Ganiou, Gradit, Nawrocki and Sima, with Todibo and Aguilar doubtful, so their back line is badly thinned. They also play in Ligue 1 three days later and are expected to rotate (55% of the XI kept). A settled home side against a depleted defence should be a little shorter than 2.05. Take 2.00 or better. Draw No Bet is about 1.60. The stake is 1%.",
+      "result": {
+        "score": "3-0",
+        "outcome": "won",
+        "pnl": 5.54
+      }
     },
     {
       "number": 7,
