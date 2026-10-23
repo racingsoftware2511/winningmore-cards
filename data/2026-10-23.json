@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-23",
+  "card_number": 28,
+  "season_label": "2026/27 Season",
+  "leagues_covered": [
+    "EPL",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Belgian Pro League",
+    "Primeira Liga",
+    "Eredivisie",
+    "Championship",
+    "Danish Superliga",
+    "Polish Ekstraklasa"
+  ],
+  "lesson": "Friday has 12 games across our leagues, and we found no case where team news and price disagree enough to back, so today is a pass. Gornik away at Widzew was the closest, but at 2.30 the table position is already in the price. No bet keeps the bankroll at $533.27.",
+  "matches": [
+    {
+      "number": 1,
+      "league": "Ekstraklasa",
+      "time": "17:00 UK",
+      "match": "Motor Lublin vs Zaglebie Lubin",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.95*",
+        "draw": "3.30*",
+        "away": "3.60*"
+      },
+      "analysis": "Prices: Motor Lublin 1.95 / Draw 3.30 / Zaglebie 3.60. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.65 / No 2.15. The market makes this a close game and we found no team news to disagree with it. No bet."
+    },
+    {
+      "number": 2,
+      "league": "Danish Superliga",
+      "time": "18:00 UK",
+      "match": "Randers vs Brondby",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.40*",
+        "draw": "3.50*",
+        "away": "1.95*"
+      },
+      "analysis": "Prices: Randers 3.40 / Draw 3.50 / Brondby 1.95. Over 2.5 1.60 / Under 2.5 2.30; BTTS Yes 1.53 / No 2.38. Brondby are L W D L W and Randers D L L W L, so 1.95 away is fair. No bet."
+    },
+    {
+      "number": 3,
+      "league": "Eredivisie",
+      "time": "19:00 UK",
+      "match": "Go Ahead Eagles vs Telstar",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.57*",
+        "draw": "4.00*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Go Ahead Eagles 1.57 / Draw 4.00 / Telstar 5.00. Over 2.5 1.44 / Under 2.5 2.70; BTTS Yes 1.44 / No 2.60. Go Ahead are L D D D D and Telstar L D L D L. A winless home side at 1.57 offers no value. No bet."
+    },
+    {
+      "number": 4,
+      "league": "Bundesliga",
+      "time": "19:30 UK",
+      "match": "Stuttgart vs Gladbach",
+      "status": "danger",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.36*",
+        "draw": "5.00*",
+        "away": "6.00*"
+      },
+      "analysis": "Prices: Stuttgart 1.36 / Draw 5.00 / Gladbach 6.00. Over 2.5 1.28 / Under 2.5 3.75; BTTS Yes 1.44 / No 2.70. Gladbach are winless in six, but Stuttgart at 1.36 is too short to pay for the risk. No bet."
+    },
+    {
+      "number": 5,
+      "league": "Ekstraklasa",
+      "time": "19:30 UK",
+      "match": "Widzew vs Gornik",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.80*",
+        "draw": "3.20*",
+        "away": "2.30*"
+      },
+      "analysis": "Prices: Widzew 2.80 / Draw 3.20 / Gornik 2.30. Over 2.5 1.79 / Under 2.5 1.94; BTTS Yes 1.67 / No 2.10. Gornik lead the table on 26 points against Widzew in 14th on 10, who are D L D D D. That is the one mild lean of the day, but 2.30 is already priced as a leader away from home. No bet."
+    },
+    {
+      "number": 6,
+      "league": "Serie A",
+      "time": "19:45 UK",
+      "match": "Torino vs Monza",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.10*",
+        "draw": "3.30*",
+        "away": "3.30*"
+      },
+      "analysis": "Prices: Torino 2.10 / Draw 3.30 / Monza 3.30. Over 2.5 1.91 / Under 2.5 1.91; BTTS Yes 1.73 / No 2.05. Torino are missing five players, including goalkeeper Israel, and Monza six, so the injuries roughly cancel out and 2.10 is fair. No bet."
+    },
+    {
+      "number": 7,
+      "league": "Ligue 1",
+      "time": "19:45 UK",
+      "match": "Brest vs Nice",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.20*",
+        "draw": "3.30*",
+        "away": "3.00*"
+      },
+      "analysis": "Prices: Brest 2.20 / Draw 3.30 / Nice 3.00. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.57 / No 2.40. Brest are D W D L L and Nice L W W L D, with nothing in the team news to split them. No bet."
+    },
+    {
+      "number": 8,
+      "league": "Belgian Pro League",
+      "time": "19:45 UK",
+      "match": "Kortrijk vs Mechelen",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "2.40*",
+        "draw": "3.30*",
+        "away": "2.62*"
+      },
+      "analysis": "Prices: Kortrijk 2.40 / Draw 3.30 / Mechelen 2.62. Over 2.5 1.80 / Under 2.5 2.00; BTTS Yes 1.65 / No 2.15. Kortrijk are L W L L L and Mechelen W D L L D, and the price treats them as near equals. No bet."
+    },
+    {
+      "number": 9,
+      "league": "La Liga",
+      "time": "20:00 UK",
+      "match": "Alaves vs Malaga",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.70*",
+        "draw": "3.50*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Alaves 1.70 / Draw 3.50 / Malaga 5.00. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.91 / No 1.83. Alaves are L L D L L with Garces suspended and Rodriguez out, while Malaga are 20th without a win. Both weaknesses are already in the price. No bet."
+    },
+    {
+      "number": 10,
+      "league": "EPL",
+      "time": "20:00 UK",
+      "match": "Ipswich vs Nottingham Forest",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "3.00*",
+        "draw": "3.30*",
+        "away": "2.25*"
+      },
+      "analysis": "Prices: Ipswich 3.00 / Draw 3.30 / Forest 2.25. Over 2.5 1.73 / Under 2.5 2.10; BTTS Yes 1.57 / No 2.30. Forest are 19th with five points and are missing Igor Jesus, Savona and Gibbs-White, with Milenkovic doubtful. Ipswich are rotating and have Taylor and Lukic doubtful, so the price already reflects both squads. No bet."
+    },
+    {
+      "number": 11,
+      "league": "Championship",
+      "time": "20:00 UK",
+      "match": "Bolton vs Middlesbrough",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "4.40*",
+        "draw": "4.00*",
+        "away": "1.65*"
+      },
+      "analysis": "Prices: Bolton 4.40 / Draw 4.00 / Middlesbrough 1.65. Over 2.5 1.50 / Under 2.5 2.62; BTTS Yes 1.50 / No 2.45. Middlesbrough are missing Jones, Pukstas and Strelec but have won 12 of 14 meetings, and Bolton are without Forino-Joseph. 1.65 is fair. No bet."
+    },
+    {
+      "number": 12,
+      "league": "Primeira Liga",
+      "time": "20:45 UK",
+      "match": "Vitoria Guimaraes vs Maritimo",
+      "status": "skip",
+      "featured": false,
+      "bet_headline": "No bet",
+      "stake": "-",
+      "odds": {
+        "home": "1.65*",
+        "draw": "3.60*",
+        "away": "5.00*"
+      },
+      "analysis": "Prices: Vitoria 1.65 / Draw 3.60 / Maritimo 5.00. Over 2.5 2.00 / Under 2.5 1.80; BTTS Yes 1.95 / No 1.75. Both sides have struggled recently, so there is no clear angle at 1.65. No bet."
+    }
+  ],
+  "no_fixture_today": "No games today in the Scottish Premiership, Swiss Super League or Czech First League.",
+  "avoid": "Favourites priced under 1.40 (Stuttgart). The return does not justify the risk.",
+  "footer": "Odds marked * were taken from public price pages on 23 Oct 2026 and move before kickoff. Check the live price and only bet at the price shown or better. Stakes are a percentage of the current bankroll of $533.27. Bet responsibly."
+}
